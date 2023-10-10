@@ -21,3 +21,15 @@
 ## 22 Sep 2023
 
 * *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
+
+## 29 Sep 2023
+
+* *1.5 hours* Background research, read online articles on MetaGPT and briefly went over 'MetaGPT: Meta Programming for Multi-Agent Collaborative Framework'
+
+## 2 Oct 2023
+
+* *2 hours* Reread 'MetaGPT: Meta Programming for Multi-Agent Collaborative Framework' in more depth, this time making notes and research new to me phrases
+
+## 3 Oct 2023
+
+* *1 hour* Met with other student with same diss topic
