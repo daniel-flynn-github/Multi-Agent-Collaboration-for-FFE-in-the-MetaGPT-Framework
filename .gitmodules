@@ -1,0 +1,3 @@
+[submodule "data/MetaGPT-dissertation-fork"]
+	path = data/MetaGPT-dissertation-fork
+	url = https://github.com/daniel-flynn-github/MetaGPT-dissertation-fork.git
