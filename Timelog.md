@@ -33,3 +33,22 @@
 ## 3 Oct 2023
 
 * *1 hour* Met with other student with same diss topic
+
+## 6 Oct 2023
+
+* *0.5 hour* Meeting with Dr Grizou and Ash
+
+## 9 Oct 2023
+
+* *3 hours* Implemented Github Fork as submodule, Installed MetaGPT, fixed issues with NodeJS, created virtual environment, fixed other miscallaneous installation issues
+
+## 10 Oct 2023
+* *1 hour* Met with Ash to discuss progress, went over codebase together
+* *3 hours* Research possible ways to run LLM for free, was not successfull
+* *0.5 hour* Set up Open AI account, configured key in MetaGPT installation
+
+## 13 Oct 2023
+* *0.5 hour* Meeting with Dr Grizou and Ash
+
+## 16 Oct 2023
+* *5 hours* Read through core functionality python files in the codebase (a lot). Started to deconstruct how the program works and where I can implement changes
