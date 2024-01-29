@@ -1,0 +1,3 @@
+Product: Interactive Showcase App
+Initiative: Interactive Product Showcase
+Product Description: The Interactive Showcase App is a digital platform where users can showcase their visually appealing and innovative products in an interactive way. Users can upload images, videos, and 3D models of their products, and provide a seamless browsing experience for viewers. The app allows users to add descriptions, specifications, and even allows viewers to virtually interact with the products.

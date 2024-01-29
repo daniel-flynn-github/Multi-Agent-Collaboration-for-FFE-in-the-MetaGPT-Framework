@@ -1,0 +1,31 @@
+Product: Baguette Resealer
+Product Description: A handheld device that can reseal the packaging of a baguette, preventing air from entering and keeping it fresh for a longer period. The resealer uses heat technology to seal the packaging effectively. It is compact and easy to use, allowing customers to extend the shelf life of their baguettes.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: Feasible given the company's resources, budget, and timeframe.
+      Score: 80
+  Go to Market:
+         Reasoning: Moderately feasible as it may require educating customers about the benefits of resealing baguettes.
+      Score: 70
+  Required Partners:
+         Reasoning: No partners required.
+      Score: 100
+  Compatibility with Company:
+         Reasoning: Compatible as it can be easily incorporated into the company's existing baguette packaging.
+      Score: 90
+
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: Feasible given the company's resources, budget, and timeframe.
+      Score: 80
+  Potential Attractive Returns:
+         Reasoning: Moderate potential returns as it caters to a specific customer need.
+      Score: 70
+  Protectable Advantage:
+         Reasoning: Limited protectable advantage as similar products may already exist in the market.
+      Score: 50
+  Likelihood of disruptive impact with Company:
+         Reasoning: Low likelihood of disruptive impact as it is a niche product.
+      Score: 20

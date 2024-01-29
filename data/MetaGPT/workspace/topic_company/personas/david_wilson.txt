@@ -1,0 +1,12 @@
+Name: David Wilson
+
+Age: 55
+
+Demographic: Male, retired
+
+Biography: David is a retired teacher who enjoys spending time with his grandchildren, gardening, and reading books. He likes to stay active by going for walks in the park and participating in community events.
+
+Goals: David wants to find a simple and intuitive app for managing his retirement finances. He wants to track his expenses, monitor his investments, and plan for his future financial needs.
+
+Frustrations: David finds it overwhelming to manage his retirement finances as he is not familiar with modern financial tools. He also struggles with understanding complex investment strategies and needs assistance in making informed financial decisions.
+

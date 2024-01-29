@@ -1,0 +1,31 @@
+Product: ClimbMatch
+Product Description: A web-based tool that matches customers with the perfect climbing shoe based on their specific needs and preferences. The tool will use a questionnaire to understand the customer's requirements and then provide a list of suitable shoes.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: Developing a web-based tool like ClimbMatch is feasible with the budget and timeframe, but creating a system that accurately matches customers with shoes based on a questionnaire may be challenging.
+      Score: 60
+  Go to Market:
+         Reasoning: A web-based tool could reach a wide audience, but the niche market may limit the potential customer base.
+      Score: 55
+  Required Partners:
+         Reasoning: Partnerships with climbing shoe manufacturers would be beneficial for obtaining detailed shoe information.
+      Score: 50
+  Compatibility with Company:
+         Reasoning: If the company has experience in web development and knowledge of climbing shoes, ClimbMatch would be a compatible product.
+      Score: 65
+
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The web-based tool could reach a wide audience, but the niche market of climbing limits the potential market size.
+      Score: 55
+  Potential Attractive Returns:
+         Reasoning: The returns could be attractive if the tool can effectively match customers with shoes and drive sales.
+      Score: 60
+  Protectable Advantage:
+         Reasoning: The matching system could be a unique selling point, but it may be difficult to protect as competitors could also develop similar systems.
+      Score: 50
+  Likelihood of disruptive impact with Company:
+         Reasoning: The tool could disrupt the market by providing a new way for climbers to choose shoes, but the impact may be limited due to the niche market.
+      Score: 55

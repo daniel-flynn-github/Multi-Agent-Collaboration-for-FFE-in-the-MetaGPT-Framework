@@ -1,0 +1,12 @@
+1. Pain Point: Selecting gear suitable for skill level Impact = 80 Difficulty = 60 Overall = 60.0 
+2. Pain Point: Ensuring gear meets safety standards Impact = 90 Difficulty = 70 Overall = 60.0 
+3. Pain Point: Finding climbing partners Impact = 70 Difficulty = 50 Overall = 60.0 
+4. Pain Point: Cost of purchasing climbing accessories Impact = 60 Difficulty = 40 Overall = 60.0 
+5. Pain Point: Investing in gear that meets safety standards Impact = 80 Difficulty = 70 Overall = 55.0 
+6. Pain Point: Building a supportive community Impact = 60 Difficulty = 50 Overall = 55.0 
+7. Pain Point: Selecting gear suitable for different terrains Impact = 70 Difficulty = 60 Overall = 55.0 
+8. Pain Point: Getting the best value for money Impact = 50 Difficulty = 40 Overall = 55.0 
+9. Pain Point: Building a network of outdoor climbers Impact = 50 Difficulty = 60 Overall = 45.0 
+10. Pain Point: Getting the best value for budget Impact = 40 Difficulty = 50 Overall = 45.0 
+11. Pain Point: Connecting with a community of outdoor climbers Impact = 30 Difficulty = 40 Overall = 45.0 
+12. Pain Point: Connecting with other outdoor climbers Impact = 40 Difficulty = 50 Overall = 45.0 

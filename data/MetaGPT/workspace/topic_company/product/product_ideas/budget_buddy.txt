@@ -1,0 +1,2 @@
+Product: Budget Buddy
+Product Description: Budget Buddy is a mobile app that helps individuals set and manage their budgets effectively. Users can input their income and expenses, and the app will provide a clear overview of their financial situation. It will track their spending and provide real-time updates on how much they have left in their budget. Budget Buddy will also send notifications and reminders to help users stay on track with their budgeting goals.

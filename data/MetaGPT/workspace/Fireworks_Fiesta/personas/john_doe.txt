@@ -1,0 +1,14 @@
+Name: John Doe
+
+Age: 22
+
+Demographic: Student
+
+Biography: John is a university student studying physics. He's always been fascinated by the science behind fireworks and has recently taken up the hobby of making them himself. He's a quick learner and enjoys the challenge of creating something beautiful from scratch.
+
+Goals: John's main goal is to create a spectacular fireworks display for his university's end-of-year celebration. He wants to impress his peers and professors with his skills and creativity.
+
+Frustrations: John is frustrated by the lack of resources and guidance available for amateur fireworks makers. He's also concerned about safety and wants to ensure he's following all the necessary precautions.
+
+Journey Map: John starts by researching online and experimenting with different materials and techniques. He then designs his fireworks and sources the necessary components. After a few trial runs, he's ready to put on his display.
+

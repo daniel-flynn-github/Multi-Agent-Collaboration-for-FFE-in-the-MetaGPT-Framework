@@ -1,0 +1,18 @@
+Name: John Smith
+
+Age: 45
+
+Demographic: Male, married with two children
+
+Biography: John is a software engineer who works at a tech company. He enjoys spending his weekends outdoors and has recently taken up fishing as a hobby. He is looking to invest in high-quality fishing gear and wants to learn more about different fishing techniques.
+
+Goals: John's goal is to become a skilled angler and catch a variety of fish. He wants to find the best fishing spots and learn about the different types of fishing equipment.
+
+Frustrations: John is frustrated by the lack of reliable information online about fishing techniques and gear. He also finds it difficult to find fishing spots that are not overcrowded.
+
+Journey Map: 1. John starts by researching online about fishing techniques and gear.
+2. He visits fishing forums and reads reviews to gather more information.
+3. John visits a local fishing store to get advice from experienced anglers.
+4. He joins a fishing club to connect with other anglers and learn from their experiences.
+5. John goes on fishing trips to different locations to practice his skills and explore new fishing spots.
+
