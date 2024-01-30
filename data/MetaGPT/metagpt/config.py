@@ -39,6 +39,7 @@ class Config(metaclass=Singleton):
     default_yaml_file = PROJECT_ROOT / "config/config.yaml"
 
     def __init__(self, yaml_file=default_yaml_file):
+        print("KEY ROOT: " + str(yaml_file))
         self._configs = {}
         self._init_with_config_files_and_env(self._configs, yaml_file)
         logger.info("Config loading done.")

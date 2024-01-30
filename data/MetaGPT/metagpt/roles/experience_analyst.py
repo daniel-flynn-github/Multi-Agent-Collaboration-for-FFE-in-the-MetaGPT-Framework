@@ -35,7 +35,7 @@ class ExperienceAnalyst(Role):
         response = (await self._rc.todo.run("Product topic: \n" + background["Topic"] + "\n\nPersonas: \n" + (self._rc.important_memory[0]).content))
         # logger.info(response)
         print("HERE")
-        msg = Message(content=response, role=self.profile, cause_by=type(self._rc.todo))
+        msg = Message(content=response.content, role=self.profile, cause_by=type(self._rc.todo))
         self._rc.memory.add(msg)
         logger.debug(f"{response}")
 

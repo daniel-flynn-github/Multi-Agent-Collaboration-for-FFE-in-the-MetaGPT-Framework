@@ -39,10 +39,8 @@ class FeasibilityAnalyst(Role):
             context = self.get_memories()
             if context[0].cause_by == AnalyseFeasibility:  
                 needed_context = context[0].content + context[-2].content
-                print("NEEDED CONTEXT: " + str(needed_context))
             else:
                 needed_context = context[-1].content
-                print("NEEDED CONTEXT: " + str(needed_context))
             response = await self._rc.todo.run(needed_context)
             # logger.info(response)
             if isinstance(response, ActionOutput):
