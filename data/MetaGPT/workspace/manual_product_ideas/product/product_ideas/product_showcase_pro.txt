@@ -1,0 +1,3 @@
+Product: Product Showcase Pro
+Initiative: Interactive Product Showcase
+Product Description: Product Showcase Pro is an enhanced version of the Interactive Showcase App. It provides advanced features such as augmented reality (AR) integration, allowing users to virtually place their products in real-world environments. Users can also customize the user interface and branding of their showcase, providing a unique and tailored experience for viewers.

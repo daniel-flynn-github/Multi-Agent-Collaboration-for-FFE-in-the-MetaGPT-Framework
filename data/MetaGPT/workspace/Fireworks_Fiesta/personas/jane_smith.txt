@@ -1,0 +1,14 @@
+Name: Jane Smith
+
+Age: 45
+
+Demographic: Local Resident
+
+Biography: Jane is a local resident who enjoys community events and celebrations. She's particularly fond of fireworks displays and looks forward to them each year.
+
+Goals: Jane's goal is to enjoy a safe and impressive fireworks display. She also hopes to learn more about the process behind creating fireworks.
+
+Frustrations: Jane is frustrated by the lack of information about the fireworks display. She wants to know more about the safety measures in place and who is responsible for the event.
+
+Journey Map: Jane hears about the upcoming fireworks display and decides to attend. She arrives early to get a good spot and enjoys the show. Afterwards, she seeks out the person responsible to express her appreciation and ask questions.
+

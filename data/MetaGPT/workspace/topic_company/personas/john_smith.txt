@@ -1,0 +1,12 @@
+Name: John Smith
+
+Age: 35
+
+Demographic: Male, married with two children
+
+Biography: John is a software engineer who works for a tech company. He enjoys spending time with his family, playing video games, and going hiking on weekends. He is always looking for ways to improve his skills and stay up-to-date with the latest technology trends.
+
+Goals: John wants to find a reliable and affordable solution for managing his personal finances. He wants to track his expenses, set budgets, and save money for his children's education.
+
+Frustrations: John finds it difficult to keep track of his expenses and often forgets to save receipts. He also struggles with budgeting and often overspends on unnecessary items.
+

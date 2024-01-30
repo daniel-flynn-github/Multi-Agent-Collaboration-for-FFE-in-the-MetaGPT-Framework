@@ -1,0 +1,14 @@
+Name: John Smith
+
+Age: 32
+
+Demographic: Professional climber, lives in the city, frequently travels for climbing expeditions
+
+Biography: John is a professional climber who participates in climbing competitions around the world. He lives in the city but often escapes to the mountains for training and leisure. He values quality, performance, and sustainability in his climbing gear.
+
+Goals: Find a pair of climbing shoes that offer superior grip, comfort, and durability. The shoes should also be eco-friendly.
+
+Frustrations: Struggles to find climbing shoes that last long and are comfortable for long climbs. Also, many brands do not prioritize sustainability.
+
+Journey Map: John hears about Scarpa's new climbing shoes from a fellow climber. He visits the Scarpa website to learn more about the product, checks out reviews, and compares it with other brands. Impressed by Scarpa's commitment to quality and sustainability, he decides to purchase a pair.
+

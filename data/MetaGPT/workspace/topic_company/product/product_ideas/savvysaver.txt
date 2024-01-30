@@ -1,0 +1,2 @@
+Product: SavvySaver
+Product Description: SavvySaver is a web-based budgeting platform that helps users set and achieve their financial goals. It offers a user-friendly interface where users can input their income, expenses, and savings targets. SavvySaver provides personalized recommendations on how to allocate funds and save money. It also offers a community feature where users can share tips and success stories to inspire each other in their budgeting journey.

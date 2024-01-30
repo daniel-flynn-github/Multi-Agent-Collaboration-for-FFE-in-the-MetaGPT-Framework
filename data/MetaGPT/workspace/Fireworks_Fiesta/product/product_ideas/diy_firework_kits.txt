@@ -1,0 +1,31 @@
+Product: DIY Firework Kits
+Product Description: These kits contain all the necessary materials and instructions for users to create their own fireworks at home. This not only provides an interactive experience but also allows for customization and cost savings.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: The development of DIY kits is feasible as it requires assembling existing components rather than creating new ones.
+      Score: 70
+  Go to Market:
+         Reasoning: The market for DIY kits is growing, but safety regulations could pose a significant barrier.
+      Score: 60
+  Required Partners:
+         Reasoning: Partnerships with suppliers of firework components would be necessary, which is feasible within the budget and timeframe.
+      Score: 70
+  Compatibility with Company:
+         Reasoning: The DIY aspect of the product aligns well with a student-run operation.
+      Score: 80
+
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The potential market size for DIY firework kits is moderate, with a growing interest in DIY activities. The student's resources and timeframe may allow for a small market capture.
+      Score: 60
+  Potential Attractive Returns:
+         Reasoning: The returns could be reasonable due to lower development and production costs.
+      Score: 65
+  Protectable Advantage:
+         Reasoning: The DIY aspect could provide a unique selling point, but the product may be easily replicated.
+      Score: 60
+  Likelihood of disruptive impact with Company:
+         Reasoning: DIY kits could disrupt the traditional fireworks market by appealing to a new user base, but the impact may be limited due to safety concerns.
+      Score: 55

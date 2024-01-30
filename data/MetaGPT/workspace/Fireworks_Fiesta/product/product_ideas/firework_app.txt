@@ -1,0 +1,31 @@
+Product: Firework App
+Product Description: An app that allows users to design and simulate their own firework displays. This can be used as a learning tool or for entertainment purposes, and can also generate revenue through in-app purchases or advertisements.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: Developing an app requires programming skills and resources, which may not be available to a student.
+      Score: 35
+  Go to Market:
+         Reasoning: The app market is saturated, making it difficult for a new app to gain traction without significant marketing.
+      Score: 40
+  Required Partners:
+         Reasoning: Partnerships with app developers and digital marketing experts would be necessary, which may be difficult to secure within the budget and timeframe.
+      Score: 30
+  Compatibility with Company:
+         Reasoning: The digital nature of the product may not align well with a student-run operation focused on physical fireworks.
+      Score: 35
+
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The potential market size for a firework app is large, but the saturated app market and the student's limited resources may limit market capture.
+      Score: 40
+  Potential Attractive Returns:
+         Reasoning: The returns could be substantial if the app is successful, but the high development costs and competition reduce the attractiveness.
+      Score: 35
+  Protectable Advantage:
+         Reasoning: The app could provide a unique selling point, but the saturated market and lack of protectable technology may make it difficult to protect.
+      Score: 30
+  Likelihood of disruptive impact with Company:
+         Reasoning: A firework app could disrupt the traditional fireworks market, but the feasibility of achieving this within the constraints is low.
+      Score: 35

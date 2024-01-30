@@ -1,0 +1,31 @@
+Product: Eco-friendly Climbing Shoes
+Product Description: These shoes are made from recycled materials, reducing the environmental impact and providing a cost-effective solution for climbers. The use of recycled materials reduces the manufacturing cost, thus offering value for money.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: Given Scarpa's commitment to sustainability, the development of eco-friendly climbing shoes aligns with their ethos and expertise, making R&D highly feasible.
+      Score: 90
+  Go to Market:
+         Reasoning: Scarpa's reputation and established market presence would facilitate the introduction of eco-friendly shoes, but the niche nature of the product may limit its market reach.
+      Score: 75
+  Required Partners:
+         Reasoning: Partnerships with eco-friendly material suppliers would be necessary, but given the industry's growing focus on sustainability, this is feasible.
+      Score: 80
+  Compatibility with Company:
+         Reasoning: The product aligns well with Scarpa's commitment to sustainability and quality outdoor footwear.
+      Score: 95
+
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: Given the growing consciousness towards sustainability, the potential market size for eco-friendly climbing shoes is significant.
+      Score: 80
+  Potential Attractive Returns:
+         Reasoning: The higher cost of eco-friendly materials may result in higher retail prices, but consumers' willingness to pay for sustainable products could yield attractive returns.
+      Score: 75
+  Protectable Advantage:
+         Reasoning: Scarpa's reputation for quality and sustainability could give them an edge over competitors in the eco-friendly market.
+      Score: 85
+  Likelihood of disruptive impact with Company:
+         Reasoning: While not necessarily disruptive, this product could strengthen Scarpa's position in the sustainable outdoor footwear market.
+      Score: 70

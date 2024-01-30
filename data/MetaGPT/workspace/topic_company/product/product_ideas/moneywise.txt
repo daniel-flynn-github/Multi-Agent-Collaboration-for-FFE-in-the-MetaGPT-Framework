@@ -1,0 +1,2 @@
+Product: MoneyWise
+Product Description: MoneyWise is a personal finance app that simplifies budget management for individuals. It allows users to create budgets, track expenses, and set savings goals. MoneyWise provides visual representations of spending patterns and offers insights on areas where users can cut costs. The app also integrates with popular payment platforms, allowing users to make payments directly from the app and track their transactions in real-time.

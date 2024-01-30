@@ -1,0 +1,31 @@
+Product: Repairable Climbing Shoes
+Product Description: These shoes are designed in a way that allows for easy repairs, such as replacing worn-out soles. This extends the lifespan of the shoes and reduces the need for replacements, offering value for money.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: The R&D for repairable shoes may be complex and potentially exceed the budget and timeframe.
+      Score: 65
+  Go to Market:
+         Reasoning: While the concept of repairable shoes could appeal to a niche market, it may not have broad appeal.
+      Score: 70
+  Required Partners:
+         Reasoning: New partnerships with repair kit providers may be required, which could be challenging within the timeframe.
+      Score: 70
+  Compatibility with Company:
+         Reasoning: Repairable shoes align with Scarpa's commitment to sustainability but deviate from their focus on durability.
+      Score: 75
+
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The market for repairable climbing shoes is niche, appealing to sustainability-conscious consumers who prefer repairing over replacing.
+      Score: 65
+  Potential Attractive Returns:
+         Reasoning: While the initial price may be higher, the long-term savings from repairs could attract consumers, potentially leading to attractive returns.
+      Score: 70
+  Protectable Advantage:
+         Reasoning: The repairability aspect could provide a protectable advantage if Scarpa can offer a unique and easy repair solution.
+      Score: 75
+  Likelihood of disruptive impact with Company:
+         Reasoning: This product could disrupt the market by shifting consumer behavior towards repairability and sustainability.
+      Score: 80

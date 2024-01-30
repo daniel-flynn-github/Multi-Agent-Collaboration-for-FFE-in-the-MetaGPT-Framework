@@ -1,0 +1,31 @@
+Product: Multi-purpose Climbing Shoes
+Product Description: These shoes are designed for both indoor and outdoor climbing, reducing the need for climbers to buy separate pairs for different environments. This multipurpose nature provides value for money.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: Given Scarpa's wide range of products, the R&D for multi-purpose shoes is feasible within the budget and timeframe.
+      Score: 80
+  Go to Market:
+         Reasoning: The versatility of these shoes could appeal to a broad market, facilitating effective market penetration.
+      Score: 85
+  Required Partners:
+         Reasoning: Existing partnerships should suffice, making this aspect highly feasible.
+      Score: 90
+  Compatibility with Company:
+         Reasoning: Multi-purpose shoes align well with Scarpa's diverse product range and commitment to practicality.
+      Score: 90
+
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The market for multi-purpose climbing shoes is broad, appealing to outdoor enthusiasts who value versatility.
+      Score: 85
+  Potential Attractive Returns:
+         Reasoning: The versatility of these shoes could command a higher price, potentially leading to attractive returns.
+      Score: 80
+  Protectable Advantage:
+         Reasoning: Scarpa's diverse product range and commitment to practicality could provide a protectable advantage in this segment.
+      Score: 85
+  Likelihood of disruptive impact with Company:
+         Reasoning: While not necessarily disruptive, this product could further diversify Scarpa's product range.
+      Score: 75

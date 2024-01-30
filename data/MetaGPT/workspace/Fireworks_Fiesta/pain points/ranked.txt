@@ -1,0 +1,13 @@
+1. Pain Point: Limited resources Impact = 80 Difficulty = 60 Overall = 60.0 
+2. Pain Point: Lack of information Impact = 80 Difficulty = 60 Overall = 60.0 
+3. Pain Point: Securing good spot Impact = 60 Difficulty = 40 Overall = 60.0 
+4. Pain Point: Arriving early Impact = 55 Difficulty = 35 Overall = 60.0 
+5. Pain Point: Expressing appreciation Impact = 50 Difficulty = 30 Overall = 60.0 
+6. Pain Point: Lack of guidance Impact = 85 Difficulty = 70 Overall = 57.5 
+7. Pain Point: Identifying responsible person Impact = 70 Difficulty = 55 Overall = 57.5 
+8. Pain Point: Impressing peers Impact = 60 Difficulty = 50 Overall = 55.0 
+9. Pain Point: Safety concerns Impact = 95 Difficulty = 90 Overall = 52.5 
+10. Pain Point: Understanding fireworks creation Impact = 65 Difficulty = 70 Overall = 47.5 
+11. Pain Point: Sourcing components Impact = 70 Difficulty = 80 Overall = 45.0 
+12. Pain Point: Trial run issues Impact = 75 Difficulty = 85 Overall = 45.0 
+13. Pain Point: Designing fireworks Impact = 65 Difficulty = 75 Overall = 45.0 

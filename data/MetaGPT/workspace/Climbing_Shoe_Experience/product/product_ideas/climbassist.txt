@@ -1,0 +1,31 @@
+Product: ClimbAssist
+Product Description: A chatbot that helps customers understand the features of different climbing shoes. The chatbot will ask a series of questions to understand the customer's needs and then suggest the best shoes based on those needs.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: Developing a chatbot like ClimbAssist is feasible with the budget and timeframe, but creating a system that accurately suggests shoes based on customer needs may be challenging.
+      Score: 60
+  Go to Market:
+         Reasoning: A chatbot could be a unique selling point, but it may not be enough to stand out in the competitive market.
+      Score: 50
+  Required Partners:
+         Reasoning: Partnerships with climbing shoe manufacturers would be beneficial for obtaining detailed shoe information.
+      Score: 50
+  Compatibility with Company:
+         Reasoning: If the company has experience in AI and a connection to the climbing community, ClimbAssist would be a compatible product.
+      Score: 60
+
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The chatbot could appeal to a wide range of climbers, but the niche market of climbing limits the potential market size.
+      Score: 55
+  Potential Attractive Returns:
+         Reasoning: The returns could be attractive if the chatbot can effectively suggest shoes and drive sales.
+      Score: 60
+  Protectable Advantage:
+         Reasoning: The chatbot technology could be a unique selling point, but it may be difficult to protect as competitors could also develop similar chatbots.
+      Score: 50
+  Likelihood of disruptive impact with Company:
+         Reasoning: The chatbot could disrupt the market by providing a new way for climbers to choose shoes, but the impact may be limited due to the niche market.
+      Score: 55

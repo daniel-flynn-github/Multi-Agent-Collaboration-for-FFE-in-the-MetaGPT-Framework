@@ -1,0 +1,13 @@
+1. Pain Point: Stale baguettes Impact = 90 Difficulty = 70 Overall = 60.0 
+2. Pain Point: Tasteless baguettes Impact = 85 Difficulty = 65 Overall = 60.0 
+3. Pain Point: Limited availability Impact = 80 Difficulty = 60 Overall = 60.0 
+4. Pain Point: Lack of natural ingredients Impact = 75 Difficulty = 55 Overall = 60.0 
+5. Pain Point: Additives and preservatives Impact = 70 Difficulty = 50 Overall = 60.0 
+6. Pain Point: Inconsistent quality Impact = 65 Difficulty = 45 Overall = 60.0 
+7. Pain Point: Inconvenient purchase process Impact = 60 Difficulty = 40 Overall = 60.0 
+8. Pain Point: Misleading claims Impact = 90 Difficulty = 70 Overall = 60.0 
+9. Pain Point: Lack of authenticity Impact = 85 Difficulty = 65 Overall = 60.0 
+10. Pain Point: Limited educational experiences Impact = 80 Difficulty = 60 Overall = 60.0 
+11. Pain Point: Inaccessible workshops Impact = 75 Difficulty = 55 Overall = 60.0 
+12. Pain Point: Poor taste and texture Impact = 70 Difficulty = 50 Overall = 60.0 
+13. Pain Point: Difficulty finding recommended bakeries Impact = 65 Difficulty = 45 Overall = 60.0 

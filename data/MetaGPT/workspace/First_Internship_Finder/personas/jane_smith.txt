@@ -1,0 +1,14 @@
+Name: Jane Smith
+
+Age: 21
+
+Demographic: Undergraduate Business Student
+
+Biography: Jane is a third-year business student who is interested in marketing. She has been involved in several clubs and organizations on campus, but she has not had any formal work experience in her field of interest.
+
+Goals: Jane's main goal is to secure her first internship in a marketing role. She wants to apply the theories she learned in school to real-world scenarios.
+
+Frustrations: Jane finds it challenging to find internships that match her interests and skills. She also finds the application process time-consuming and feels that her lack of experience is a significant disadvantage.
+
+Journey Map: Jane starts her search by looking for internships on job boards and company websites. She spends a lot of time tailoring her applications to each company. She gets a few interviews but no offers. She feels frustrated and unsure about how to stand out from other applicants.
+

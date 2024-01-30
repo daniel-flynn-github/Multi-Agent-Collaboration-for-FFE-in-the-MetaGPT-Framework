@@ -1,0 +1,31 @@
+Product: Durable Climbing Shoes
+Product Description: These shoes are designed with high-quality, long-lasting materials to withstand the rigors of climbing. The increased lifespan of the shoes provides value for money by reducing the frequency of replacements.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: Scarpa's expertise in high-performance footwear makes the R&D of durable climbing shoes feasible within the budget and timeframe.
+      Score: 85
+  Go to Market:
+         Reasoning: Given the universal need for durability in climbing shoes, these products would likely be well-received in the market.
+      Score: 90
+  Required Partners:
+         Reasoning: Existing material suppliers and manufacturing partners should suffice, making this aspect highly feasible.
+      Score: 95
+  Compatibility with Company:
+         Reasoning: Durable shoes align perfectly with Scarpa's reputation for quality and durability.
+      Score: 100
+
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The market for durable climbing shoes is vast, given the universal need for durability in this sport.
+      Score: 90
+  Potential Attractive Returns:
+         Reasoning: With a reputation for quality, Scarpa could command a premium price for these shoes, leading to attractive returns.
+      Score: 85
+  Protectable Advantage:
+         Reasoning: Scarpa's expertise in high-performance footwear gives them a protectable advantage in the durability segment.
+      Score: 90
+  Likelihood of disruptive impact with Company:
+         Reasoning: While not disruptive, this product could further solidify Scarpa's reputation for durable outdoor footwear.
+      Score: 75

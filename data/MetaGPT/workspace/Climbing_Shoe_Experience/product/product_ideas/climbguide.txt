@@ -1,0 +1,31 @@
+Product: ClimbGuide
+Product Description: An online platform that offers a comprehensive guide to climbing shoes. It includes a feature comparison chart, user reviews, and a search function to help customers find the perfect shoe for their needs.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: Developing an online platform like ClimbGuide is feasible with the budget and timeframe, but compiling a comprehensive guide to climbing shoes will require extensive research.
+      Score: 65
+  Go to Market:
+         Reasoning: An online platform could reach a wide audience, but the niche market may limit the potential customer base.
+      Score: 55
+  Required Partners:
+         Reasoning: Partnerships with climbing shoe manufacturers and climbing communities would be beneficial for gathering shoe information and user reviews.
+      Score: 45
+  Compatibility with Company:
+         Reasoning: If the company has experience in web development and knowledge of climbing shoes, ClimbGuide would be a compatible product.
+      Score: 65
+
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The online platform could reach a wide audience, but the niche market of climbing limits the potential market size.
+      Score: 55
+  Potential Attractive Returns:
+         Reasoning: The returns could be attractive if the platform can attract a large user base and monetize through advertising or premium features.
+      Score: 60
+  Protectable Advantage:
+         Reasoning: The comprehensive guide to climbing shoes could be a unique selling point, but it may be difficult to protect as competitors could also compile similar guides.
+      Score: 50
+  Likelihood of disruptive impact with Company:
+         Reasoning: The platform could disrupt the market by providing a comprehensive guide to climbing shoes, but the impact may be limited due to the niche market.
+      Score: 55

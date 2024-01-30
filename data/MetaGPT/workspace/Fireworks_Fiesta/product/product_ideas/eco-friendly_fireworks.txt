@@ -1,0 +1,31 @@
+Product: Eco-Friendly Fireworks
+Product Description: These fireworks are made from recycled materials and use less harmful chemicals, reducing the cost and environmental impact. They are also designed to produce less smoke and debris, making them safer and more enjoyable for viewers.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: Given the student's limited resources and knowledge, developing eco-friendly fireworks could be challenging and potentially dangerous, hence not feasible.
+      Score: 30
+  Go to Market:
+         Reasoning: The eco-conscious trend could make these fireworks popular, but safety concerns and regulations might hinder market entry.
+      Score: 40
+  Required Partners:
+         Reasoning: Partnerships with chemical suppliers and safety experts would be necessary, but may be difficult to secure within the budget and timeframe.
+      Score: 20
+  Compatibility with Company:
+         Reasoning: The eco-friendly aspect aligns with current societal trends, but the complexity of the product may not suit a student-run operation.
+      Score: 35
+
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The potential market size for eco-friendly fireworks is significant due to increasing environmental consciousness, but the student's limited resources and timeframe may limit market capture.
+      Score: 50
+  Potential Attractive Returns:
+         Reasoning: The returns could be substantial if the product is successful, but the high development costs and potential regulatory hurdles reduce the attractiveness.
+      Score: 40
+  Protectable Advantage:
+         Reasoning: The eco-friendly aspect could provide a unique selling point, but the technical complexity may make it difficult to protect.
+      Score: 35
+  Likelihood of disruptive impact with Company:
+         Reasoning: Eco-friendly fireworks could disrupt the traditional fireworks market, but the feasibility of achieving this within the constraints is low.
+      Score: 40

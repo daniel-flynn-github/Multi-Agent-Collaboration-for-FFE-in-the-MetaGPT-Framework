@@ -1,0 +1,31 @@
+Product: ClimbAR
+Product Description: An augmented reality app that allows customers to virtually try on different climbing shoes. The app will provide detailed information about each shoe's features and how they can benefit the user.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: Developing an AR app like ClimbAR is ambitious with the budget and timeframe, and the technology required may be complex.
+      Score: 50
+  Go to Market:
+         Reasoning: An AR app could be a unique selling point, but the niche market and potential technological barriers may limit its success.
+      Score: 45
+  Required Partners:
+         Reasoning: Partnerships with AR technology providers and climbing shoe manufacturers would be necessary.
+      Score: 40
+  Compatibility with Company:
+         Reasoning: If the company has experience in AR and a connection to the climbing community, ClimbAR would be a compatible product.
+      Score: 50
+
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The AR app could appeal to a wide range of climbers, but the niche market of climbing and potential technological barriers limit the potential market size.
+      Score: 50
+  Potential Attractive Returns:
+         Reasoning: The returns could be attractive if the AR app can overcome technological barriers and attract a large user base.
+      Score: 55
+  Protectable Advantage:
+         Reasoning: The AR technology could be a unique selling point, but it may be difficult to protect as competitors could also develop similar AR apps.
+      Score: 45
+  Likelihood of disruptive impact with Company:
+         Reasoning: The AR app could disrupt the market by providing a new way for climbers to try on shoes, but the impact may be limited due to the niche market and potential technological barriers.
+      Score: 50

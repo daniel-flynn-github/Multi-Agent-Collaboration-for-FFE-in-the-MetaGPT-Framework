@@ -1,0 +1,10 @@
+1. Pain Point: Time-consuming application process Impact = 90 Difficulty = 70 Overall = 60.0 
+2. Pain Point: Ineffective skills showcase Impact = 80 Difficulty = 60 Overall = 60.0 
+3. Pain Point: Difficulty in tailoring applications Impact = 85 Difficulty = 65 Overall = 60.0 
+4. Pain Point: Lack of professional experience Impact = 95 Difficulty = 80 Overall = 57.5 
+5. Pain Point: Low response rate from companies Impact = 90 Difficulty = 75 Overall = 57.5 
+6. Pain Point: Difficulty finding suitable internships Impact = 85 Difficulty = 70 Overall = 57.5 
+7. Pain Point: Feeling of disadvantage due to inexperience Impact = 80 Difficulty = 65 Overall = 57.5 
+8. Pain Point: Limited feedback on applications Impact = 85 Difficulty = 75 Overall = 55.0 
+9. Pain Point: Uncertainty in application improvement Impact = 80 Difficulty = 70 Overall = 55.0 
+10. Pain Point: Low interview to offer rate Impact = 85 Difficulty = 75 Overall = 55.0 
