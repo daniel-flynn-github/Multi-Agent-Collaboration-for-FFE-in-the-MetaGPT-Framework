@@ -1,0 +1,31 @@
+Product: SlipStop Chalk
+Product Description: SlipStop Chalk is a specially formulated climbing chalk that enhances grip on slippery surfaces. It contains an added adhesive component that increases friction between the climber's hands and the climbing holds, allowing for better control and reduced slippage.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: The research and development of SlipStop Chalk is relatively straightforward and feasible within the given budget and timeframe. Scarpa can leverage their existing knowledge and resources in climbing gear development.
+      Score: 80
+  Go to Market:
+         Reasoning: Scarpa's established market presence and distribution network make it feasible for them to effectively introduce and promote SlipStop Chalk. The budget and timeframe allow for proper marketing and distribution strategies.
+      Score: 85
+  Required Partners:
+         Reasoning: SlipStop Chalk may require collaboration with chalk manufacturers for the specialized formulation. However, given Scarpa's reputation and resources, it is feasible for them to work with the necessary partners within the given budget and timeframe.
+      Score: 80
+  Compatibility with Company:
+         Reasoning: SlipStop Chalk aligns with Scarpa's existing product range and expertise in climbing gear. The product complements their current offerings and caters to their target audience, making it highly compatible.
+      Score: 90
+
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The potential market size for SlipStop Chalk is substantial, as chalk is an essential accessory for climbers. With Scarpa's established market presence and distribution network, they can effectively introduce and promote SlipStop Chalk to their target audience. The budget and timeframe provided are sufficient for proper marketing and distribution strategies.
+      Score: 90
+  Potential Attractive Returns:
+         Reasoning: The potential returns from SlipStop Chalk are promising. Chalk is a consumable product, and climbers regularly need to replenish their supply. Scarpa can expect recurring sales and attractive profit margins. The product's compatibility with their existing product range and their reputation in the climbing gear industry further enhance its market potential.
+      Score: 85
+  Protectable Advantage:
+         Reasoning: SlipStop Chalk can have a protectable advantage through its specialized formulation and quality. Scarpa's collaboration with chalk manufacturers can ensure a unique and effective product that stands out in the market. Additionally, their reputation and distribution network can help protect their advantage from potential competitors.
+      Score: 80
+  Likelihood of disruptive impact with Company:
+         Reasoning: While SlipStop Chalk may not disrupt the entire chalk market, it can make a significant impact. The product's quality, compatibility, and Scarpa's reputation can attract a loyal customer base and gain market share from competitors. However, it may not create a completely new market segment.
+      Score: 70

@@ -32,6 +32,7 @@ class ExperienceAnalyst(Role):
 
         logger.info(f"{self._setting}: ready to {self._rc.todo}")
         background = self.get_memories()[0].instruct_content.dict()
+        logger.info("JOURNEY MAP BACKGROUND: " + str("Product topic: \n" + background["Topic"] + "\n\nPersonas: \n" + (self._rc.important_memory[0]).content))
         response = (await self._rc.todo.run("Product topic: \n" + background["Topic"] + "\n\nPersonas: \n" + (self._rc.important_memory[0]).content))
         # logger.info(response)
         print("HERE")

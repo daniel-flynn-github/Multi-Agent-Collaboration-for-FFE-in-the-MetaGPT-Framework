@@ -1,14 +1,8 @@
-1. Pain Point: Difficulty finding suitable climbing gear Impact = 90 Difficulty = 60 Overall = 65.0 
-2. Pain Point: Fear of heights Impact = 90 Difficulty = 70 Overall = 60.0 
-3. Pain Point: Limited grip on slippery surfaces Impact = 80 Difficulty = 70 Overall = 55.0 
-4. Pain Point: Inadequate protection for hands and fingers Impact = 85 Difficulty = 75 Overall = 55.0 
-5. Pain Point: Lack of confidence in own climbing abilities Impact = 85 Difficulty = 75 Overall = 55.0 
-6. Pain Point: Limited access to climbing gyms or outdoor climbing areas Impact = 90 Difficulty = 80 Overall = 55.0 
-7. Pain Point: Limited visibility in low-light conditions Impact = 75 Difficulty = 70 Overall = 52.5 
-8. Pain Point: Lack of affordable climbing gear Impact = 80 Difficulty = 75 Overall = 52.5 
-9. Pain Point: Limited upper body strength Impact = 80 Difficulty = 80 Overall = 50.0 
-10. Pain Point: Lack of storage options for climbing equipment Impact = 70 Difficulty = 80 Overall = 45.0 
-11. Pain Point: Difficulty finding climbing partners Impact = 80 Difficulty = 90 Overall = 45.0 
-12. Pain Point: Inadequate foot support Impact = 75 Difficulty = 85 Overall = 45.0 
-13. Pain Point: Uncomfortable harness design Impact = 70 Difficulty = 85 Overall = 42.5 
-14. Pain Point: Difficulty finding climbing routes for beginners Impact = 70 Difficulty = 90 Overall = 40.0 
+1. Pain Point: Limited grip on slippery surfaces Impact = 80 Difficulty = 70 Overall = 55.0 
+2. Pain Point: Difficulty finding suitable climbing gear Impact = 60 Difficulty = 50 Overall = 55.0 
+3. Pain Point: Lack of visibility in low light conditions Impact = 70 Difficulty = 60 Overall = 55.0 
+4. Pain Point: Inability to carry necessary equipment Impact = 50 Difficulty = 40 Overall = 55.0 
+5. Pain Point: Fear of heights Impact = 90 Difficulty = 80 Overall = 55.0 
+6. Pain Point: Limited access to climbing locations Impact = 60 Difficulty = 50 Overall = 55.0 
+7. Pain Point: Lack of upper body strength Impact = 70 Difficulty = 70 Overall = 50.0 
+8. Pain Point: Inadequate knowledge of climbing techniques Impact = 80 Difficulty = 90 Overall = 45.0 

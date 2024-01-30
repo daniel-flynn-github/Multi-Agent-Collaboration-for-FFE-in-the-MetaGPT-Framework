@@ -8,6 +8,8 @@ from metagpt.schema import Message
 
 
 
+
+
 class FeasibilityAnalyst(Role):
 
 
@@ -39,8 +41,10 @@ class FeasibilityAnalyst(Role):
             context = self.get_memories()
             if context[0].cause_by == AnalyseFeasibility:  
                 needed_context = context[0].content + context[-2].content
+                logger.debug("CONTEXT: " + str(needed_context))
             else:
-                needed_context = context[-1].content
+                needed_context = context[0].content + context[-1].content
+                logger.debug("CONTEXT: " + str(needed_context))
             response = await self._rc.todo.run(needed_context)
             # logger.info(response)
             if isinstance(response, ActionOutput):

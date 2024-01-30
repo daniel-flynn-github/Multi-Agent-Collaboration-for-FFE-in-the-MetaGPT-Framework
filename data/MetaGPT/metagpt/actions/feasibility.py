@@ -78,6 +78,8 @@ class AnalyseFeasibility(Action):
             with open(solution_file,"a") as file:
                 file.write("\nFeasibility Analysis: \n  Research and Development:\n         Reasoning: " + feasibility['Research and Development'][0] + "\n      Score: " + str(feasibility['Research and Development'][1]) + "\n  Go to Market:\n         Reasoning: " + feasibility['Go to Market'][0] + "\n      Score: " + str(feasibility['Go to Market'][1]) + "\n  Required Partners:\n         Reasoning: " + feasibility['Required Partners'][0] + "\n      Score: " + str(feasibility['Required Partners'][1]) + "\n  Compatibility with Company:\n         Reasoning: " + feasibility['Compatibility'][0] + "\n      Score: " + str(feasibility['Compatibility'][1]) + "\n")
 
+
+
  
 
     async def run(self, context, format=CONFIG.prompt_format, *args, **kwargs) -> ActionOutput:
@@ -87,3 +89,5 @@ class AnalyseFeasibility(Action):
         feasibilities = await self._aask_v1(prompt, "feasibilities", OUTPUT_MAPPING, format=format)
         self._save(feasibilities)
         return feasibilities
+
+

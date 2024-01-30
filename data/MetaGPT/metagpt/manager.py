@@ -19,7 +19,6 @@ class Manager:
             "ExperienceAnalyst":"NeedsAnalyst",
             "NeedsAnalyst":"SolutionEngineer",
             "SolutionEngineer":"FeasibilityAnalyst",
-            "FeasibilityAnalyst":"MarketAnalyst",
         }
         """self.role_directions = {
             "BOSS": "Product Manager",

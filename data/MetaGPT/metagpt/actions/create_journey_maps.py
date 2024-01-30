@@ -21,7 +21,7 @@ templates = {
 ## Format example
 {format_example}
 
-Role: Your role is to create 5 generate journeys maps for each specific customer persona given a specific topic and context.
+Role: Your role is to create 5 generate journeys maps for each specific customer persona describing their experience with a given product topic within a given context context.
 Requirements: According to the context, fill in the following missing information, each section name is a key in json ,If the requirements are unclear, ensure minimum viability and avoid excessive design. Limit the response to 1500 tokens
 
 ##Project name: Copy the project name in the context exactly. Dont add, remove, or change any characters
