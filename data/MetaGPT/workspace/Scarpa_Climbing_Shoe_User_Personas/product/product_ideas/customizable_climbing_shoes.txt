@@ -1,0 +1,31 @@
+Product: Customizable Climbing Shoes
+Product Description: These shoes come with customizable features, allowing climbers to adjust the fit and comfort according to their needs. This reduces the need for multiple pairs of shoes for different climbing conditions, offering value for money.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: The R&D for customizable shoes may be complex and potentially exceed the budget and timeframe.
+      Score: 60
+  Go to Market:
+         Reasoning: The unique selling proposition of customization could attract a niche market, but widespread acceptance may take time.
+      Score: 70
+  Required Partners:
+         Reasoning: New partnerships with customization technology providers may be required, which could be challenging within the timeframe.
+      Score: 65
+  Compatibility with Company:
+         Reasoning: While customization is not a core aspect of Scarpa's current offerings, it could enhance their reputation for innovation.
+      Score: 75
+
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The market for customizable climbing shoes is niche but growing, as consumers seek products tailored to their specific needs.
+      Score: 70
+  Potential Attractive Returns:
+         Reasoning: The unique selling proposition of customization could command a higher price, potentially leading to attractive returns.
+      Score: 75
+  Protectable Advantage:
+         Reasoning: The customization aspect could provide a protectable advantage if Scarpa can offer unique customization options.
+      Score: 80
+  Likelihood of disruptive impact with Company:
+         Reasoning: This product could disrupt the market by setting a new standard for personalization in outdoor footwear.
+      Score: 85

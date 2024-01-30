@@ -1,0 +1,31 @@
+Product: Climbing Guidebook
+Product Description: The Climbing Guidebook is a comprehensive guide specifically tailored for intermediate boulder and sport climbers transitioning from indoor climbing to outdoor climbing. The guidebook provides detailed information about popular climbing areas, routes, difficulty levels, and safety considerations. It includes clear and concise route descriptions, topographic maps, and high-quality photographs to assist climbers in planning their outdoor climbing adventures. The guidebook is compact and lightweight, making it easy to carry in a backpack. It serves as a valuable resource for climbers to explore new outdoor climbing destinations safely.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: The development of the Climbing Guidebook is feasible within the given budget and timeframe, as it involves compiling existing information and designing a user-friendly format.
+      Score: 90
+  Go to Market:
+         Reasoning: Scarpa can effectively establish the Climbing Guidebook in the market by leveraging their brand reputation and targeting the specific audience of intermediate climbers.
+      Score: 85
+  Required Partners:
+         Reasoning: No additional partners are required for the production of the Climbing Guidebook, as Scarpa can handle the content creation and publishing process internally.
+      Score: 100
+  Compatibility with Company:
+         Reasoning: The Climbing Guidebook is highly compatible with Scarpa's existing product range and target audience, as it complements their focus on outdoor activities and provides valuable information for climbers.
+      Score: 95
+
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The Climbing Guidebook has a potential market size of 75 out of 100. As more climbers transition from indoor to outdoor climbing, the demand for comprehensive and user-friendly guidebooks increases. Scarpa's established brand reputation and target audience position them well to capture a significant portion of this market.
+      Score: 75
+  Potential Attractive Returns:
+         Reasoning: The Climbing Guidebook has the potential for attractive returns, scoring 70 out of 100. The target audience of intermediate climbers requires reliable and informative guidebooks for outdoor climbing. By offering a well-designed and user-friendly guidebook, Scarpa can generate substantial revenue from this product.
+      Score: 70
+  Protectable Advantage:
+         Reasoning: The Climbing Guidebook has a protectable advantage of 80 out of 100. Scarpa's expertise in outdoor activities and their commitment to providing valuable information give them a competitive edge. By leveraging their brand reputation and incorporating their knowledge into the guidebook, Scarpa can differentiate themselves from competitors.
+      Score: 80
+  Likelihood of disruptive impact with Company:
+         Reasoning: The Climbing Guidebook has a likelihood of disruptive impact of 50 out of 100. While the product may not disrupt pre-existing markets or create a new one, it can significantly contribute to Scarpa's market presence and revenue generation. By offering a comprehensive guidebook for intermediate climbers, Scarpa can solidify their position as a trusted brand in the climbing accessories market.
+      Score: 50

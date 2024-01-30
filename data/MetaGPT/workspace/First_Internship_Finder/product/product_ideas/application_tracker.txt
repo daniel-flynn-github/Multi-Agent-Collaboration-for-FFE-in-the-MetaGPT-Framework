@@ -1,0 +1,31 @@
+Product: Application Tracker
+Product Description: A tool that helps students keep track of their internship applications, including the status of each application, deadlines, and follow-ups. This can help students manage their time more effectively.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: Developing an application tracking tool is feasible within the budget and timeframe.
+      Score: 85
+  Go to Market:
+         Reasoning: The product has a clear market among students, but differentiation from existing tools may be a challenge.
+      Score: 70
+  Required Partners:
+         Reasoning: Partnerships may not be necessary, but collaborations with job boards could enhance the product's functionality.
+      Score: 80
+  Compatibility with Company:
+         Reasoning: The product aligns with the company's mission to simplify the internship application process for students.
+      Score: 90
+
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The market size for an application tracking tool is substantial, but the product needs to offer unique features to stand out from existing tools.
+      Score: 70
+  Potential Attractive Returns:
+         Reasoning: The potential returns could be significant if the tool is adopted by a large number of students.
+      Score: 70
+  Protectable Advantage:
+         Reasoning: The product's advantage lies in its user-friendly interface and unique features, which could be difficult to protect due to the nature of software development.
+      Score: 60
+  Likelihood of disruptive impact with Company:
+         Reasoning: The product could potentially disrupt the market by providing a more efficient tracking system. However, its impact might be limited by existing tools.
+      Score: 65

@@ -1,0 +1,12 @@
+Name: Sarah Davis
+
+Age: 22
+
+Demographic: Female, college student
+
+Biography: Sarah is a college student majoring in computer science. She is passionate about coding, attending hackathons, and learning new programming languages. She enjoys spending time with her friends, playing video games, and watching sci-fi movies.
+
+Goals: Sarah wants to find an easy-to-use app for managing her personal finances. She wants to track her expenses, set savings goals, and learn more about personal finance to become financially independent.
+
+Frustrations: Sarah often forgets to track her expenses and finds it challenging to save money as a student. She also struggles with understanding complex financial concepts and needs guidance in managing her finances effectively.
+

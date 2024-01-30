@@ -1,0 +1,14 @@
+1. Pain Point: Lack of reliable online information Impact = 90 Difficulty = 70 Overall = 60.0 
+2. Pain Point: Difficulty finding uncrowded fishing spots Impact = 80 Difficulty = 60 Overall = 60.0 
+3. Pain Point: Challenges in identifying the best fishing spots Impact = 80 Difficulty = 65 Overall = 57.5 
+4. Pain Point: Lack of beginner-friendly resources Impact = 90 Difficulty = 75 Overall = 57.5 
+5. Pain Point: Inadequate information on sustainable fishing practices Impact = 85 Difficulty = 70 Overall = 57.5 
+6. Pain Point: Lack of guidance on different fishing techniques Impact = 85 Difficulty = 75 Overall = 55.0 
+7. Pain Point: Difficulty finding accessible fishing spots Impact = 80 Difficulty = 70 Overall = 55.0 
+8. Pain Point: Inadequate knowledge about fishing gear quality Impact = 75 Difficulty = 70 Overall = 52.5 
+9. Pain Point: Challenges in learning fishing basics Impact = 80 Difficulty = 75 Overall = 52.5 
+10. Pain Point: Limited connections with other anglers Impact = 75 Difficulty = 80 Overall = 47.5 
+11. Pain Point: Lack of practical experience Impact = 75 Difficulty = 80 Overall = 47.5 
+12. Pain Point: Limited access to experienced anglers Impact = 70 Difficulty = 80 Overall = 45.0 
+13. Pain Point: Limited opportunities for skill improvement Impact = 70 Difficulty = 85 Overall = 42.5 
+14. Pain Point: Limited documentation of fishing experiences Impact = 70 Difficulty = 85 Overall = 42.5 

@@ -1,0 +1,31 @@
+Product: Compact Fireworks
+Product Description: These smaller, more compact fireworks use less material and are cheaper to produce, but still provide a spectacular display. They are also easier to transport and store, reducing logistical costs.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: Developing compact fireworks is feasible as it involves modifying existing designs rather than creating new ones.
+      Score: 70
+  Go to Market:
+         Reasoning: Compact fireworks could appeal to a niche market, but safety regulations and competition could pose barriers.
+      Score: 60
+  Required Partners:
+         Reasoning: Partnerships with suppliers of firework components would be necessary, which is feasible within the budget and timeframe.
+      Score: 70
+  Compatibility with Company:
+         Reasoning: The compact nature of the product aligns well with a student-run operation.
+      Score: 80
+
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The potential market size for compact fireworks is moderate, with a niche market for portable and convenient products. The student's resources and timeframe may allow for a small market capture.
+      Score: 60
+  Potential Attractive Returns:
+         Reasoning: The returns could be reasonable due to lower development and production costs.
+      Score: 65
+  Protectable Advantage:
+         Reasoning: The compact nature of the product could provide a unique selling point, but the product may be easily replicated.
+      Score: 60
+  Likelihood of disruptive impact with Company:
+         Reasoning: Compact fireworks could disrupt the traditional fireworks market by appealing to a new user base, but the impact may be limited due to safety concerns.
+      Score: 55

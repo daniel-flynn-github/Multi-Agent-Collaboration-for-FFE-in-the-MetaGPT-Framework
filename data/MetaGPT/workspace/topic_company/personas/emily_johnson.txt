@@ -1,0 +1,12 @@
+Name: Emily Johnson
+
+Age: 28
+
+Demographic: Female, single
+
+Biography: Emily is a marketing executive who works for a fashion company. She is passionate about fashion, traveling, and exploring new cultures. She enjoys attending social events and spending time with her friends.
+
+Goals: Emily wants to find a convenient and user-friendly app for managing her personal finances. She wants to easily track her expenses, set financial goals, and save money for her dream vacation.
+
+Frustrations: Emily often forgets to track her expenses and finds it challenging to stick to a budget. She also struggles with saving money as she tends to splurge on luxury items.
+

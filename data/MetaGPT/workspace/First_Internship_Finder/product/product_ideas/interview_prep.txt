@@ -1,0 +1,31 @@
+Product: Interview Prep
+Product Description: An online platform that provides resources and tools to help students prepare for internship interviews. This can include mock interviews, common interview questions, and tips on how to answer them.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: Developing an online platform for interview preparation is feasible, but creating high-quality content may require additional resources.
+      Score: 75
+  Go to Market:
+         Reasoning: The product has a clear market among students, but competition from existing platforms could be a challenge.
+      Score: 65
+  Required Partners:
+         Reasoning: Partnerships with career coaches or HR professionals could enhance the quality of the platform's content.
+      Score: 70
+  Compatibility with Company:
+         Reasoning: The product aligns with the company's mission to support students in their internship search.
+      Score: 85
+
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The market size for an online interview preparation platform is large, but the competition is also high. The product's success will depend on the quality of its content.
+      Score: 65
+  Potential Attractive Returns:
+         Reasoning: The potential returns could be high if the platform can attract a large number of users and offer high-quality content.
+      Score: 70
+  Protectable Advantage:
+         Reasoning: The product's advantage lies in its content, which could be protected through copyright laws. However, the quality of the content is crucial for its success.
+      Score: 70
+  Likelihood of disruptive impact with Company:
+         Reasoning: The product could potentially disrupt the market by providing a unique learning experience. However, its impact might be limited by existing platforms.
+      Score: 65

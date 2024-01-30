@@ -1,0 +1,31 @@
+Product: Digital Firework Display
+Product Description: A software solution that creates a virtual firework display. This can be projected onto a screen or even used with VR technology for an immersive experience. This eliminates the need for physical resources and can be reused multiple times.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: Developing a digital solution would require significant software development skills, which may not be available.
+      Score: 40
+  Go to Market:
+         Reasoning: The market for digital displays is growing, but competition from established tech companies could be a barrier.
+      Score: 50
+  Required Partners:
+         Reasoning: Partnerships with software developers and hardware suppliers would be necessary, which may be difficult to secure within the budget and timeframe.
+      Score: 30
+  Compatibility with Company:
+         Reasoning: The digital nature of the product may not align well with a student-run operation focused on physical fireworks.
+      Score: 35
+
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The potential market size for digital firework displays is large, but the student's limited resources and lack of software development skills may limit market capture.
+      Score: 45
+  Potential Attractive Returns:
+         Reasoning: The returns could be substantial if the product is successful, but the high development costs and competition reduce the attractiveness.
+      Score: 40
+  Protectable Advantage:
+         Reasoning: The digital nature of the product could provide a unique selling point, but the technical complexity and competition may make it difficult to protect.
+      Score: 35
+  Likelihood of disruptive impact with Company:
+         Reasoning: Digital displays could disrupt the traditional fireworks market, but the feasibility of achieving this within the constraints is low.
+      Score: 40

@@ -1,0 +1,18 @@
+Name: Alex Rodriguez
+
+Age: 35
+
+Demographic: Male, United States
+
+Biography: Alex is a 35-year-old software engineer based in San Francisco. He leads an active lifestyle and enjoys various outdoor activities, including hiking, camping, and rock climbing. Alex has been climbing indoors for several years and has reached an advanced level in both bouldering and sport climbing. He is now ready to take his skills to the next level by transitioning to outdoor climbing.
+
+Goals: Alex's main goal is to challenge himself on real rock formations and experience the thrill of outdoor climbing. He wants to explore different climbing destinations, tackle more difficult routes, and push his physical and mental limits. Alex also aims to connect with other experienced outdoor climbers and learn from their expertise.
+
+Frustrations: Alex is frustrated by the limitations of indoor climbing and the artificial nature of climbing walls. He craves the authenticity and unpredictability of outdoor climbing. He also finds it challenging to find the right climbing accessories that meet his specific needs as an advanced climber. Additionally, he feels overwhelmed by the vast amount of information available online and struggles to filter out the most relevant and reliable resources.
+
+Budget: Alex is willing to invest in top-of-the-line climbing accessories and has a budget of £3,000 for high-quality gear that will last him for years.
+
+Timeframe: Alex plans to transition to outdoor climbing within the next 6-12 months, dedicating significant time and effort to develop his outdoor climbing skills.
+
+Technical and Legal Constraints: Alex understands the importance of using climbing gear that complies with safety laws and guidelines. He wants to ensure that the accessories he purchases are of the highest quality and meet the necessary safety standards.
+

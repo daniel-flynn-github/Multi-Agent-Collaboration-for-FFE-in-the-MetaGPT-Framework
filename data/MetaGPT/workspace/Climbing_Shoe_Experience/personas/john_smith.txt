@@ -1,0 +1,14 @@
+Name: John Smith
+
+Age: 32
+
+Demographic: Urban professional
+
+Biography: John is a software engineer living in a big city. He enjoys outdoor activities and recently got into rock climbing. He goes to the climbing gym after work and occasionally climbs outdoors on weekends.
+
+Goals: John wants a pair of climbing shoes that are comfortable for long climbing sessions and durable enough for outdoor climbing. He is willing to invest in a high-quality pair as he sees climbing as a long-term hobby.
+
+Frustrations: John is frustrated by the overwhelming number of climbing shoes on the market. He is unsure of what features are important and what brands are reliable.
+
+Journey Map: John starts his journey by researching online about climbing shoes. He reads reviews, watches videos, and visits local stores to try on different pairs. After comparing prices and features, he makes a purchase decision.
+

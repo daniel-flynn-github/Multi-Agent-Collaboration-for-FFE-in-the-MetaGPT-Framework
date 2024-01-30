@@ -1,0 +1,31 @@
+Product: Internship Alert
+Product Description: A notification system that alerts students of new internship opportunities that match their profile. This can help students apply for internships as soon as they become available, increasing their chances of securing one.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: Developing a notification system is feasible within the budget and timeframe.
+      Score: 85
+  Go to Market:
+         Reasoning: The product has a clear market among students, but ensuring timely and relevant alerts may be a challenge.
+      Score: 70
+  Required Partners:
+         Reasoning: Partnerships with job boards and companies offering internships would be beneficial for sourcing internship opportunities.
+      Score: 75
+  Compatibility with Company:
+         Reasoning: The product aligns with the company's mission to facilitate students' internship search.
+      Score: 90
+
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The market size for a notification system is substantial, but the product needs to offer timely and relevant alerts to stand out from existing systems.
+      Score: 70
+  Potential Attractive Returns:
+         Reasoning: The potential returns could be significant if the system is adopted by a large number of students.
+      Score: 70
+  Protectable Advantage:
+         Reasoning: The product's advantage lies in its alert system, which could be difficult to protect due to the nature of software development.
+      Score: 60
+  Likelihood of disruptive impact with Company:
+         Reasoning: The product could potentially disrupt the market by providing a more efficient alert system. However, its impact might be limited by existing systems.
+      Score: 65

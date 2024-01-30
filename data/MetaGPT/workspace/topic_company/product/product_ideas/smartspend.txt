@@ -1,0 +1,2 @@
+Product: SmartSpend
+Product Description: SmartSpend is an intelligent spending tracker that uses machine learning algorithms to analyze users' spending patterns. It categorizes expenses automatically and provides insights into where users are spending the most. SmartSpend also offers personalized recommendations on how to optimize spending and save money. The app will send alerts when users are approaching their budget limits or overspending in specific categories.

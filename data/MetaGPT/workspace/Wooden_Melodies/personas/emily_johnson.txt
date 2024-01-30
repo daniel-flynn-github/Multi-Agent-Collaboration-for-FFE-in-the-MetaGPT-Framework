@@ -1,0 +1,12 @@
+Name: Emily Johnson
+
+Age: 21
+
+Demographic: Undergraduate Product and Design student at the University of Glasgow and Glasgow School of Art
+
+Biography: Emily is a creative and detail-oriented student. She has a keen interest in woodworking and enjoys listening to classical music. She has a knack for creating intricate designs and wants to incorporate this skill into her project.
+
+Goals: Emily aims to create a product that reflects her love for intricate designs and classical music. She wants to create something that can be appreciated not just for its functionality, but also for its design.
+
+Frustrations: Emily is worried about the technical aspects of incorporating music into a wooden product. She is also concerned about the project's feasibility within the given timeframe and budget.
+

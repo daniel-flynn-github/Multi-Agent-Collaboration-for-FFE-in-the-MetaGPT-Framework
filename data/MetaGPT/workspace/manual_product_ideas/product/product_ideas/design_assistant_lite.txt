@@ -1,0 +1,3 @@
+Product: Design Assistant Lite
+Initiative: AI-powered Design Assistant
+Product Description: Design Assistant Lite is a simplified version of Design Assistant Pro, targeted towards individual designers and small businesses. It offers basic design suggestions based on user preferences and industry trends, helping users enhance the visual appeal of their products without the need for extensive AI analysis. It also provides a curated library of design templates and resources for quick inspiration.

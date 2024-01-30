@@ -1,0 +1,12 @@
+Name: Michael Brown
+
+Age: 45
+
+Demographic: Male, married with three children
+
+Biography: Michael is a small business owner who runs a local restaurant. He is passionate about cooking and providing excellent service to his customers. He enjoys spending time with his family and trying out new recipes in his free time.
+
+Goals: Michael wants to find a reliable and efficient solution for managing his business finances. He wants to track his expenses, monitor his cash flow, and optimize his budget to increase profitability.
+
+Frustrations: Michael finds it time-consuming to manually track his business expenses and often struggles with cash flow management. He also faces challenges in accurately forecasting his budget and controlling costs.
+

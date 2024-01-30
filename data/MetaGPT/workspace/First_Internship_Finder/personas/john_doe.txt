@@ -1,0 +1,14 @@
+Name: John Doe
+
+Age: 20
+
+Demographic: Undergraduate Computer Science Student
+
+Biography: John is a second-year computer science student at a well-known university. He is passionate about software development and has been coding since high school. He has a good academic record and has worked on several projects in his spare time. However, he has never had a formal job or internship experience in the field.
+
+Goals: John's primary goal is to secure his first internship in a software development role. He wants to gain practical experience and learn from industry professionals.
+
+Frustrations: John is frustrated by the time-consuming process of tailoring his application to each internship provider. He also finds it difficult to showcase his skills and projects effectively on his resume.
+
+Journey Map: John starts by searching for internships online. He spends a lot of time reading about each company and tailoring his application. He applies to several companies but doesn't hear back from most of them. He feels discouraged and unsure about how to improve his application.
+

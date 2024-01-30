@@ -1,0 +1,2 @@
+Product: Expense Manager Pro
+Product Description: Expense Manager Pro is a comprehensive budget management tool for individuals and families. It allows users to create custom budgets for different categories such as groceries, entertainment, and transportation. The app syncs with users' bank accounts and credit cards to automatically track expenses. Expense Manager Pro also provides visualizations and reports to help users analyze their spending habits and make informed financial decisions.

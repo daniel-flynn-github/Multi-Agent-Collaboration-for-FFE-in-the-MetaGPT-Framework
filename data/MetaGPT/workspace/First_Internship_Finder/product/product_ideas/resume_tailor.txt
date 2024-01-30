@@ -1,0 +1,31 @@
+Product: Resume Tailor
+Product Description: An AI-powered tool that can help students tailor their resumes to match the specific requirements of each internship provider. The tool can analyze the job description and suggest changes in the resume to make it more suitable.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: Given the budget and timeframe, developing an AI tool for resume tailoring is feasible but may require significant resources.
+      Score: 70
+  Go to Market:
+         Reasoning: The market need is clear, but marketing an AI product to students may require strategic partnerships with universities or job boards.
+      Score: 60
+  Required Partners:
+         Reasoning: Partnerships with universities and job boards would be beneficial for data sourcing and market reach.
+      Score: 75
+  Compatibility with Company:
+         Reasoning: The product aligns with the company's mission to facilitate students' internship search.
+      Score: 90
+
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: Given the increasing number of students seeking internships, the market size for a resume tailoring tool is substantial. However, the market penetration might be limited due to the availability of free resources online.
+      Score: 60
+  Potential Attractive Returns:
+         Reasoning: The potential returns could be significant if the product is priced competitively and marketed effectively to students.
+      Score: 65
+  Protectable Advantage:
+         Reasoning: The use of AI for resume tailoring could be a unique selling point, but it might be challenging to protect this advantage due to the rapid advancement in AI technology.
+      Score: 55
+  Likelihood of disruptive impact with Company:
+         Reasoning: The product could disrupt the market by providing a unique solution to a common problem faced by students. However, its impact might be limited due to competition.
+      Score: 60
