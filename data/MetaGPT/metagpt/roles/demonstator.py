@@ -1,5 +1,5 @@
 
-from metagpt.actions import CreateSolutions, AnalyseFeasibility, AnalyseMarketViability, 
+from metagpt.actions import AnalyseMarketViability, CreateSolutions, Summarise
 from metagpt.roles import Role
 from metagpt.logs import logger
 from metagpt.actions import ActionOutput
@@ -22,10 +22,10 @@ class Demonstrator(Role):
 
 
         # Initialize actions specific to the Architect role
-        self._init_actions([AnalyseFeasibility])
+        self._init_actions([Summarise])
 
         # Set events or actions the Architect should watch or be aware of
-        self._watch([AnalyseFeasibility])
+        self._watch([AnalyseMarketViability])
 
     
     async def _act(self) -> Message:
@@ -35,10 +35,19 @@ class Demonstrator(Role):
 
             logger.info(f"{self._setting}: ready to {self._rc.todo}")
             context = self.get_memories()
-            if context[0].cause_by == AnalyseFeasibility:  
-                needed_context = context[0].content + context[-2].content
-            else:
-                needed_context = context[-1].content
+            needed_context = ""
+            best_product_string = context[-1].content
+            lines = best_product_string.split("\n")
+            best_product = lines[0].replace("The best product is: ", "")
+            for c in context:
+                 if c.cause_by == CreateSolutions:
+                      needed_context += c.instruct_content.dict()["Project name"] + "\n"
+                      solutions = c.instruct_content.dict()["Solutions"]
+                      for product in solutions:
+                           if product["Product name"]== best_product:
+                                needed_context += str(product) + "\n"
+            needed_context += best_product_string
+            logger.debug("\n#######################################################\nSUMMARISATION NEEDED CONTEXT: ",needed_context,"\n#######################################################\n")
             response = await self._rc.todo.run(needed_context)
             # logger.info(response)
             if isinstance(response, ActionOutput):

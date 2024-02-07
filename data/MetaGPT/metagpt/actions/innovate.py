@@ -22,7 +22,7 @@ templates = {
 {format_example}
 
 Role: Your role is to come up with initiatives given a fundamental need. The initiatives should be a 
-Requirements: According to the fundamental need in the context and referencing the reasoning for its choice, fill in the following missing information, each section name is a key in json ,If the requirements are unclear, ensure minimum viability and avoid excessive design
+Requirements: According to the fundamental need in the context and referencing the reasoning for its choice, fill in the following missing information, each section name is a key in json ,If the requirements are unclear, ensure minimum viability and avoid excessive design. The response should be as close to 1500 tokens long as possible
 
 ##Project name: Repeat the project name from the context exactly. Dont change anything and don't add any characters
 ##Initiatives: Provided as Python List[Dict[str,str]], a list of initiatives represented as a dictionary where the key is the initiative name, and the value is a description of the initiative. Create 5 initiatives. The intiative name should only include alphabetical characters and spaces.

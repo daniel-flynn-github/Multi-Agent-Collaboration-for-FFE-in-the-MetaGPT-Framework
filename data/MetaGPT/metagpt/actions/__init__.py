@@ -18,6 +18,7 @@ from metagpt.actions.solutions import CreateSolutions
 from metagpt.actions.feasibility import AnalyseFeasibility
 from metagpt.actions.marketability import AnalyseMarketViability
 from metagpt.actions.create_journey_maps import CreateJourneyMaps
+from metagpt.actions.summarise import Summarise
 
 class ActionType(Enum):
     """All types of Actions, used for indexing."""
@@ -31,6 +32,7 @@ class ActionType(Enum):
     ANALYSE_FEASIBILITY = AnalyseFeasibility
     ANALYSE_MARKET_VIABILITY = AnalyseMarketViability
     CREATE_JOURNEY_MAPS = CreateJourneyMaps
+    SUMMARISE = Summarise
 
 
 __all__ = [

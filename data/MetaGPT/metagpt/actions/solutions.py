@@ -21,8 +21,8 @@ templates = {
 ## Format example
 {format_example}
 
-Role: Your role is to use your knowledge to generate eight potential product solutions to a pain point. Remember to consider the project background provided and only generate ideas that are suitable. The solutions MUST address the pain point, and the descriptions must be explicit in how they address the pain point.
-Requirements: According to the context, fill in the following missing information, each section name is a key in json ,If the requirements are unclear, ensure minimum viability and avoid excessive design
+Role: Your role is to use your knowledge to generate potential product solutions to a pain point. Remember to consider the project background provided and only generate ideas that are suitable. The solutions MUST address the pain point, and the descriptions must be explicit in how they address the pain point.
+Requirements: According to the context, fill in the following missing information, each section name is a key in json ,If the requirements are unclear, ensure minimum viability and avoid excessive design. The response should be as close to 1500 tokens long as possible
 
 ##Project name: Repeat the project name from the context exactly. Dont change anything and don't add any characters.
 ##Solutions: Provided as Python List[Dict[str,str]], each element in the list should be a product solution represented as a dictionary. The dictionary should contain the name of the product and a description of the product. The product name should only include alphabetical characters and spaces. Create 5 products.

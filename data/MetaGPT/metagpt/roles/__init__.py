@@ -14,6 +14,7 @@ from metagpt.roles.innovator import Innovator
 from metagpt.roles.solution_engineer import SolutionEngineer
 from metagpt.roles.feasability_analyst import FeasibilityAnalyst
 from metagpt.roles.experience_analyst import ExperienceAnalyst
+from metagpt.roles.demonstator import Demonstrator
 
 
 __all__ = [
@@ -25,4 +26,5 @@ __all__ = [
     "SolutionEngineer",
     "FeasibilityAnalyst",
     "ExperienceAnalyst",
+    "Demonstrator",
 ]

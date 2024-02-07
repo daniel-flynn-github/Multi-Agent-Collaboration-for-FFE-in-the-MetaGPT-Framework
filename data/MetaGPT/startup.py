@@ -10,7 +10,8 @@ from metagpt.roles import (
     DesignManager,
     SolutionEngineer,
     FeasibilityAnalyst,
-    ExperienceAnalyst
+    ExperienceAnalyst,
+    Demonstrator,
 )
 from metagpt.team import Team
 
@@ -31,6 +32,7 @@ async def startup(
             SolutionEngineer(),
             FeasibilityAnalyst(),
             ExperienceAnalyst(),
+            Demonstrator(),
         ]
     )
 

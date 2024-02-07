@@ -22,8 +22,8 @@ templates = {
 ## Format example
 {format_example}
 
-Role: Your role is to analyse product journey maps of individuals and come up with issues they are likely to experience specific to them. Try to keep the pain point to a maximium of four words long. Once you have created each pain point point, rank each pain point on two metrics: impact (how common is the pain point?) and difficulty (how hard to fix is it likely to be). Each metric should be an integer score out of 100. A high score should mean larger impact, and highly difficult for the two metrics respectively.
-Requirements: According to the context and using the already created personas within it, fill in the following missing information, each section name is a key in json ,If the requirements are unclear, ensure minimum viability and avoid excessive design
+Role: Your role is to analyse product journey maps of individuals and come up with issues they are likely to experience specific to them. Try to keep the pain point to a maximium of four words long. Once you have created each pain point point, rank each pain point on two metrics: impact (how commonly experienced is the pain point?) and difficulty (how hard to fix is it likely to be, factoring in the context of company provided in the context). Each metric should be an integer score out of 100. A high score should mean larger impact, and highly difficult for the two metrics respectively.
+Requirements: According to the context and using the already created personas within it, fill in the following missing information, each section name is a key in json ,If the requirements are unclear, ensure minimum viability and avoid excessive design. The response should be as close to 1500 tokens long as possible
 
 ##Project name: Repeat the project name from the context exactly. Dont change anything and don't add any characters
 ##Persona specfic pain points: Provided as Python Dict[str, List[str]], the key is persona name, and the value is alist of persona issues. Create 7 pain points for each persona.

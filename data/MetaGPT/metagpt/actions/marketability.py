@@ -22,10 +22,14 @@ templates = {
 {format_example}
 
 Role: Your role is to analyse how well a product could perform on the market for a company, using both the context you are given and any context you know from your own knowledge base.
-Requirements: Analyse the how well the product could perform on the market for all the products in the context with as much critical thought as possible. For each product, you have to analyse four features, describe how feasible they are in terms of each feature, and give the feature a score out of 100 (where 100 is best and 0 is worst): 1) Potential Market Size: How much of the market will the product be able to capture given the resources the company would have, the budget for the whole project, and the timeframe for the whole project, and your knowledge of the market. 2) Potential Attractive Returns: What are the potential returns from creating this product and selling it, and how good are they? 3) Protectable Advantage: What advantages does this product have over similair competing products in the market, and how protectable are they? 4) Likelihood of disruptive impact: Is the product likely to be able to either disrupt pre-existing markets or create a new one? Fill in the following missing information, each section name is a key in json ,If the requirements are unclear, ensure minimum viability and avoid excessive design. The score next to product name is just a placeholder: it should always be 0 and do not include it in your average calculations. LIMIT YOURR RESPONSE TO 1500 TOKENS
+Requirements: Analyse the how well the product could perform on the market for all the products in the context with as much critical thought as possible. For each product, you have to analyse four features, describe how feasible they are in terms of each feature, and give the feature a score out of 100 (where 100 is best and 0 is worst): 1) Potential Market Size: How much of the market will the product be able to capture given the resources the company would have, the budget for the whole project, and the timeframe for the whole project, and your knowledge of the market. 2) Potential Attractive Returns: What are the potential returns from creating this product and selling it, and how good are they? 3) Protectable Advantage: What advantages does this product have over similair competing products in the market, and how protectable are they? 4) Likelihood of disruptive impact: Is the product likely to be able to either disrupt pre-existing markets or create a new one? FINALLY FILL IN THE AVERAGE SCORE as the mean average of all the scores (rounded to the nearest two decimal places). Leave the text for average score as it is in the template. fill in the following missing information, each section name is a key in json ,If the requirements are unclear, ensure minimum viability and avoid excessive design. LIMIT THE RESPONSE TO 1500 tokens
 
 ##Project name: Repeat the project name from the context exactly. Dont change anything and don't add any characters
-##Market Viability: Provided as Python List[Dict[str,List[str]]], a list of dictionaries of features and their scores for each product.
+##Market Viability: Provided as Python List[Dict[str,List[str]]], a list where each element corresponds to each product. Each element should contain be a dictionary, where each feature is a key and the corresponding value is a list. The list should contain first a string analysis of the market viability of the product in terms of that feature, and then a score out of 100 (a str value) for that feature. NOTE -> The score for the product name is a placeholder and SHOULD ALWAYS BE ZERO
+THE AVERAGE SCORE LIST SHOULD ONLY CONTAIN A SINGLE ELEMENT THAT IS A NUMBER
+THE SCORES AND REASONING MUST BE DIFFERENT FOR EACH PRODUCT. THE SCORE MUST ALWAYS BE AN NUMBER.
+LIMIT THE ANALYSIS TO TWO SENTENCES MAX
+
 
 output a properly formatted JSON, wrapped inside [CONTENT][/CONTENT] like format example,
 and only output the json inside this tag, nothing else
@@ -35,15 +39,17 @@ and only output the json inside this tag, nothing else
 {
     ""Project name": "project_name"
     ""Market Viability": "[{"Product name":["Product1 name",0],
-                         "Potential Market Size":["Potential Market Size for product 1", 44],
-                         "Potential Attractive Returns":["Potential Attractive Returns for product 1",67], 
-                         "Protectable Advantage":["Protectable Advantage for product 1",89], 
-                         "Likelihood of disruptive impact":["Likelihood of disruptive impact for product 1",7]},
+                         "Potential Market Size":["Potential Market Size for product 1",],
+                         "Potential Attractive Returns":["Potential Attractive Returns for product 1"], 
+                         "Protectable Advantage":["Protectable Advantage for product 1",], 
+                         "Likelihood of disruptive impact":["Likelihood of disruptive impact for product 1",],
+                         "Average Score": [""]},
                          {"Product name":["Product2 name",0], 
-                         "Potential Market Size":["Potential Market Size for product 2", 44], 
-                         "Potential Attractive Returns":["Potential Attractive Returns for product 2",67], 
-                         "Protectable Advantage":["Protectable Advantage for product 2",89], 
-                         "Likelihood of disruptive impact":["Likelihood of disruptive impact for product 2",7]}]"
+                         "Potential Market Size":["Potential Market Size for product 2",], 
+                         "Potential Attractive Returns":["Potential Attractive Returns for product 2",], 
+                         "Protectable Advantage":["Protectable Advantage for product 2",], 
+                         "Likelihood of disruptive impact":["Likelihood of disruptive impact for product 2",],
+                         "Average Score": [""]}]"
 }
 [/CONTENT]
 
@@ -76,7 +82,7 @@ class AnalyseMarketViability(Action):
         for market_viability in list_of_market_viabilities:
             solution_file = solutions_path / (market_viability['Product name'][0].lower().replace(' ','_') + ".txt")
             with open(solution_file,"a") as file:
-                file.write("\n\n\nMarket Viability Analysis: \n  Potential Market Size:\n         Reasoning: " + market_viability['Potential Market Size'][0] + "\n      Score: " + str(market_viability['Potential Market Size'][1]) + "\n  Potential Attractive Returns:\n         Reasoning: " + market_viability['Potential Attractive Returns'][0] + "\n      Score: " + str(market_viability['Potential Attractive Returns'][1]) + "\n  Protectable Advantage:\n         Reasoning: " + market_viability['Protectable Advantage'][0] + "\n      Score: " + str(market_viability['Protectable Advantage'][1]) + "\n  Likelihood of disruptive impact with Company:\n         Reasoning: " + market_viability['Likelihood of disruptive impact'][0] + "\n      Score: " + str(market_viability['Likelihood of disruptive impact'][1]) + "\n")
+                file.write("\n\n\nMarket Viability Analysis: \n  Potential Market Size:\n         Reasoning: " + market_viability['Potential Market Size'][0] + "\n      Score: " + str(market_viability['Potential Market Size'][1]) + "\n  Potential Attractive Returns:\n         Reasoning: " + market_viability['Potential Attractive Returns'][0] + "\n      Score: " + str(market_viability['Potential Attractive Returns'][1]) + "\n  Protectable Advantage:\n         Reasoning: " + market_viability['Protectable Advantage'][0] + "\n      Score: " + str(market_viability['Protectable Advantage'][1]) + "\n  Likelihood of disruptive impact with Company:\n         Reasoning: " + market_viability['Likelihood of disruptive impact'][0] + "\n      Score: " + str(market_viability['Likelihood of disruptive impact'][1]) + "\n" + "Average score: " + str(market_viability['Average Score'][0]))
 
  
 

@@ -26,20 +26,18 @@ class ExperienceAnalyst(Role):
         self._watch({CreatePersonas})
 
     async def _act(self) -> Message:
-        # prompt = self.get_prefix()
-        # prompt += ROLE_TEMPLATE.format(name=self.profile, state=self.states[self.state], result=response,
-        #                                history=self.history)
-
         logger.info(f"{self._setting}: ready to {self._rc.todo}")
         background = self.get_memories()[0].instruct_content.dict()
-        logger.info("JOURNEY MAP BACKGROUND: " + str("Product topic: \n" + background["Topic"] + "\n\nPersonas: \n" + (self._rc.important_memory[0]).content))
-        response = (await self._rc.todo.run("Product topic: \n" + background["Topic"] + "\n\nPersonas: \n" + (self._rc.important_memory[0]).content))
-        # logger.info(response)
-        print("HERE")
-        msg = Message(content=response.content, role=self.profile, cause_by=type(self._rc.todo))
+        needed_context = str("Product topic: \n" + background["Topic"] + "\n\nPersonas: \n" + (self._rc.important_memory[0]).content)
+        logger.debug("\n#######################################################\nJOURNEY MAP NEEDED CONTEXT: " + needed_context + "\n#######################################################\n")
+        response = (await self._rc.todo.run(needed_context))
+        #logger.info(response)
+        if isinstance(response, ActionOutput):
+            msg = Message(content=response.content, instruct_content=response.instruct_content,
+                        role=self.profile, cause_by=type(self._rc.todo))
+        else:
+            msg = Message(content=response.content, role=self.profile, cause_by=type(self._rc.todo))
         self._rc.memory.add(msg)
-        logger.debug(f"{response}")
-
         return msg
         
 

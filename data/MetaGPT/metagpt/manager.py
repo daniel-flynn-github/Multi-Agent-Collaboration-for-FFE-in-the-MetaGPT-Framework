@@ -19,6 +19,7 @@ class Manager:
             "ExperienceAnalyst":"NeedsAnalyst",
             "NeedsAnalyst":"SolutionEngineer",
             "SolutionEngineer":"FeasibilityAnalyst",
+            "FeasibilityAnalyst":"Demonstrator",
         }
         """self.role_directions = {
             "BOSS": "Product Manager",
@@ -69,6 +70,5 @@ class Manager:
         else:
             logger.error(f"No available role can handle message: {message}.")
             return
-
         # Find the chosen role and handle the message
         return await next_role.handle(message)
