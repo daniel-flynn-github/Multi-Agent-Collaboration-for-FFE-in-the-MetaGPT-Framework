@@ -1,0 +1,32 @@
+Product: Outdoor Climbing Guidebook App
+Product Description: The Outdoor Climbing Guidebook App is a mobile application designed to assist intermediate boulder and sport climbers in navigating outdoor climbing routes. This app provides detailed information about climbing areas, including route descriptions, difficulty ratings, and safety considerations. It also offers interactive maps, allowing climbers to easily locate and access different climbing spots. The app features user-generated content, enabling climbers to share their experiences, tips, and recommendations with the community. Additionally, the app includes a checklist feature for climbers to ensure they have all the necessary gear before heading to the crag. The Outdoor Climbing Guidebook App serves as a valuable resource for climbers looking to explore outdoor climbing while staying informed and prepared.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: The research and development for the Outdoor Climbing Guidebook App is highly feasible for Scarpa. They can leverage their existing technological capabilities and expertise in outdoor footwear to develop the app. With their budget and timeframe, they can hire app developers and collaborate with climbing experts to create a user-friendly and informative guidebook app.
+      Score: 95
+  Go to Market:
+         Reasoning: Scarpa can effectively establish the Outdoor Climbing Guidebook App in the market by leveraging their brand reputation and existing customer base. They can promote the app through their website, social media channels, and partnerships with climbing gyms and outdoor retailers. With proper marketing and user engagement strategies, the app can gain popularity among the target audience.
+      Score: 90
+  Required Partners:
+         Reasoning: The development of the Outdoor Climbing Guidebook App may require partnerships with app developers and climbing experts. Scarpa can collaborate with these partners to ensure the app's functionality, accuracy, and user experience. While this may add some complexity, it is feasible within their budget and timeframe.
+      Score: 85
+  Compatibility with Company:
+         Reasoning: The Outdoor Climbing Guidebook App aligns well with Scarpa's mission to enhance outdoor performance and inspire a connection with nature. It complements their existing product range by providing climbers with a valuable resource to navigate outdoor climbing routes. The app's user-generated content feature also encourages community engagement, which aligns with Scarpa's emphasis on sharing experiences and recommendations.
+      Score: 95
+Average Score: 91
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The Outdoor Climbing Guidebook App has a large potential market size as it caters to a wide range of intermediate climbers looking for comprehensive information and guidance in navigating outdoor climbing routes. With the increasing popularity of mobile apps in the outdoor industry, Scarpa can capture a significant portion of this market.
+      Score: 90
+  Potential Attractive Returns:
+         Reasoning: The Outdoor Climbing Guidebook App has high potential for attractive returns as it offers a convenient and user-friendly solution for climbers to access detailed route information and safety considerations. With in-app purchases and partnerships with climbing organizations, Scarpa can generate substantial revenue and achieve a strong return on investment.
+      Score: 95
+  Protectable Advantage:
+         Reasoning: The Outdoor Climbing Guidebook App can have a protectable advantage by leveraging Scarpa's expertise in outdoor footwear and their commitment to technological innovation. By incorporating advanced features such as interactive maps and user-generated content, Scarpa can differentiate their app from competitors and establish a leading position in the climbing guidebook app market.
+      Score: 95
+  Likelihood of disruptive impact with Company:
+         Reasoning: The Outdoor Climbing Guidebook App has the potential to disrupt the traditional climbing guidebook market by offering a digital and interactive solution. This app can revolutionize the way climbers access and share information, providing a more convenient and dynamic experience for outdoor enthusiasts.
+      Score: 90
+Average score: 92.5

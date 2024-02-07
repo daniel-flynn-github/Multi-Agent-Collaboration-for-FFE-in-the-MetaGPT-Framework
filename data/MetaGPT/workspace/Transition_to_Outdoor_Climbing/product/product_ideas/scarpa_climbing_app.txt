@@ -1,0 +1,32 @@
+Product: Scarpa Climbing App
+Product Description: The Scarpa Climbing App is a mobile application designed to assist climbers in transitioning from indoor to outdoor climbing. It features tutorials, safety guidelines, route suggestions, and a community forum. The app also includes a time management tool that helps climbers plan their climbing sessions, track their progress, and set goals. This tool addresses the time management pain point by helping climbers efficiently plan and manage their outdoor climbing sessions.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: Developing a mobile app requires technical expertise outside Scarpa's core competency, potentially straining the budget and extending the timeframe.
+      Score: 60
+  Go to Market:
+         Reasoning: While an app could reach a global audience, it faces stiff competition from existing climbing apps and requires a strong marketing strategy.
+      Score: 65
+  Required Partners:
+         Reasoning: Scarpa would likely need to partner with a software development company, which could complicate project management and increase costs.
+      Score: 55
+  Compatibility with Company:
+         Reasoning: Although an app could enhance Scarpa's digital presence, it diverges from their focus on tangible, high-quality outdoor gear.
+      Score: 70
+Average Score: 62.5
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The potential market size for the Scarpa Climbing App is vast, considering the increasing use of mobile applications for fitness and outdoor activities. However, the market is also highly competitive with numerous existing climbing and outdoor apps.
+      Score: 75
+  Potential Attractive Returns:
+         Reasoning: The Scarpa Climbing App could generate attractive returns through in-app purchases and premium features. However, the development and maintenance costs of a mobile application can be high.
+      Score: 70
+  Protectable Advantage:
+         Reasoning: The Scarpa Climbing App could offer unique features tailored to Scarpa's customer base, creating a protectable advantage. However, many features of outdoor activity apps are common and easily replicable.
+      Score: 65
+  Likelihood of disruptive impact with Company:
+         Reasoning: The Scarpa Climbing App could potentially disrupt the market if it offers innovative features not found in existing climbing apps. However, creating a truly disruptive app in the crowded fitness and outdoor app market is challenging.
+      Score: 65
+Average score: 68.75

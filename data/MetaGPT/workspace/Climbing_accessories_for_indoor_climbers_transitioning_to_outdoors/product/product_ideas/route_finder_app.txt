@@ -1,0 +1,16 @@
+Product: Route Finder App
+Product Description: The Route Finder App is a mobile application designed to help indoor climbers transitioning to outdoor climbing find suitable climbing routes. The app uses GPS technology to identify the user's location and provides a comprehensive database of climbing routes in the area. It includes detailed information about each route, such as difficulty level, route type, and rock type. Users can filter routes based on their climbing preferences and skill level, making it easier to find routes that match their abilities. The app also allows users to read reviews and ratings from other climbers, providing valuable insights and recommendations. With the Route Finder App, climbers can confidently explore new outdoor climbing areas and discover routes that suit their skill level and interests.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: The research and development for the Route Finder App is highly feasible as it primarily involves software development and integration with existing databases. With Scarpa's established expertise in outdoor footwear technology and a sufficient budget and timeframe, the app can be effectively researched and developed.
+      Score: 90
+  Go to Market:
+         Reasoning: The Route Finder App has a high feasibility in terms of go-to-market as it can be easily distributed through app stores and online platforms. Scarpa's strong brand reputation and existing customer base in the outdoor footwear market will facilitate the app's market penetration.
+      Score: 85
+  Required Partners:
+         Reasoning: The Route Finder App does not require extensive partnerships as it primarily relies on existing climbing route databases. Scarpa can collaborate with outdoor climbing organizations and communities to ensure accurate and up-to-date route information. Overall, the required partnerships are feasible within the given constraints.
+      Score: 95
+  Compatibility with Company:
+         Reasoning: The Route Finder App is highly compatible with Scarpa's brand and mission as it aligns with their goal of enhancing outdoor performance and safety. It complements Scarpa's existing product range and reinforces their commitment to innovation and technological advancement.
+      Score: 95
+Average Score: 91.25

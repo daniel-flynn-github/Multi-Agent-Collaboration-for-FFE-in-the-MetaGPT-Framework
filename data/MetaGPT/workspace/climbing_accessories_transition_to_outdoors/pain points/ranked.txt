@@ -1,0 +1,7 @@
+1. Pain Point: Finding suitable climbing shoes Impact = 80 Difficulty = 70 Overall = 55.0 
+2. Pain Point: Carrying heavy climbing gear Impact = 70 Difficulty = 60 Overall = 55.0 
+3. Pain Point: Dealing with sweaty hands Impact = 60 Difficulty = 50 Overall = 55.0 
+4. Pain Point: Navigating difficult climbing routes Impact = 90 Difficulty = 80 Overall = 55.0 
+5. Pain Point: Finding climbing partners Impact = 50 Difficulty = 40 Overall = 55.0 
+6. Pain Point: Managing fear of heights Impact = 70 Difficulty = 60 Overall = 55.0 
+7. Pain Point: Preventing injuries Impact = 80 Difficulty = 90 Overall = 45.0 

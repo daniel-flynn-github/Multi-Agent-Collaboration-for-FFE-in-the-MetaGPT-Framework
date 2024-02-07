@@ -1,0 +1,31 @@
+Product: Climbing Shoe Fit Guide
+Product Description: An online platform that provides detailed information and guides on how to choose the right climbing shoes based on foot shape, climbing style, and level of experience. This will educate climbers on the factors to consider when selecting climbing shoes, making it easier to find suitable options.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: Feasible given Scarpa's expertise and resources, with a score of 90.
+      Score: 90
+  Go to Market:
+         Reasoning: Scarpa's strong brand reputation and existing customer base make it feasible to establish the product in the market, with a score of 95.
+      Score: 95
+  Required Partners:
+         Reasoning: No significant partners required, making it highly feasible to develop the product within the given constraints, with a score of 100.
+      Score: 100
+  Compatibility with Company:
+         Reasoning: The product aligns perfectly with Scarpa's existing product range and target audience, making it highly compatible, with a score of 100.
+      Score: 100
+
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The potential market size for a climbing shoe fit guide is significant, as it would cater to climbers who struggle with finding the right shoe fit. With Scarpa's expertise and resources, they would be able to capture a significant portion of this market. The score is 90.
+      Score: 90
+  Potential Attractive Returns:
+         Reasoning: The potential returns from creating and selling a climbing shoe fit guide are high, as it would provide a solution to a common problem faced by climbers. Additionally, the market for this product is relatively untapped, giving Scarpa a competitive advantage. The score is 95.
+      Score: 95
+  Protectable Advantage:
+         Reasoning: The climbing shoe fit guide provides a protectable advantage, as it would require expertise in both climbing gear and foot anatomy. This would make it difficult for competitors to replicate the same level of accuracy and effectiveness. The score is 90.
+      Score: 90
+  Likelihood of disruptive impact with Company:
+         Reasoning: A climbing shoe fit guide has the potential to disrupt the market for traditional shoe fitting methods, such as manual measurements and trial-and-error. By providing a more efficient and accurate way to find the right shoe fit, Scarpa could establish themselves as a leader in this emerging market. The score is 85.
+      Score: 85

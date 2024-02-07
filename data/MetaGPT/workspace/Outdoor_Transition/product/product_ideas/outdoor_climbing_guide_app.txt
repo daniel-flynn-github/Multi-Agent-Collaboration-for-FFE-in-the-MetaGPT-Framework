@@ -1,0 +1,32 @@
+Product: Outdoor Climbing Guide App
+Product Description: The Outdoor Climbing Guide App is a mobile application designed to assist intermediate boulder and sport climbers in their transition to outdoor climbing. The app provides a comprehensive database of outdoor climbing routes, including detailed descriptions, difficulty ratings, and route photos. It also offers interactive maps with GPS functionality to help climbers navigate to the crag and locate specific routes. The app includes safety tips, gear recommendations, and training exercises to help climbers prepare for outdoor climbing. With offline access and regular updates, the Outdoor Climbing Guide App ensures climbers have the necessary information at their fingertips, promoting a safe and enjoyable outdoor climbing experience.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: The research and development for the Outdoor Climbing Guide App is highly feasible as Scarpa can leverage their existing expertise in outdoor footwear technology to develop a mobile application. With their resources, budget, and timeframe, they can collaborate with app development companies to create a user-friendly and feature-rich app.
+      Score: 95
+  Go to Market:
+         Reasoning: Scarpa's strong brand reputation and existing customer base make it feasible to establish the Outdoor Climbing Guide App in the market. With targeted marketing campaigns and partnerships with climbing communities, they can effectively reach their target audience.
+      Score: 90
+  Required Partners:
+         Reasoning: The development of the Outdoor Climbing Guide App may require collaboration with external partners specializing in mobile app development and mapping services. Finding the right partners within the given budget and timeframe should be feasible.
+      Score: 80
+  Compatibility with Company:
+         Reasoning: The Outdoor Climbing Guide App aligns well with Scarpa's mission of enhancing outdoor performance and safety. It complements their existing product range by providing climbers with valuable information and resources to ensure a safe and enjoyable climbing experience.
+      Score: 95
+Average Score: 90.0
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The Outdoor Climbing Guide App has a significant potential market size as it caters to intermediate climbers transitioning to outdoor climbing. With the increasing popularity of mobile apps for outdoor activities, it can capture a large portion of the target audience.
+      Score: 90
+  Potential Attractive Returns:
+         Reasoning: The Outdoor Climbing Guide App has high potential for attractive returns as it offers a comprehensive guide for outdoor climbers. Through in-app purchases, partnerships, and advertisements, it can generate revenue streams beyond the initial app purchase.
+      Score: 85
+  Protectable Advantage:
+         Reasoning: The Outdoor Climbing Guide App has a protectable advantage as it provides a comprehensive database of outdoor climbing routes and safety tips. Its user-friendly interface and regular updates ensure a competitive edge in the market.
+      Score: 90
+  Likelihood of disruptive impact with Company:
+         Reasoning: The Outdoor Climbing Guide App has a moderate likelihood of disruptive impact as it offers a convenient and comprehensive solution for outdoor climbers. While it may not disrupt the entire climbing industry, it can significantly impact the way climbers access and navigate outdoor routes.
+      Score: 75
+Average score: 85

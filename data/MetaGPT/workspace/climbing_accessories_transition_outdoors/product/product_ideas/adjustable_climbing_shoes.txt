@@ -1,0 +1,31 @@
+Product: Adjustable Climbing Shoes
+Product Description: Climbing shoes with adjustable features such as interchangeable soles and customizable fit to cater to different climbing styles and foot shapes.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: The research and development of adjustable climbing shoes would require expertise in footwear design and manufacturing processes. Given Scarpa's extensive experience in crafting high-quality outdoor footwear, it is feasible for the company to research and develop this product. However, it may require additional investment and testing to ensure the durability and performance of the adjustable features.
+      Score: 85
+  Go to Market:
+         Reasoning: Scarpa already has a strong presence in the climbing footwear market and a loyal customer base. Leveraging their existing distribution channels and brand reputation, it is feasible for Scarpa to effectively establish the adjustable climbing shoes in the market. However, educating customers about the benefits and customization options of the product may require additional marketing efforts.
+      Score: 80
+  Required Partners:
+         Reasoning: Developing adjustable climbing shoes may require collaboration with material suppliers and manufacturing partners. Given Scarpa's established network and resources, it is feasible for the company to work with these partners. However, sourcing and testing suitable materials and components may take time and require additional investment.
+      Score: 70
+  Compatibility with Company:
+         Reasoning: Adjustable climbing shoes align with Scarpa's mission of enhancing outdoor performance and comfort. They complement the company's existing product range and target audience of intermediate climbers. Therefore, the product is highly compatible with the company.
+      Score: 90
+
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The potential market size for adjustable climbing shoes is significant, as it caters to climbers looking for customizable footwear options. Scarpa's reputation and existing customer base provide a strong foundation for capturing a significant portion of the market. However, the market size may be limited by the niche nature of the product and the need for education and awareness among climbers.
+      Score: 80
+  Potential Attractive Returns:
+         Reasoning: The potential returns from selling adjustable climbing shoes are promising, as it offers a unique selling proposition in the climbing footwear market. Scarpa's established distribution channels and customer base provide a competitive advantage for generating attractive returns. However, the initial investment in research and development, as well as marketing efforts, may impact the overall returns.
+      Score: 85
+  Protectable Advantage:
+         Reasoning: The adjustable climbing shoes can have a protectable advantage through the integration of innovative design and customizable features. Scarpa's expertise in footwear design and manufacturing processes can be leveraged to create a unique product that sets it apart from competitors. However, protecting the intellectual property and maintaining a competitive edge may require ongoing investment in research and development.
+      Score: 90
+  Likelihood of disruptive impact with Company:
+         Reasoning: The adjustable climbing shoes have the potential to disrupt the climbing footwear market by offering customizable options for climbers. However, the extent of its disruptive impact may be limited by the niche nature of the product and the need for market education. Nonetheless, it can create a new market segment for climbers seeking personalized footwear.
+      Score: 70

@@ -1,0 +1,31 @@
+Product: Climbing Shoe Rental Service
+Product Description: A subscription-based service that allows climbers to rent high-quality climbing shoes for a specific duration. This will address the difficulty of finding suitable climbing shoes by providing access to a wide range of options without the need for a significant upfront investment.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: Feasible given Scarpa's expertise and resources, with a score of 90.
+      Score: 90
+  Go to Market:
+         Reasoning: Scarpa's strong brand reputation and existing customer base make it feasible to establish the product in the market, with a score of 95.
+      Score: 95
+  Required Partners:
+         Reasoning: Partnerships with climbing gyms and outdoor retailers may be required, but feasible within the given constraints, with a score of 85.
+      Score: 85
+  Compatibility with Company:
+         Reasoning: The product aligns well with Scarpa's existing product range and target audience, making it highly compatible, with a score of 95.
+      Score: 95
+
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The potential market size for a climbing shoe rental service is significant, as it would cater to climbers who prefer renting gear instead of purchasing it. With Scarpa's expertise and resources, they would be able to capture a significant portion of this market. The score is 90.
+      Score: 90
+  Potential Attractive Returns:
+         Reasoning: The potential returns from creating and operating a climbing shoe rental service are moderate, as it would provide a recurring revenue stream. However, the profit margins may not be as high as selling climbing shoes directly. The score is 70.
+      Score: 70
+  Protectable Advantage:
+         Reasoning: The rental service model provides a protectable advantage, as it would require a network of climbing gyms and outdoor retailers to partner with Scarpa. This would make it difficult for competitors to replicate the same level of convenience and availability. The score is 80.
+      Score: 80
+  Likelihood of disruptive impact with Company:
+         Reasoning: A climbing shoe rental service has the potential to disrupt the market for traditional climbing shoe sales, especially among climbers who prefer renting gear for occasional use. By offering a cost-effective and convenient rental solution, Scarpa could capture a new segment of the market. The score is 85.
+      Score: 85

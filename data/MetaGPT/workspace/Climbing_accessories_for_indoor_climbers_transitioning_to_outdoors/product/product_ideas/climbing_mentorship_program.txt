@@ -1,0 +1,16 @@
+Product: Climbing Mentorship Program
+Product Description: The Climbing Mentorship Program is a structured program designed to support indoor climbers transitioning to outdoor climbing. It pairs experienced outdoor climbers with mentees who are new to outdoor climbing. Mentors provide guidance, share their knowledge and expertise, and accompany mentees on climbing trips. The program includes training sessions, where mentees learn essential outdoor climbing skills, such as route finding, anchor building, and risk assessment. Mentors also provide feedback and advice to help mentees improve their climbing techniques and build confidence. The Climbing Mentorship Program fosters a supportive community and facilitates the smooth transition from indoor to outdoor climbing, ensuring a safe and enriching experience for all participants.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: The research and development for the Climbing Mentorship Program is feasible as it involves designing a structured program and training materials. With Scarpa's expertise in outdoor footwear and a sufficient budget and timeframe, the program can be effectively researched and developed.
+      Score: 85
+  Go to Market:
+         Reasoning: The Climbing Mentorship Program has a high feasibility in terms of go-to-market as it can be promoted through Scarpa's existing marketing channels and partnerships with climbing gyms and outdoor organizations. Scarpa's strong brand reputation and customer trust will facilitate the program's market penetration.
+      Score: 90
+  Required Partners:
+         Reasoning: The Climbing Mentorship Program requires partnerships with experienced outdoor climbers who can serve as mentors. Scarpa's established network and reputation in the outdoor industry make these partnerships feasible within the given constraints.
+      Score: 90
+  Compatibility with Company:
+         Reasoning: The Climbing Mentorship Program is highly compatible with Scarpa's brand and mission as it aligns with their goal of inspiring a connection with nature and enhancing outdoor performance and safety. It complements Scarpa's existing product range and reinforces their commitment to fostering a supportive community.
+      Score: 95
+Average Score: 90

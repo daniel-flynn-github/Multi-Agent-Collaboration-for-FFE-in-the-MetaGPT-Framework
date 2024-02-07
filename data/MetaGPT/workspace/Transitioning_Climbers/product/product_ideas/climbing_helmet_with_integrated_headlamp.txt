@@ -1,0 +1,32 @@
+Product: Climbing Helmet with Integrated Headlamp
+Product Description: This climbing helmet is designed for intermediate climbers who want to transition from indoor climbing to outdoor climbing. It features a built-in headlamp for enhanced visibility during low-light conditions. The helmet has a lightweight and durable construction with adjustable straps for a secure and comfortable fit. It meets safety standards and provides reliable protection against impacts. The integrated headlamp has different brightness settings and a rechargeable battery for convenience.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: The research and development for the climbing helmet with integrated headlamp is feasible for Scarpa, considering their expertise in outdoor equipment. The budget and timeframe allow for the development of a lightweight and protective helmet.
+      Score: 85
+  Go to Market:
+         Reasoning: Scarpa can effectively establish the climbing helmet with integrated headlamp in the market by leveraging their existing brand reputation and distribution channels. Their target audience of intermediate climbers transitioning from indoor to outdoor climbing will find this helmet convenient.
+      Score: 90
+  Required Partners:
+         Reasoning: Scarpa may need to collaborate with headlamp manufacturers to integrate the headlamp into the helmet. However, given their industry connections and resources, it is feasible for them to work with the necessary partners.
+      Score: 80
+  Compatibility with Company:
+         Reasoning: The climbing helmet with integrated headlamp aligns with Scarpa's mission of enhancing outdoor performance and safety. It complements Scarpa's existing climbing equipment range and caters to the needs of their target audience.
+      Score: 90
+Average Score: 86.25
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The potential market size for climbing helmets with integrated headlamps is moderate, as there is a niche market of intermediate climbers looking for enhanced visibility during low-light conditions. Scarpa's reputation and innovative design can help capture a significant portion of this market.
+      Score: 70
+  Potential Attractive Returns:
+         Reasoning: The potential returns from creating and selling climbing helmets with integrated headlamps are promising, as they cater to a specific target audience. By offering convenience and safety features, Scarpa can command a premium price and achieve attractive returns.
+      Score: 80
+  Protectable Advantage:
+         Reasoning: The protectable advantage of Scarpa's climbing helmet with integrated headlamp lies in its innovative design and enhanced safety features. This advantage can be protected through patents and trademarks, giving Scarpa a competitive edge in the climbing gear market.
+      Score: 85
+  Likelihood of disruptive impact with Company:
+         Reasoning: Climbing helmets with integrated headlamps have the potential to disrupt the climbing gear market by offering a convenient and safe solution for intermediate climbers transitioning to outdoor climbing. Their innovative design can create a new market segment.
+      Score: 80
+Average score: 0

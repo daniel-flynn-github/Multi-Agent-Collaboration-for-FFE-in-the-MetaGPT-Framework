@@ -1,0 +1,27 @@
+1. Pain Point: Inadequate traction Impact = 90 Difficulty = 75 Overall = 57.5 
+2. Pain Point: Uncomfortable fit Impact = 90 Difficulty = 80 Overall = 55.0 
+3. Pain Point: Limited color options Impact = 70 Difficulty = 60 Overall = 55.0 
+4. Pain Point: Narrow toe box Impact = 80 Difficulty = 70 Overall = 55.0 
+5. Pain Point: Limited toe protection Impact = 80 Difficulty = 75 Overall = 52.5 
+6. Pain Point: Unreliable lacing system Impact = 90 Difficulty = 85 Overall = 52.5 
+7. Pain Point: Difficult to put on/take off Impact = 80 Difficulty = 75 Overall = 52.5 
+8. Pain Point: Insufficient shock absorption Impact = 90 Difficulty = 85 Overall = 52.5 
+9. Pain Point: Inadequate toe protection Impact = 80 Difficulty = 75 Overall = 52.5 
+10. Pain Point: Lack of ankle support Impact = 90 Difficulty = 85 Overall = 52.5 
+11. Pain Point: Lack of cushioning Impact = 90 Difficulty = 85 Overall = 52.5 
+12. Pain Point: Inconsistent sizing Impact = 85 Difficulty = 80 Overall = 52.5 
+13. Pain Point: Difficult to clean Impact = 75 Difficulty = 70 Overall = 52.5 
+14. Pain Point: Ineffective waterproofing Impact = 80 Difficulty = 85 Overall = 47.5 
+15. Pain Point: Limited breathability Impact = 75 Difficulty = 80 Overall = 47.5 
+16. Pain Point: Poor arch support Impact = 85 Difficulty = 90 Overall = 47.5 
+17. Pain Point: Lack of insulation Impact = 85 Difficulty = 90 Overall = 47.5 
+18. Pain Point: Heel slippage Impact = 75 Difficulty = 80 Overall = 47.5 
+19. Pain Point: Limited ankle mobility Impact = 75 Difficulty = 80 Overall = 47.5 
+20. Pain Point: Unstable sole Impact = 85 Difficulty = 90 Overall = 47.5 
+21. Pain Point: Insufficient ankle support Impact = 80 Difficulty = 85 Overall = 47.5 
+22. Pain Point: Ineffective odor control Impact = 75 Difficulty = 80 Overall = 47.5 
+23. Pain Point: Inadequate arch support Impact = 85 Difficulty = 90 Overall = 47.5 
+24. Pain Point: Lack of durability Impact = 85 Difficulty = 90 Overall = 47.5 
+25. Pain Point: Insufficient breathability Impact = 75 Difficulty = 80 Overall = 47.5 
+26. Pain Point: Heavy weight Impact = 70 Difficulty = 75 Overall = 47.5 
+27. Pain Point: Insufficient waterproofing Impact = 85 Difficulty = 90 Overall = 47.5 

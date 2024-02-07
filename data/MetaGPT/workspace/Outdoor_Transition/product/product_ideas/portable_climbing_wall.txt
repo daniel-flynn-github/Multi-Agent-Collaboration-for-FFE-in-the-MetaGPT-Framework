@@ -1,0 +1,32 @@
+Product: Portable Climbing Wall
+Product Description: The Portable Climbing Wall is a compact and transportable solution for indoor climbers looking to practice and train for outdoor climbing. This innovative product consists of a foldable climbing wall that can be easily assembled and disassembled. The climbing wall is made of durable materials and features a variety of climbing holds and routes to simulate outdoor climbing conditions. With adjustable difficulty levels, climbers can gradually increase the challenge as they progress. The Portable Climbing Wall can be packed into a backpack and taken to the crag, allowing climbers to practice their skills in a controlled environment before tackling real outdoor routes.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: The research and development for the Portable Climbing Wall may pose some challenges for Scarpa as it requires expertise in designing and manufacturing foldable climbing walls. However, with their resources, budget, and timeframe, they can collaborate with external partners to develop this innovative product.
+      Score: 70
+  Go to Market:
+         Reasoning: Establishing the Portable Climbing Wall in the market may be challenging for Scarpa as it is a niche product with limited demand. They would need to invest in targeted marketing efforts and partnerships with climbing gyms to create awareness and generate sales.
+      Score: 60
+  Required Partners:
+         Reasoning: The development of the Portable Climbing Wall would require collaboration with external partners specializing in foldable structures and climbing wall design. Finding the right partners within the given budget and timeframe may be a challenge.
+      Score: 50
+  Compatibility with Company:
+         Reasoning: The Portable Climbing Wall aligns with Scarpa's mission of enhancing outdoor performance and safety. However, it may not directly complement their existing product range, making it less compatible compared to other options.
+      Score: 70
+Average Score: 62.5
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The Portable Climbing Wall has a limited potential market size as it caters to indoor climbers who want to practice and train for outdoor climbing. It may appeal to a niche audience, but its market reach may be limited.
+      Score: 60
+  Potential Attractive Returns:
+         Reasoning: The Portable Climbing Wall has moderate potential for attractive returns as it offers a unique solution for indoor climbers to simulate outdoor climbing conditions. However, the target audience may be limited, affecting the overall revenue potential.
+      Score: 65
+  Protectable Advantage:
+         Reasoning: The Portable Climbing Wall has a protectable advantage as it provides a portable and convenient solution for indoor climbers to practice outdoor climbing techniques. Its foldable design and adjustable difficulty levels differentiate it from traditional climbing walls.
+      Score: 80
+  Likelihood of disruptive impact with Company:
+         Reasoning: The Portable Climbing Wall has a limited likelihood of disruptive impact as it caters to a specific niche within the climbing market. While it offers a unique solution, its impact on the overall climbing industry may be limited.
+      Score: 60
+Average score: 66.25

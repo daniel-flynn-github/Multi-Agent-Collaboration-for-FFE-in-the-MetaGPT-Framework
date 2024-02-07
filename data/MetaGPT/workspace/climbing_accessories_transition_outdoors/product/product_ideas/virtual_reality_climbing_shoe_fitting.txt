@@ -1,0 +1,31 @@
+Product: Virtual Reality Climbing Shoe Fitting
+Product Description: A virtual reality experience that allows climbers to virtually try on different climbing shoes and assess their fit and comfort. This will address the difficulty of finding suitable climbing shoes by providing a realistic and immersive fitting experience without the need to physically try on multiple pairs.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: Feasible given Scarpa's expertise and resources, with a score of 90.
+      Score: 90
+  Go to Market:
+         Reasoning: Scarpa's strong brand reputation and existing customer base make it feasible to establish the product in the market, with a score of 95.
+      Score: 95
+  Required Partners:
+         Reasoning: Partnerships with virtual reality technology providers may be required, but feasible within the given constraints, with a score of 85.
+      Score: 85
+  Compatibility with Company:
+         Reasoning: The product aligns well with Scarpa's existing product range and target audience, making it highly compatible, with a score of 95.
+      Score: 95
+
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The potential market size for virtual reality climbing shoe fitting is moderate, as it would primarily target climbers who prefer a more immersive and accurate fitting experience. With Scarpa's expertise and resources, they would be able to capture a significant portion of this market. The score is 80.
+      Score: 80
+  Potential Attractive Returns:
+         Reasoning: The potential returns from creating and selling virtual reality climbing shoe fitting services are moderate, as it would provide a unique and premium experience for climbers. However, the market for this service may not be as large as other climbing accessories. The score is 70.
+      Score: 70
+  Protectable Advantage:
+         Reasoning: The virtual reality technology integrated into the climbing shoe fitting service provides a protectable advantage, as it would require expertise in both climbing gear and virtual reality. This would make it difficult for competitors to replicate the same level of immersion and accuracy. The score is 90.
+      Score: 90
+  Likelihood of disruptive impact with Company:
+         Reasoning: Virtual reality climbing shoe fitting has the potential to disrupt the market for traditional shoe fitting methods, such as manual measurements and trial-and-error. By providing a more immersive and accurate fitting experience, Scarpa could establish themselves as a leader in this emerging market. The score is 85.
+      Score: 85

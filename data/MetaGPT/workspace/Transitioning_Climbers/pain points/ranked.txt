@@ -1,0 +1,20 @@
+1. Pain Point: Finding suitable footwear for multi-day hikes Impact = 90 Difficulty = 70 Overall = 60.0 
+2. Pain Point: Inadequate stiffness in ski boots Impact = 80 Difficulty = 70 Overall = 55.0 
+3. Pain Point: Limited options for high-altitude mountaineering boots Impact = 90 Difficulty = 80 Overall = 55.0 
+4. Pain Point: Difficulty in finding durable hiking footwear Impact = 60 Difficulty = 50 Overall = 55.0 
+5. Pain Point: Limited options for narrow feet in rock climbing shoes Impact = 70 Difficulty = 60 Overall = 55.0 
+6. Pain Point: Inadequate warmth in ski boots Impact = 80 Difficulty = 70 Overall = 55.0 
+7. Pain Point: Lack of arch support in mountaineering boots Impact = 90 Difficulty = 80 Overall = 55.0 
+8. Pain Point: Difficulty in finding waterproof hiking footwear Impact = 60 Difficulty = 50 Overall = 55.0 
+9. Pain Point: Inadequate grip in rock climbing shoes Impact = 70 Difficulty = 60 Overall = 55.0 
+10. Pain Point: Lack of flexibility in ski boots Impact = 80 Difficulty = 70 Overall = 55.0 
+11. Pain Point: Limited options for wide feet in mountaineering boots Impact = 90 Difficulty = 80 Overall = 55.0 
+12. Pain Point: Difficulty in finding lightweight hiking footwear Impact = 60 Difficulty = 50 Overall = 55.0 
+13. Pain Point: Lack of breathability in rock climbing shoes Impact = 70 Difficulty = 60 Overall = 55.0 
+14. Pain Point: Limited range of women's mountaineering boots Impact = 80 Difficulty = 70 Overall = 55.0 
+15. Pain Point: Inadequate insulation in ski boots Impact = 90 Difficulty = 80 Overall = 55.0 
+16. Pain Point: Difficulty in finding the right fit Impact = 60 Difficulty = 50 Overall = 55.0 
+17. Pain Point: Limited ankle support in approach shoes Impact = 70 Difficulty = 60 Overall = 55.0 
+18. Pain Point: Lack of sensitivity in rock climbing shoes Impact = 70 Difficulty = 60 Overall = 55.0 
+19. Pain Point: Difficulty in finding vegan-friendly hiking footwear Impact = 60 Difficulty = 50 Overall = 55.0 
+20. Pain Point: Lack of durability in hiking boots Impact = 80 Difficulty = 80 Overall = 50.0 

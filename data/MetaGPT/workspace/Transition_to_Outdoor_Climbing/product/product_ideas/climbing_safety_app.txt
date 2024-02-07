@@ -1,0 +1,31 @@
+Product: Climbing Safety App
+Product Description: A mobile app that provides information about climbing routes, weather conditions, and safety tips. It can also connect climbers with each other and with emergency services.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: Developing an app is outside Scarpa's core competency, but with the right technical team, it can be done within the budget and timeframe.
+      Score: 55
+  Go to Market:
+         Reasoning: An app could easily be promoted through Scarpa's existing channels, but convincing climbers to use it regularly might be challenging.
+      Score: 65
+  Required Partners:
+         Reasoning: Scarpa would need to collaborate with app developers and possibly data providers for climbing routes and weather conditions, which is feasible but could be time-consuming.
+      Score: 60
+  Compatibility with Company:
+         Reasoning: An app is a significant departure from Scarpa's current product range, but it could enhance their mission of promoting outdoor exploration and safety.
+      Score: 60
+
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The market size for a Climbing Safety App could be substantial, considering the growing use of technology in outdoor activities. However, user retention might be a challenge.
+      Score: 55
+  Potential Attractive Returns:
+         Reasoning: The Climbing Safety App could provide a steady income stream through in-app purchases or subscriptions.
+      Score: 65
+  Protectable Advantage:
+         Reasoning: The app's unique features could provide a competitive edge, but the protectability might be low due to the ease of replicating digital products.
+      Score: 60
+  Likelihood of disruptive impact with Company:
+         Reasoning: The Climbing Safety App could disrupt the market by providing a comprehensive safety solution for climbers.
+      Score: 60

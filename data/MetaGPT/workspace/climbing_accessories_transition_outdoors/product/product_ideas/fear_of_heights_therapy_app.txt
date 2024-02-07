@@ -1,0 +1,31 @@
+Product: Fear of Heights Therapy App
+Product Description: A mobile application that offers a comprehensive program for individuals with a fear of heights. The app provides educational resources, virtual exposure therapy sessions, guided relaxation exercises, and progress tracking tools to help users gradually overcome their fear and gain confidence in outdoor climbing activities.
+Feasibility Analysis: 
+  Research and Development:
+         Reasoning: The research and development for this product would require expertise in mobile application development and virtual exposure therapy. Given the company's focus on footwear and limited experience in this field, it may not be feasible to allocate the necessary resources and expertise. Score: 40
+      Score: 40
+  Go to Market:
+         Reasoning: Establishing this product in the market would require a strong marketing campaign and partnerships with mobile application developers. Given the company's reputation and global recognition, it may be feasible to establish the product in the market. Score: 70
+      Score: 70
+  Required Partners:
+         Reasoning: This product would require partnerships with mobile application developers and experts in virtual exposure therapy. Given the company's reputation and resources, it may be feasible to form these partnerships. Score: 60
+      Score: 60
+  Compatibility with Company:
+         Reasoning: While this product is not directly related to the company's core expertise in outdoor footwear, it aligns with the company's mission of enhancing outdoor performance and safety. Score: 80
+      Score: 80
+
+
+
+Market Viability Analysis: 
+  Potential Market Size:
+         Reasoning: The potential market size for a fear of heights therapy app would depend on the prevalence of fear of heights and the demand for digital therapy solutions. Fear of heights is a common phobia, and there is a growing interest in digital therapy options. However, the market for specific fear of heights therapy apps may still be relatively small. Given the company's limited experience in mobile application development and virtual exposure therapy, it may not be feasible to capture a significant portion of the market. Score: 40
+      Score: 40
+  Potential Attractive Returns:
+         Reasoning: The potential returns from creating and selling a fear of heights therapy app would depend on the pricing strategy, production costs, and market demand. If priced competitively and marketed effectively, the product could generate attractive returns. However, the initial investment in research and development, as well as marketing, may be significant. Score: 60
+      Score: 60
+  Protectable Advantage:
+         Reasoning: The advantage of a fear of heights therapy app would be its convenience and accessibility compared to traditional therapy methods. This advantage may be protectable through software patents or copyrights. However, the company's limited experience in mobile application development and virtual exposure therapy may make it challenging to establish a strong protectable advantage. Score: 50
+      Score: 50
+  Likelihood of disruptive impact with Company:
+         Reasoning: A fear of heights therapy app has the potential to disrupt the market for traditional therapy methods by offering a convenient and accessible digital solution. However, the market for such apps may still be relatively niche and limited. Score: 30
+      Score: 30
