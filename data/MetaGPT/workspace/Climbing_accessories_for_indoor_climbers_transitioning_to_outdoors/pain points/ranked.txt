@@ -1,7 +1,20 @@
-1. Pain Point: Lack of experience with outdoor climbing Impact = 90 Difficulty = 75 Overall = 57.5 
-2. Pain Point: Uncertainty about necessary equipment Impact = 80 Difficulty = 70 Overall = 55.0 
-3. Pain Point: Difficulty in finding suitable climbing routes Impact = 85 Difficulty = 80 Overall = 52.5 
-4. Pain Point: Limited access to climbing partners Impact = 65 Difficulty = 70 Overall = 47.5 
-5. Pain Point: Fear of falling Impact = 75 Difficulty = 85 Overall = 45.0 
-6. Pain Point: Lack of knowledge about safety precautions Impact = 70 Difficulty = 90 Overall = 40.0 
-7. Pain Point: Challenges in transitioning from indoor to outdoor climbing Impact = 60 Difficulty = 80 Overall = 40.0 
+1. Pain Point: Lack of experience with outdoor climbing Impact = 90 Difficulty = 70 Overall = 60.0 
+2. Pain Point: Fear of heights Impact = 95 Difficulty = 75 Overall = 60.0 
+3. Pain Point: Limited access to outdoor climbing areas Impact = 85 Difficulty = 70 Overall = 57.5 
+4. Pain Point: Inconsistent weather conditions affecting climbing plans Impact = 85 Difficulty = 70 Overall = 57.5 
+5. Pain Point: Fear of getting lost Impact = 90 Difficulty = 75 Overall = 57.5 
+6. Pain Point: Fear of falling Impact = 95 Difficulty = 85 Overall = 55.0 
+7. Pain Point: Lack of knowledge about outdoor climbing techniques Impact = 90 Difficulty = 80 Overall = 55.0 
+8. Pain Point: Fear of encountering wildlife Impact = 95 Difficulty = 85 Overall = 55.0 
+9. Pain Point: Fear of injury Impact = 95 Difficulty = 85 Overall = 55.0 
+10. Pain Point: Lack of confidence in outdoor climbing abilities Impact = 90 Difficulty = 80 Overall = 55.0 
+11. Pain Point: Uncertainty about necessary gear Impact = 80 Difficulty = 75 Overall = 52.5 
+12. Pain Point: Limited availability of climbing instructors Impact = 80 Difficulty = 75 Overall = 52.5 
+13. Pain Point: Difficulty finding climbing partners Impact = 85 Difficulty = 80 Overall = 52.5 
+14. Pain Point: Limited time for outdoor climbing trips Impact = 85 Difficulty = 80 Overall = 52.5 
+15. Pain Point: Inadequate climbing gear Impact = 80 Difficulty = 75 Overall = 52.5 
+16. Pain Point: Difficulty finding suitable climbing routes Impact = 85 Difficulty = 80 Overall = 52.5 
+17. Pain Point: Financial constraints limiting outdoor climbing opportunities Impact = 85 Difficulty = 90 Overall = 47.5 
+18. Pain Point: Lack of transportation to climbing locations Impact = 80 Difficulty = 85 Overall = 47.5 
+19. Pain Point: Unfamiliarity with local climbing regulations Impact = 80 Difficulty = 85 Overall = 47.5 
+20. Pain Point: Language barrier when climbing abroad Impact = 75 Difficulty = 90 Overall = 42.5 

@@ -17,17 +17,10 @@ class Manager:
             "BOSS": "UserResearcher",
             "UserResearcher":"ExperienceAnalyst",
             "ExperienceAnalyst":"NeedsAnalyst",
-            "NeedsAnalyst":"SolutionEngineer",
-            "SolutionEngineer":"FeasibilityAnalyst",
+            "NeedsAnalyst":"Innovator",
+            "Innovator":"FeasibilityAnalyst",
             "FeasibilityAnalyst":"Demonstrator",
         }
-        """self.role_directions = {
-            "BOSS": "Product Manager",
-            "Product Manager": "Architect",
-            "Architect": "Engineer",
-            "Engineer": "QA Engineer",
-            "QA Engineer": "Product Manager"
-        }"""
         self.prompt_template = """
         Given the following message:
         {message}

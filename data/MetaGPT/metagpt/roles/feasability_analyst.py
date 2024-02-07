@@ -43,10 +43,8 @@ class FeasibilityAnalyst(Role):
             context = self.get_memories()
             if context[-1].cause_by == AnalyseFeasibility: 
                 needed_context = context[0].content + context[-2].content
-                logger.debug("\n#######################################################\nMARKET VIABILITY NEEDED CONTEXT: ",needed_context,"\n#######################################################\n") 
             else:
                 needed_context = context[0].content + context[-1].content
-                logger.debug("\n#######################################################\nFEASIBILITY NEEDED CONTEXT: ",needed_context,"\n#######################################################\n") 
             response = await self._rc.todo.run(needed_context)
             # logger.info(response)
             if context[-1].cause_by == CreateSolutions:

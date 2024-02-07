@@ -14,7 +14,7 @@ from metagpt.actions.create_personas import CreatePersonas
 from metagpt.actions.create_needs import CreateNeeds
 from metagpt.actions.synthesise_need import SynthesiseNeed
 from metagpt.actions.innovate import CreateInitiatives
-from metagpt.actions.solutions import CreateSolutions
+from data.MetaGPT.metagpt.actions.ideas import CreateIdeas
 from metagpt.actions.feasibility import AnalyseFeasibility
 from metagpt.actions.marketability import AnalyseMarketViability
 from metagpt.actions.create_journey_maps import CreateJourneyMaps
@@ -28,7 +28,7 @@ class ActionType(Enum):
     CREATE_NEEDS = CreateNeeds
     SYNTHESISE_NEED = SynthesiseNeed
     CREATE_INTIATIVES = CreateInitiatives
-    CREATE_SOLUTIONS = CreateSolutions
+    CREATE_IDEAS = CreateIdeas
     ANALYSE_FEASIBILITY = AnalyseFeasibility
     ANALYSE_MARKET_VIABILITY = AnalyseMarketViability
     CREATE_JOURNEY_MAPS = CreateJourneyMaps

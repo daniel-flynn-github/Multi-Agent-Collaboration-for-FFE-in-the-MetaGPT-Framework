@@ -1,32 +1,32 @@
 Product: Outdoor Climbing Guidebook
-Product Description: The Outdoor Climbing Guidebook is a comprehensive guide that provides detailed information about outdoor climbing locations, routes, difficulty levels, and safety considerations. It is specifically designed to assist intermediate boulder and sport climbers who are transitioning from indoor climbing to outdoor climbing. The guidebook includes maps, route descriptions, and photographs to help climbers navigate and choose suitable routes. It also provides essential safety tips and guidelines to ensure a safe and enjoyable climbing experience. The compact and lightweight design of the guidebook makes it easily transportable in a backpack, allowing climbers to carry it to the crag.
+Product Description: The Outdoor Climbing Guidebook is a comprehensive guidebook specifically designed for intermediate boulder and sport climbers who are transitioning from indoor climbing to outdoor climbing. It provides detailed information about popular climbing areas, routes, difficulty levels, and safety considerations. The guidebook includes maps, route descriptions, and tips on technique and equipment. This product addresses the pain point of lack of experience with outdoor climbing by providing climbers with the necessary information and guidance to explore new climbing areas safely and confidently.
 Feasibility Analysis: 
   Research and Development:
-         Reasoning: The research and development for the Outdoor Climbing Guidebook is highly feasible as it primarily involves gathering information about outdoor climbing locations, routes, and safety considerations. With Scarpa's expertise in the outdoor footwear market, they have the necessary resources and knowledge to create a comprehensive guidebook.
+         Reasoning: The research and development for the Outdoor Climbing Guidebook is highly feasible as it primarily involves gathering information about popular climbing areas, routes, and safety considerations. The budget and timeframe are sufficient for conducting thorough research and creating a comprehensive guidebook.
       Score: 90
   Go to Market:
-         Reasoning: The Outdoor Climbing Guidebook can be effectively established in the market by leveraging Scarpa's existing distribution channels and customer base. The company's reputation for quality and innovation in outdoor footwear will also help in promoting the guidebook to the target audience.
+         Reasoning: The Outdoor Climbing Guidebook can be effectively established in the market by leveraging Scarpa's existing brand reputation and distribution channels. The target audience of intermediate climbers transitioning to outdoor climbing aligns well with Scarpa's customer base.
       Score: 85
   Required Partners:
-         Reasoning: The Outdoor Climbing Guidebook does not require any specific partners as it can be developed in-house by Scarpa's team of experts. This makes it highly feasible for the company to execute the project within the given budget and timeframe.
+         Reasoning: No significant partners are required for the production and distribution of the Outdoor Climbing Guidebook. Scarpa can handle the research, content creation, and printing in-house, making it highly feasible.
       Score: 100
   Compatibility with Company:
-         Reasoning: The Outdoor Climbing Guidebook aligns well with Scarpa's mission of inspiring a connection with nature through innovative and quality footwear. It complements their existing product range and caters to the needs of their target audience, making it highly compatible.
+         Reasoning: The Outdoor Climbing Guidebook is highly compatible with Scarpa's mission of inspiring a connection with nature through innovative and quality footwear. It complements their existing product range and enhances the overall outdoor experience for their target audience.
       Score: 95
 Average Score: 92.5
 
 
 Market Viability Analysis: 
   Potential Market Size:
-         Reasoning: The Outdoor Climbing Guidebook has a large potential market size as it caters to intermediate boulder and sport climbers who are transitioning from indoor climbing to outdoor climbing. With the increasing popularity of outdoor climbing, there is a growing demand for comprehensive guidebooks that provide detailed information and safety guidelines. Score: 85
-      Score: 85
-  Potential Attractive Returns:
-         Reasoning: The Outdoor Climbing Guidebook has the potential for attractive returns as it targets a niche market of climbers who are willing to invest in resources to enhance their outdoor climbing experience. The guidebook can be priced competitively, ensuring a good profit margin. Score: 80
+         Reasoning: The Outdoor Climbing Guidebook has a potential market size as it caters to a specific target audience of intermediate climbers looking to transition to outdoor climbing. With the right marketing and distribution strategy, it can capture a significant portion of this niche market.
       Score: 80
+  Potential Attractive Returns:
+         Reasoning: The potential returns for the Outdoor Climbing Guidebook are moderate as it is a one-time purchase product. However, with a strong brand reputation and effective marketing, it can generate steady sales and contribute to the company's overall revenue.
+      Score: 70
   Protectable Advantage:
-         Reasoning: The Outdoor Climbing Guidebook has a protectable advantage as it offers comprehensive and detailed information specifically tailored for intermediate climbers transitioning to outdoor climbing. The expertise and reputation of Scarpa in the outdoor footwear industry can also add credibility and trust to the guidebook. Score: 75
-      Score: 75
+         Reasoning: The protectable advantage of the Outdoor Climbing Guidebook lies in its comprehensive and tailored content specifically designed for intermediate climbers transitioning to outdoor climbing. This unique selling point can differentiate it from generic climbing guidebooks and attract its target audience.
+      Score: 90
   Likelihood of disruptive impact with Company:
-         Reasoning: The Outdoor Climbing Guidebook is not likely to have a disruptive impact on the market as guidebooks are already a well-established product category in the climbing industry. However, it can still have a positive impact by providing valuable information and guidance to climbers. Score: 60
-      Score: 60
-Average score: 75
+         Reasoning: While the Outdoor Climbing Guidebook may not disrupt the climbing accessories market, it has the potential to create a new market segment by catering to the specific needs of indoor climbers transitioning to outdoor climbing. This can lead to a positive impact on the company's market presence.
+      Score: 75
+Average score: 78.75
