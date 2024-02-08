@@ -7,9 +7,8 @@ import fire
 from metagpt.roles import (
     UserResearcher,
     NeedsAnalyst,
-    DesignManager,
     Innovator,
-    FeasibilityAnalyst,
+    Evaluator,
     ExperienceAnalyst,
     Demonstrator,
 )
@@ -21,16 +20,17 @@ async def startup(
     idea_dict: dict = None,
     investment: float = 0.01,
     n_round: int = 2,
+    human_ideas: bool = False,
 ):
     """Run a startup. Be a boss."""
     company = Team()
+    company.human_ideas(human_ideas)
     company.hire(
         [
             UserResearcher(),
             NeedsAnalyst(),
-            DesignManager(),
             Innovator(),
-            FeasibilityAnalyst(),
+            Evaluator(),
             ExperienceAnalyst(),
             Demonstrator(),
         ]
@@ -45,7 +45,25 @@ def main(
     idea: str = "",
     investment: float = 0.5,
     n_round: int = 8,
+    human_ideas: bool = True,
 ):
+    
+
+    def console_idea_input():
+        human_ideas = []
+        print("Enter 'done' to end the input")
+        i = 0
+        while True:
+            i += 1
+            idea_name = input(f"Enter Idea {i} Name: ")
+            if idea_name == "done":
+                 break
+            idea_description = input(f"Enter Idea {i} Description: ")
+            if idea_description == "done":
+                 break
+            human_ideas.append((idea_name, idea_description))
+        return human_ideas
+
     def mandatory_input(prompt):
         while True:
             a = input(prompt)
@@ -95,7 +113,6 @@ def main(
                 })
         )
     
-    # idea,idea_dict  = console_input()
 
     idea = '''Background Information:
             Company Name: Scarpa
@@ -123,8 +140,16 @@ def main(
         "Timeframe": "3 years",
         "Technical and Legal Constraints": "The product must be in agreement with respective safety laws and guidelines"
 }
+    idea,idea_dict  = console_input()
+    if human_ideas == True:
+        human_ideas_list = console_idea_input()
+        for i in range(len(human_ideas_list)):
+            idea += f"Idea {i+1} Name: {human_ideas_list[i][0]}\nIdea {i+1} Description: {human_ideas_list[i][1]}\n"
+            idea_dict[f"Idea {i+1}"] = "Name: " + human_ideas_list[i][0] + "\nDescription: " + human_ideas_list[i][1]
 
-    asyncio.run(startup(idea, idea_dict, investment, n_round))
+        #idea,idea_dict  = console_input()
+
+    asyncio.run(startup(idea, idea_dict, investment, n_round, human_ideas))
 
 
 if __name__ == "__main__":

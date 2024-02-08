@@ -1,0 +1,23 @@
+Idea: Climbing Accessory Subscription Box
+Idea Description: Scarpa can introduce a climbing accessory subscription box service targeted towards intermediate climbers transitioning to outdoor climbing. Subscribers would receive a curated box of climbing accessories on a monthly or quarterly basis. The box could include items such as chalk, tape, carabiners, and other essential gear. By offering a subscription service, Scarpa can provide climbers with a cost-effective way to gradually build their collection of climbing accessories while also receiving expert recommendations and tips.
+PRODUCTIVITY:
+    Reasoning: The idea improves productivity by providing climbers with a convenient and cost-effective way to gradually build their collection of climbing accessories.
+    Score: 8
+FUNCTIONALITY:
+    Reasoning: The idea enhances the functionality of the product by offering a curated box of climbing accessories on a regular basis, ensuring climbers have access to essential gear.
+    Score: 7
+RELIABILITY:
+    Reasoning: The idea does not significantly impact the reliability of the product.
+    Score: 5
+SAFETY:
+    Reasoning: The idea has a neutral impact on the safety of the product.
+    Score: 5
+ECOLOGICALLY:
+    Reasoning: The idea has a neutral impact on the environment.
+    Score: 5
+AESTHETICS:
+    Reasoning: The idea does not affect the aesthetics of the product.
+    Score: 5
+SUMMARY:
+    Summary: The average score for this idea is 6.0.
+    Average Score: 

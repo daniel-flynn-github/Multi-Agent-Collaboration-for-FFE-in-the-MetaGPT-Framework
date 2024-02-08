@@ -1,0 +1,77 @@
+Idea: Portable Climbing Wall
+Idea Description: Create a portable climbing wall that can be easily transported in a backpack. The wall can be set up outdoors, allowing transitioning climbers to practice their skills in a controlled environment before venturing onto natural rock formations. The wall can be adjustable in terms of difficulty, providing a range of challenges for climbers of different skill levels.
+PRODUCTIVITY:
+    Reasoning: The development and production of a portable climbing wall may require significant resources and expertise, potentially impacting productivity.
+    Score: 4
+FUNCTIONALITY:
+    Reasoning: A portable climbing wall will greatly enhance the functionality of the product by providing an easily transportable practice tool for transitioning climbers.
+    Score: 9
+RELIABILITY:
+    Reasoning: The reliability of the portable climbing wall will depend on the quality of its construction and the stability of its components.
+    Score: 7
+SAFETY:
+    Reasoning: A well-designed and properly constructed portable climbing wall can provide a safe environment for transitioning climbers to practice their skills.
+    Score: 8
+ECOLOGICALLY:
+    Reasoning: The production and use of a portable climbing wall may have a negative impact on the environment due to the materials used and the energy required for transportation.
+    Score: 4
+AESTHETICS:
+    Reasoning: The aesthetics of the product may be affected by the design and appearance of the portable climbing wall.
+    Score: 6
+SUMMARY:
+    Summary: The average score for the idea of a portable climbing wall is 6.33.
+    Average Score: 
+COMPETITION:
+    Reasoning: The idea of a portable climbing wall is moderately competitive as it offers a convenient solution for practicing climbing skills outdoors.
+    Score: 6
+BUYER:
+    Reasoning: The idea of a portable climbing wall meets customer expectations for a portable and adjustable training tool.
+    Score: 7
+MARKET:
+    Reasoning: The idea of a portable climbing wall caters to the demand for accessible and versatile training options for transitioning climbers.
+    Score: 7
+AVERAGE SCORE:
+    Reasoning: The idea of a portable climbing wall is moderately competitive, meets customer expectations, and caters to market demand, resulting in a positive change in market value.
+    Score: 6.67
+SALES VOLUME:
+    Reasoning: The portable climbing wall will attract transitioning climbers looking for a convenient and controlled practice environment, leading to an increase in sales volume.
+    Score: 8
+RATE OF RETURN:
+    Reasoning: The portable climbing wall will require significant investment in design and manufacturing, resulting in a lower rate of return.
+    Score: 3
+PAYBACK TIME:
+    Reasoning: The payback time will be longer due to the higher initial investment required for the portable climbing wall.
+    Score: 2
+AVERAGE SCORE:
+    Reasoning: The portable climbing wall has the potential to significantly increase sales volume, but the higher initial investment may impact the rate of return and payback time.
+    Score: 4.33
+NECESSITY:
+    Reasoning: Transitioning climbers will find a portable climbing wall necessary as it provides a controlled environment for practicing outdoor climbing skills.
+    Score: 7
+NOVELTY:
+    Reasoning: The concept of a portable climbing wall is not entirely novel, but its application for transitioning climbers is a unique and valuable idea.
+    Score: 6
+USEFULNESS:
+    Reasoning: A portable climbing wall will be highly useful for transitioning climbers as it allows them to practice in a controlled environment and improve their skills before venturing outdoors.
+    Score: 9
+USABILITY:
+    Reasoning: Transitioning climbers will find the portable climbing wall easy to use and adjust to their skill level, making it a highly usable product.
+    Score: 8
+AVERAGE SCORE:
+    Reasoning: The portable climbing wall brings a moderate level of necessity, novelty, usefulness, and usability to transitioning climbers, resulting in an average score of 7.5.
+    Score: 7.5
+IMPORTANCE:
+    Reasoning: A portable climbing wall will contribute to the importance of the product for users by providing a controlled environment for transitioning climbers to practice their skills before venturing onto natural rock formations.
+    Score: 6
+EMPHASIS:
+    Reasoning: A portable climbing wall will highlight the product by offering a convenient and accessible way for transitioning climbers to improve their climbing skills and gain confidence.
+    Score: 7
+COMMITMENT:
+    Reasoning: A portable climbing wall will contribute to user commitment by providing a safe and adjustable training tool that helps transitioning climbers progress at their own pace.
+    Score: 7
+AFFORDABILITY:
+    Reasoning: A portable climbing wall may have a higher initial cost, but it offers long-term affordability by eliminating the need for expensive gym memberships and providing a reusable training tool.
+    Score: 8
+AVERAGE SCORE:
+    Reasoning: A portable climbing wall provides a moderate social value with an average score of 7
+    Score: 

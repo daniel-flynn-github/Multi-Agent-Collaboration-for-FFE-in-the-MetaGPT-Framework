@@ -1,0 +1,35 @@
+Idea: Ankle Support Straps
+Idea Description: Introduce ankle support straps that can be easily attached to climbing shoes. These straps will wrap around the ankle, providing additional support and stability. The straps will be adjustable to accommodate different ankle sizes and preferences. They will be made from durable and lightweight materials, ensuring they do not interfere with climbing performance. The straps will be designed to be easily removable, allowing climbers to switch between indoor and outdoor climbing without hassle.
+PRODUCTIVITY:
+    Reasoning: The idea may slightly decrease productivity due to the additional step of attaching and removing the ankle support straps.
+    Score: 4
+FUNCTIONALITY:
+    Reasoning: The idea improves functionality by providing additional ankle support and stability.
+    Score: 8
+RELIABILITY:
+    Reasoning: The idea enhances reliability by offering adjustable straps to accommodate different ankle sizes and preferences.
+    Score: 7
+SAFETY:
+    Reasoning: The idea significantly improves safety by providing additional ankle support and stability during outdoor climbing.
+    Score: 9
+ECOLOGICALLY:
+    Reasoning: The idea has no significant impact on the environment.
+    Score: 5
+AESTHETICS:
+    Reasoning: The idea has no significant impact on the aesthetics of the product.
+    Score: 5
+SUMMARY:
+    Summary: The average score for this idea is 6.14.
+    Average Score: 
+COMPETITION:
+    Reasoning: The idea of ankle support straps is moderately competitive as it offers a simple and adjustable solution for ankle support, which is already available in the market.
+    Score: 5
+BUYER:
+    Reasoning: The idea of ankle support straps meets the expectations of buyers who prefer a removable and versatile ankle support option for transitioning between indoor and outdoor climbing.
+    Score: 7
+MARKET:
+    Reasoning: The idea of ankle support straps caters to the market's demand for affordable and accessible climbing accessories, making it a competitive option.
+    Score: 6
+AVERAGE SCORE:
+    Reasoning: The idea of ankle support straps is moderately competitive in terms of competition, buyer expectations, and market demand, with an average score of 6.
+    Score: 6

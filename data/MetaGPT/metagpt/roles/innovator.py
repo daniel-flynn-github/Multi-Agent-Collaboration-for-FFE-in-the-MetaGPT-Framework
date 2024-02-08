@@ -1,7 +1,8 @@
 
-from metagpt.actions import CreateNeeds, CreateIdeas
+from metagpt.actions import CreatePainPoints, CreateIdeas, BossRequirement
 from metagpt.roles import Role
 from metagpt.logs import logger
+from metagpt.config import CONFIG
 from metagpt.actions import ActionOutput
 from metagpt.logs import logger
 from metagpt.schema import Message
@@ -22,8 +23,11 @@ class Innovator(Role):
         super().__init__(name, profile, goal, constraints)
 
         self._init_actions([CreateIdeas])
-
-        self._watch({CreateNeeds})
+        print("CONFIG.human_ideas: ", CONFIG.human_ideas)
+        if CONFIG.human_ideas == False:
+            self._watch({CreatePainPoints})
+        else:
+            self._watch({BossRequirement})
 
     async def _act(self) -> Message:
         logger.info(f"{self._setting}: ready to {self._rc.todo}")

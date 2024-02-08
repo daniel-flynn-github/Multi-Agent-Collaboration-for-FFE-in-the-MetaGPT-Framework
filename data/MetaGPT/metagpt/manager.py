@@ -18,8 +18,8 @@ class Manager:
             "UserResearcher":"ExperienceAnalyst",
             "ExperienceAnalyst":"NeedsAnalyst",
             "NeedsAnalyst":"Innovator",
-            "Innovator":"FeasibilityAnalyst",
-            "FeasibilityAnalyst":"Demonstrator",
+            "Innovator":"Evaluator",
+            "Evaluator":"Demonstrator",
         }
         self.prompt_template = """
         Given the following message:
@@ -32,7 +32,6 @@ class Manager:
         """
 
     async def handle(self, message: Message, environment):
-        print("MANAGER HANDLE BEING CALLED????")
         """
         管理员处理信息，现在简单的将信息递交给下一个人
         The administrator processes the information, now simply passes the information on to the next person

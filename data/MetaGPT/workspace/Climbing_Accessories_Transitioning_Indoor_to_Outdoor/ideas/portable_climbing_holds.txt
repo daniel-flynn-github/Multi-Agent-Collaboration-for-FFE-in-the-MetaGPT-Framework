@@ -1,0 +1,35 @@
+Idea: Portable Climbing Holds
+Idea Description: Develop a set of portable climbing holds that can be easily transported in a backpack. These holds would be lightweight and compact, allowing climbers to practice their skills outdoors on natural rock formations or artificial structures. The holds could be made from durable materials such as reinforced plastic or resin, ensuring they can withstand the rigors of outdoor climbing. This would provide climbers with a familiar training tool that can be used to improve their technique and build confidence when transitioning from indoor to outdoor climbing.
+PRODUCTIVITY:
+    Reasoning: The idea increases productivity by providing a portable training tool for climbers to practice their skills outdoors.
+    Score: 7
+FUNCTIONALITY:
+    Reasoning: The idea enhances the functionality of the product by allowing climbers to train on natural rock formations or artificial structures.
+    Score: 8
+RELIABILITY:
+    Reasoning: The idea does not significantly impact the reliability of the product.
+    Score: 5
+SAFETY:
+    Reasoning: The idea does not directly affect the safety of the product, but proper usage is essential for safe climbing.
+    Score: 5
+ECOLOGICALLY:
+    Reasoning: The idea has a neutral impact on the environment.
+    Score: 5
+AESTHETICS:
+    Reasoning: The idea does not affect the aesthetics of the product.
+    Score: 5
+SUMMARY:
+    Summary: The average score for this idea is 6.0, indicating a positive change in technical value.
+    Average Score: 
+COMPETITION:
+    Reasoning: The idea of portable climbing holds is moderately competitive with the existing market offerings.
+    Score: 6
+BUYER:
+    Reasoning: The idea of portable climbing holds aligns well with the expectations of intermediate climbers transitioning from indoor to outdoor climbing.
+    Score: 7
+MARKET:
+    Reasoning: The idea of portable climbing holds meets the demands of the market for a convenient and portable training tool for outdoor climbing.
+    Score: 8
+AVERAGE SCORE:
+    Reasoning: The idea of portable climbing holds is moderately competitive with the existing market offerings, aligns well with customer expectations, and meets the demands of the market, resulting in an average score of 7.
+    Score: 7

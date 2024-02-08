@@ -1,7 +1,1 @@
-1. Pain Point: Limited grip on slippery surfaces Impact = 85 Difficulty = 70 Overall = 57.5 
-2. Pain Point: Difficulty finding the right size equipment Impact = 75 Difficulty = 60 Overall = 57.5 
-3. Pain Point: Lack of durability in climbing gear Impact = 90 Difficulty = 80 Overall = 55.0 
-4. Pain Point: Inadequate protection for hands and fingers Impact = 80 Difficulty = 70 Overall = 55.0 
-5. Pain Point: Lack of affordable climbing accessories Impact = 70 Difficulty = 60 Overall = 55.0 
-6. Pain Point: Limited accessibility for climbers with disabilities Impact = 95 Difficulty = 90 Overall = 52.5 
-7. Pain Point: Difficulty carrying climbing equipment Impact = 75 Difficulty = 70 Overall = 52.5 
+1. Pain Point: Limited availability of reliable and up-to-date climbing resources Impact = 80 Difficulty = 60 Overall = 60.0 

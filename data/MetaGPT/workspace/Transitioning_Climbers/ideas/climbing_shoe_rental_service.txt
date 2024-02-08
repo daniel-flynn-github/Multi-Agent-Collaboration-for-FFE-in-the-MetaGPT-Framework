@@ -1,0 +1,77 @@
+Idea: Climbing Shoe Rental Service
+Idea Description: Establish a climbing shoe rental service specifically for transitioning climbers. The service can provide a wide range of climbing shoes in various sizes and styles, allowing climbers to try different models before making a purchase. This will help climbers find the right fit without investing in expensive gear right away.
+PRODUCTIVITY:
+    Reasoning: The establishment of a climbing shoe rental service may require additional logistics and resources, potentially impacting productivity.
+    Score: 5
+FUNCTIONALITY:
+    Reasoning: A climbing shoe rental service will enhance the functionality of the product by providing transitioning climbers with the opportunity to try different models before making a purchase.
+    Score: 9
+RELIABILITY:
+    Reasoning: The reliability of the climbing shoe rental service will depend on the quality and maintenance of the rental shoes.
+    Score: 7
+SAFETY:
+    Reasoning: A well-maintained climbing shoe rental service can enhance safety by ensuring climbers have access to properly fitting shoes.
+    Score: 8
+ECOLOGICALLY:
+    Reasoning: The establishment of a climbing shoe rental service may have a positive impact on the environment by promoting the reuse of climbing shoes and reducing waste.
+    Score: 7
+AESTHETICS:
+    Reasoning: The aesthetics of the product may be affected by the design and appearance of the rental shoes.
+    Score: 6
+SUMMARY:
+    Summary: The average score for the idea of a climbing shoe rental service is 7.17.
+    Average Score: 
+COMPETITION:
+    Reasoning: The idea of a climbing shoe rental service is highly competitive as it offers a cost-effective solution for trying out different climbing shoes.
+    Score: 8
+BUYER:
+    Reasoning: The idea of a climbing shoe rental service meets customer expectations for a convenient and affordable way to find the right climbing shoe.
+    Score: 7
+MARKET:
+    Reasoning: The idea of a climbing shoe rental service caters to the demand for accessible and flexible options for transitioning climbers.
+    Score: 8
+AVERAGE SCORE:
+    Reasoning: The idea of a climbing shoe rental service is highly competitive, meets customer expectations, and caters to market demand, resulting in a positive change in market value.
+    Score: 7.67
+SALES VOLUME:
+    Reasoning: The climbing shoe rental service will attract transitioning climbers looking to try different models before making a purchase, leading to an increase in sales volume.
+    Score: 7
+RATE OF RETURN:
+    Reasoning: The rental service will require investment in inventory and maintenance, resulting in a slightly lower rate of return.
+    Score: 4
+PAYBACK TIME:
+    Reasoning: The payback time will be slightly longer due to the initial investment required for setting up the rental service.
+    Score: 3
+AVERAGE SCORE:
+    Reasoning: The climbing shoe rental service has the potential to increase sales volume, but the initial investment and ongoing costs may impact the rate of return and payback time.
+    Score: 4.67
+NECESSITY:
+    Reasoning: Transitioning climbers will find the climbing shoe rental service necessary as it allows them to try different models and find the right fit without investing in expensive gear.
+    Score: 8
+NOVELTY:
+    Reasoning: While climbing shoe rental services exist, a specific service for transitioning climbers is a novel idea that addresses their unique needs.
+    Score: 7
+USEFULNESS:
+    Reasoning: The climbing shoe rental service will be highly useful for transitioning climbers as it helps them find the right fit and saves them from the initial investment in expensive gear.
+    Score: 9
+USABILITY:
+    Reasoning: Transitioning climbers will find the climbing shoe rental service easy to use and convenient, making it a highly usable service.
+    Score: 8
+AVERAGE SCORE:
+    Reasoning: The climbing shoe rental service brings a high level of necessity, novelty, usefulness, and usability to transitioning climbers, resulting in an average score of 8.
+    Score: 8
+IMPORTANCE:
+    Reasoning: A climbing shoe rental service will contribute to the importance of the product for users by providing a cost-effective solution for transitioning climbers to find the right fit without investing in expensive gear right away.
+    Score: 7
+EMPHASIS:
+    Reasoning: A climbing shoe rental service will highlight the product by offering a wide range of climbing shoes in various sizes and styles, allowing transitioning climbers to try different models before making a purchase.
+    Score: 7
+COMMITMENT:
+    Reasoning: A climbing shoe rental service will contribute to user commitment by removing the financial barrier to entry and allowing transitioning climbers to explore outdoor climbing without the pressure of immediate gear investment.
+    Score: 6
+AFFORDABILITY:
+    Reasoning: A climbing shoe rental service offers affordability by providing access to high-quality climbing shoes at a fraction of the cost, making outdoor climbing more accessible to transitioning climbers.
+    Score: 8
+AVERAGE SCORE:
+    Reasoning: A climbing shoe rental service provides a moderate social value with an average score of 7
+    Score: 

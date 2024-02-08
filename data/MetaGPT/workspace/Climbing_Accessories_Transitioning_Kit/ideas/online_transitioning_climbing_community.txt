@@ -1,0 +1,35 @@
+Idea: Online Transitioning Climbing Community
+Idea Description: Create an online platform dedicated to supporting climbers transitioning from indoor to outdoor climbing. The platform will provide a space for climbers to connect, share experiences, seek advice, and find climbing partners. It will feature forums, discussion boards, instructional videos, and a database of outdoor climbing locations. The online community will foster a sense of belonging and provide a supportive network for climbers, addressing the lack of guidance and support by connecting climbers from around the world.
+PRODUCTIVITY:
+    Reasoning: The idea increases productivity by providing climbers with a platform to connect, share experiences, and find climbing partners, facilitating the planning and coordination of outdoor climbing trips.
+    Score: 8
+FUNCTIONALITY:
+    Reasoning: The idea enhances the functionality of the product by offering a space for climbers to seek advice, access instructional videos, and find information on outdoor climbing locations.
+    Score: 9
+RELIABILITY:
+    Reasoning: The idea improves reliability by connecting climbers from around the world, allowing them to share valuable insights and experiences, ensuring a more informed and reliable climbing community.
+    Score: 8
+SAFETY:
+    Reasoning: The idea enhances safety by fostering a supportive network where climbers can seek advice and guidance, promoting responsible climbing practices.
+    Score: 9
+ECOLOGICALLY:
+    Reasoning: The idea has no direct impact on the environment.
+    Score: 5
+AESTHETICS:
+    Reasoning: The idea has no direct impact on the aesthetics of the product.
+    Score: 5
+SUMMARY:
+    Summary: The average score for the idea is 7.88.
+    Average Score: 
+COMPETITION:
+    Reasoning: The idea of an online transitioning climbing community is moderately competitive as there are existing online climbing communities, but this idea specifically focuses on supporting climbers transitioning from indoor to outdoor climbing.
+    Score: 6
+BUYER:
+    Reasoning: The idea aligns well with customer expectations as it provides a dedicated platform for climbers to connect, share experiences, and seek guidance during their transition to outdoor climbing.
+    Score: 8
+MARKET:
+    Reasoning: The idea competes well in the market by offering a supportive online community that caters to the specific needs of climbers transitioning from indoor to outdoor climbing.
+    Score: 7
+AVERAGE SCORE:
+    Reasoning: The online transitioning climbing community idea is moderately competitive, meeting customer expectations and providing a supportive network, resulting in a positive change in market value.
+    Score: 7

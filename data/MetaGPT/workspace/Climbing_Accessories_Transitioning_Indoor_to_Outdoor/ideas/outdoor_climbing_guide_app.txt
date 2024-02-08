@@ -1,0 +1,35 @@
+Idea: Outdoor Climbing Guide App
+Idea Description: Create a mobile app specifically designed for intermediate climbers transitioning from indoor to outdoor climbing. The app would provide detailed information about outdoor climbing locations, including route descriptions, difficulty levels, and safety considerations. It would also offer interactive maps, allowing climbers to navigate to different crags and access real-time weather updates. Additionally, the app could include instructional videos and tips from experienced climbers to help users improve their skills and gain confidence in outdoor climbing environments.
+PRODUCTIVITY:
+    Reasoning: The idea increases productivity by providing climbers with detailed information and real-time updates for outdoor climbing locations.
+    Score: 8
+FUNCTIONALITY:
+    Reasoning: The idea enhances the functionality of the product by offering route descriptions, difficulty levels, and safety considerations.
+    Score: 8
+RELIABILITY:
+    Reasoning: The idea does not significantly impact the reliability of the product.
+    Score: 5
+SAFETY:
+    Reasoning: The idea improves safety by providing climbers with essential information and tips for outdoor climbing.
+    Score: 7
+ECOLOGICALLY:
+    Reasoning: The idea has a neutral impact on the environment.
+    Score: 5
+AESTHETICS:
+    Reasoning: The idea does not affect the aesthetics of the product.
+    Score: 5
+SUMMARY:
+    Summary: The average score for this idea is 6.6, indicating a positive change in technical value.
+    Average Score: 
+COMPETITION:
+    Reasoning: The idea of an outdoor climbing guide app faces strong competition from existing climbing guide apps in the market.
+    Score: 4
+BUYER:
+    Reasoning: The idea of an outdoor climbing guide app aligns well with the expectations of intermediate climbers transitioning from indoor to outdoor climbing.
+    Score: 7
+MARKET:
+    Reasoning: The idea of an outdoor climbing guide app meets the demands of the market for a comprehensive and user-friendly resource for outdoor climbing information.
+    Score: 8
+AVERAGE SCORE:
+    Reasoning: The idea of an outdoor climbing guide app faces strong competition, but aligns well with customer expectations and meets the demands of the market, resulting in an average score of 6.33.
+    Score: 6.33

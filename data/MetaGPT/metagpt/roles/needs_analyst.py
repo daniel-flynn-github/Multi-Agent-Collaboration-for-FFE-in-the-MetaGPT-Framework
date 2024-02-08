@@ -1,6 +1,6 @@
 
 
-from metagpt.actions import CreateJourneyMaps,CreateNeeds
+from metagpt.actions import CreateJourneyMaps,CreatePainPoints
 from metagpt.roles import Role
 from metagpt.logs import logger
 from metagpt.actions import ActionOutput
@@ -14,13 +14,13 @@ class NeedsAnalyst(Role):
         self,
         name: str = "Bob",
         profile: str = "Needs Analyst",
-        goal: str = "Given a description of a person generate issues they are likely to encounter",
-        constraints: str = "Come up with issues that are not already addressed by products on the market",
+        goal: str = "Given a journey map and a persona, identify pain points they experience",
+        constraints: str = "Come up with pain points that are not already addressed by products on the market",
     ) -> None:
         super().__init__(name, profile, goal, constraints)
 
         # Initialize actions specific to the Architect role
-        self._init_actions([CreateNeeds])
+        self._init_actions([CreatePainPoints])
 
         # Set events or actions the Architect should watch or be aware of
         self._watch({CreateJourneyMaps})

@@ -21,7 +21,7 @@ templates = {
 ## Format example
 {format_example}
 
-Role: Your role is to create 5 customer personas that would interact with a given product type that is made by a given company.
+Role: Your role is to create 1 customer personas that would interact with a given product type that is made by a given company.
 Requirements: According to the context, fill in the following missing information, each section name is a key in json ,If the requirements are unclear, ensure minimum viability and avoid excessive design. The response should be as close to 1500 tokens long as possible
 
 ##Project name: Come up with a project name, the name should be a sequence of words connected by only underscores instead of spaces, based off the original issue

@@ -1,0 +1,35 @@
+Idea: Modular Climbing Shoes
+Idea Description: Create modular climbing shoes that offer interchangeable ankle support options. The shoes will have a detachable ankle cuff that can be easily swapped depending on the climber's preference and the type of climbing they are doing. The ankle cuffs will come in different heights and stiffness levels, allowing climbers to customize their level of ankle support. This will provide the flexibility to transition from indoor to outdoor climbing while maintaining the desired ankle stability.
+PRODUCTIVITY:
+    Reasoning: The idea may slightly decrease productivity due to the additional step of swapping ankle cuffs.
+    Score: 4
+FUNCTIONALITY:
+    Reasoning: The idea improves functionality by allowing climbers to customize their level of ankle support based on their preference and climbing type.
+    Score: 8
+RELIABILITY:
+    Reasoning: The idea enhances reliability by providing the flexibility to transition from indoor to outdoor climbing while maintaining desired ankle stability.
+    Score: 7
+SAFETY:
+    Reasoning: The idea significantly improves safety by offering customizable ankle support, reducing the risk of injuries during outdoor climbing.
+    Score: 9
+ECOLOGICALLY:
+    Reasoning: The idea has no significant impact on the environment.
+    Score: 5
+AESTHETICS:
+    Reasoning: The idea has no significant impact on the aesthetics of the product.
+    Score: 5
+SUMMARY:
+    Summary: The average score for this idea is 6.14.
+    Average Score: 
+COMPETITION:
+    Reasoning: The idea of modular climbing shoes is highly competitive as it offers a unique and customizable ankle support feature that sets it apart from existing products in the market.
+    Score: 8
+BUYER:
+    Reasoning: The idea of modular climbing shoes meets the expectations of buyers who value versatility and customization in their climbing footwear.
+    Score: 7
+MARKET:
+    Reasoning: The idea of modular climbing shoes aligns well with the market's demand for innovative and adaptable climbing gear, making it a highly competitive option.
+    Score: 9
+AVERAGE SCORE:
+    Reasoning: The idea of modular climbing shoes is highly competitive in terms of competition, buyer expectations, and market demand, with an average score of 8.
+    Score: 8

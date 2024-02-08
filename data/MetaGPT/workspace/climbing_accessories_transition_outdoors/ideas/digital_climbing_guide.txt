@@ -1,0 +1,23 @@
+Idea: Digital Climbing Guide
+Idea Description: Develop a mobile application that provides a comprehensive digital climbing guide for outdoor climbing locations. The app will include detailed information about different climbing routes, difficulty levels, rock types, and safety considerations. It will also provide real-time updates on route conditions, closures, and access restrictions. Users can search for specific climbing areas, view route descriptions and ratings, and track their progress. The app will also feature a community forum where climbers can share tips, recommendations, and updates.
+PRODUCTIVITY:
+    Reasoning: The development of a mobile application will streamline the process of finding climbing routes and accessing real-time updates, increasing productivity.
+    Score: 7
+FUNCTIONALITY:
+    Reasoning: The app will enhance the functionality of the product by providing comprehensive information and features that cater to the needs of intermediate climbers.
+    Score: 8
+RELIABILITY:
+    Reasoning: The app's reliability will depend on the accuracy and regular updates of the information provided, which can be ensured through proper maintenance and user feedback.
+    Score: 6
+SAFETY:
+    Reasoning: The app's safety will depend on the accuracy of the safety considerations provided and the adherence to safety laws and guidelines.
+    Score: 7
+ECOLOGICALLY:
+    Reasoning: The app's development and usage will have minimal ecological impact, as it primarily relies on digital technology.
+    Score: 8
+AESTHETICS:
+    Reasoning: The app's aesthetics can be designed to align with Scarpa's brand identity, enhancing the overall user experience.
+    Score: 7
+SUMMARY:
+    Summary: The average score for the Digital Climbing Guide is 7.14.
+    Average Score: 

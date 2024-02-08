@@ -1,5 +1,5 @@
 
-from metagpt.actions import AnalyseMarketViability, CreateSolutions, Summarise
+from metagpt.actions import AnalyseMarketViability, CreateIdeas, Summarise
 from metagpt.roles import Role
 from metagpt.logs import logger
 from metagpt.actions import ActionOutput
@@ -29,24 +29,20 @@ class Demonstrator(Role):
 
     
     async def _act(self) -> Message:
-            # prompt = self.get_prefix()
-            # prompt += ROLE_TEMPLATE.format(name=self.profile, state=self.states[self.state], result=response,
-            #                                history=self.history)
-
             logger.info(f"{self._setting}: ready to {self._rc.todo}")
             context = self.get_memories()
             needed_context = ""
-            best_product_string = context[-1].content
-            lines = best_product_string.split("\n")
-            best_product = lines[0].replace("The best product is: ", "")
+            best_idea_string = context[-1].content
+            lines = best_idea_string.split("\n")
+            best_idea = lines[0].replace("The best idea is: ", "")
             for c in context:
-                 if c.cause_by == CreateSolutions:
+                 if c.cause_by == CreateIdeas:
                       needed_context += c.instruct_content.dict()["Project name"] + "\n"
-                      solutions = c.instruct_content.dict()["Solutions"]
-                      for product in solutions:
-                           if product["Product name"]== best_product:
-                                needed_context += str(product) + "\n"
-            needed_context += best_product_string
+                      ideas = c.instruct_content.dict()["Ideas"]
+                      for idea in ideas:
+                           if ideas["Idea name"]== best_idea:
+                                needed_context += str(idea) + "\n"
+            needed_context += best_idea_string
             logger.debug("\n#######################################################\nSUMMARISATION NEEDED CONTEXT: ",needed_context,"\n#######################################################\n")
             response = await self._rc.todo.run(needed_context)
             # logger.info(response)

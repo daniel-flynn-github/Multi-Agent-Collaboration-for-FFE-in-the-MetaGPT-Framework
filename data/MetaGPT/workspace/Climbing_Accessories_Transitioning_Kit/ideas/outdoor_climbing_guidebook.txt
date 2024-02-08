@@ -1,0 +1,35 @@
+Idea: Outdoor Climbing Guidebook
+Idea Description: Create a comprehensive guidebook specifically tailored for intermediate boulder and sport climbers transitioning from indoor gyms to outdoor climbing. The guidebook should include detailed information on popular outdoor climbing areas, recommended routes for different skill levels, safety guidelines, and tips for transitioning from indoor to outdoor climbing. This guidebook will provide the necessary guidance and support for climbers to confidently explore outdoor climbing locations.
+PRODUCTIVITY:
+    Reasoning: The idea increases productivity by providing climbers with comprehensive information and guidance, reducing the time spent on researching and planning.
+    Score: 7
+FUNCTIONALITY:
+    Reasoning: The idea enhances the functionality of the product by offering detailed route recommendations and safety guidelines, ensuring a better climbing experience.
+    Score: 8
+RELIABILITY:
+    Reasoning: The idea improves reliability by providing accurate and up-to-date information on climbing areas and routes, reducing the risk of getting lost or encountering unexpected challenges.
+    Score: 8
+SAFETY:
+    Reasoning: The idea enhances safety by including safety guidelines and tips for transitioning from indoor to outdoor climbing, promoting responsible and informed climbing practices.
+    Score: 9
+ECOLOGICALLY:
+    Reasoning: The idea has no direct impact on the environment.
+    Score: 5
+AESTHETICS:
+    Reasoning: The idea has no direct impact on the aesthetics of the product.
+    Score: 5
+SUMMARY:
+    Summary: The average score for the idea is 7.12.
+    Average Score: 
+COMPETITION:
+    Reasoning: The idea of an outdoor climbing guidebook is highly competitive as it provides a comprehensive resource for climbers transitioning from indoor to outdoor climbing, which is not currently offered by competitors.
+    Score: 8
+BUYER:
+    Reasoning: The idea aligns well with customer expectations as it addresses the need for guidance and support for climbers transitioning to outdoor climbing.
+    Score: 7
+MARKET:
+    Reasoning: The idea meets the expectations of the market by providing a valuable tool for climbers looking to explore outdoor climbing locations and improve their skills.
+    Score: 8
+AVERAGE SCORE:
+    Reasoning: The outdoor climbing guidebook idea is highly competitive, meeting both customer expectations and market demands, resulting in a strong positive change in market value.
+    Score: 7.67

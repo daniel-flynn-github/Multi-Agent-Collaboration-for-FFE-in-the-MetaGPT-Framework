@@ -1,0 +1,23 @@
+Idea: Online Climbing Gear Marketplace
+Idea Description: Scarpa can develop an online marketplace specifically for climbers to buy and sell used climbing gear. This platform would allow climbers to find affordable climbing accessories from other climbers who no longer need them. By facilitating the exchange of used gear, Scarpa can help climbers on a limited budget access quality climbing accessories at a lower cost. Additionally, this marketplace can promote sustainability by encouraging the reuse and recycling of climbing gear.
+PRODUCTIVITY:
+    Reasoning: The idea improves productivity by providing climbers with a convenient platform to buy and sell used climbing gear, reducing the time and effort required to find affordable accessories.
+    Score: 8
+FUNCTIONALITY:
+    Reasoning: The idea enhances the functionality of the product by facilitating the exchange of used climbing gear, allowing climbers to access quality accessories at a lower cost.
+    Score: 7
+RELIABILITY:
+    Reasoning: The idea does not significantly impact the reliability of the product.
+    Score: 5
+SAFETY:
+    Reasoning: The idea has a neutral impact on the safety of the product.
+    Score: 5
+ECOLOGICALLY:
+    Reasoning: The idea promotes sustainability by encouraging the reuse and recycling of climbing gear, reducing waste and environmental impact.
+    Score: 8
+AESTHETICS:
+    Reasoning: The idea does not affect the aesthetics of the product.
+    Score: 5
+SUMMARY:
+    Summary: The average score for this idea is 6.2.
+    Average Score: 

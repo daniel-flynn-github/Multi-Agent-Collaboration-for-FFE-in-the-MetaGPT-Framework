@@ -1,0 +1,35 @@
+Idea: Transitioning Climbing Course
+Idea Description: Develop a specialized transitioning climbing course conducted by experienced outdoor climbers. The course will cover essential skills and techniques required for outdoor climbing, such as anchor building, lead climbing, route finding, and outdoor safety protocols. The course will provide hands-on training and guidance, allowing climbers to gain practical experience in a controlled environment before venturing out on their own. This course will address the lack of guidance and support by providing climbers with the necessary knowledge and skills to transition successfully to outdoor climbing.
+PRODUCTIVITY:
+    Reasoning: The idea increases productivity by providing climbers with hands-on training and guidance, accelerating their transition to outdoor climbing.
+    Score: 8
+FUNCTIONALITY:
+    Reasoning: The idea significantly enhances the functionality of the product by equipping climbers with essential skills and techniques required for outdoor climbing.
+    Score: 9
+RELIABILITY:
+    Reasoning: The idea improves reliability by ensuring climbers have practical experience and knowledge to handle outdoor climbing challenges, reducing the risk of accidents.
+    Score: 8
+SAFETY:
+    Reasoning: The idea enhances safety by teaching climbers outdoor safety protocols and providing a controlled learning environment to practice new skills.
+    Score: 9
+ECOLOGICALLY:
+    Reasoning: The idea has no direct impact on the environment.
+    Score: 5
+AESTHETICS:
+    Reasoning: The idea has no direct impact on the aesthetics of the product.
+    Score: 5
+SUMMARY:
+    Summary: The average score for the idea is 7.88.
+    Average Score: 
+COMPETITION:
+    Reasoning: The idea of a transitioning climbing course is moderately competitive as there are existing outdoor climbing courses available, but this idea specifically targets climbers transitioning from indoor to outdoor climbing.
+    Score: 6
+BUYER:
+    Reasoning: The idea aligns well with customer expectations as it provides a specialized course tailored for climbers transitioning to outdoor climbing, filling the gap in guidance and support.
+    Score: 8
+MARKET:
+    Reasoning: The idea competes well in the market by offering a unique course that addresses the specific needs of climbers transitioning from indoor to outdoor climbing.
+    Score: 7
+AVERAGE SCORE:
+    Reasoning: The transitioning climbing course idea is moderately competitive, meeting customer expectations and offering a specialized solution, resulting in a positive change in market value.
+    Score: 7

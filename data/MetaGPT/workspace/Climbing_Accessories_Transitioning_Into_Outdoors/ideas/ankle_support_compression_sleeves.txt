@@ -1,0 +1,35 @@
+Idea: Ankle Support Compression Sleeves
+Idea Description: Develop ankle support compression sleeves that can be worn underneath climbing shoes. These sleeves will provide additional support to the ankle joint, reducing the risk of sprains and injuries during outdoor climbing. The sleeves will be made from a lightweight and breathable material, ensuring comfort and flexibility while climbing. They will be designed to fit snugly around the ankle, providing targeted compression and stability.
+PRODUCTIVITY:
+    Reasoning: The idea may slightly decrease productivity due to the additional step of wearing the sleeves before putting on climbing shoes.
+    Score: 4
+FUNCTIONALITY:
+    Reasoning: The idea improves functionality by providing additional ankle support, reducing the risk of injuries during outdoor climbing.
+    Score: 8
+RELIABILITY:
+    Reasoning: The idea enhances reliability by offering targeted compression and stability to the ankle joint.
+    Score: 7
+SAFETY:
+    Reasoning: The idea significantly improves safety by reducing the risk of ankle sprains and injuries during outdoor climbing.
+    Score: 9
+ECOLOGICALLY:
+    Reasoning: The idea has no significant impact on the environment.
+    Score: 5
+AESTHETICS:
+    Reasoning: The idea has no significant impact on the aesthetics of the product.
+    Score: 5
+SUMMARY:
+    Summary: The average score for this idea is 6.14.
+    Average Score: 
+COMPETITION:
+    Reasoning: The idea of ankle support compression sleeves is moderately competitive with the existing ankle support options in the market.
+    Score: 6
+BUYER:
+    Reasoning: The idea of ankle support compression sleeves aligns well with the expectations of buyers who are looking for additional ankle support during outdoor climbing.
+    Score: 7
+MARKET:
+    Reasoning: The idea of ankle support compression sleeves caters to the growing demand for specialized climbing accessories that enhance safety and performance.
+    Score: 8
+AVERAGE SCORE:
+    Reasoning: The idea of ankle support compression sleeves is competitive in terms of competition, buyer expectations, and market demand, with an average score of 7.
+    Score: 7

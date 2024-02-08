@@ -12,7 +12,7 @@ from metagpt.actions import BossRequirement, SynthesiseNeed
 from metagpt.config import CONFIG
 from metagpt.environment import Environment
 from metagpt.logs import logger
-from metagpt.roles import Role, FeasibilityAnalyst
+from metagpt.roles import Role
 from metagpt.schema import Message
 from metagpt.utils.common import NoMoneyException
 
@@ -38,6 +38,10 @@ class Team(BaseModel):
         self.investment = investment
         CONFIG.max_budget = investment
         logger.info(f'Investment: ${investment}.')
+
+    def human_ideas(self, human_idea: bool):
+        CONFIG.human_ideas = human_idea
+        logger.info(f'Human Ideas: ${human_idea}.')
 
     def _check_balance(self):
         if CONFIG.total_cost > CONFIG.max_budget:

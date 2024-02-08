@@ -1,0 +1,23 @@
+Idea: Affordable Climbing Shoe Rental Program
+Idea Description: Scarpa can introduce an affordable climbing shoe rental program specifically targeted towards intermediate boulder and sport climbers who are transitioning from indoor climbing to outdoor climbing. This program would allow climbers to rent high-quality climbing shoes for a fraction of the cost of purchasing new ones. By offering this rental service, Scarpa can help climbers overcome the financial barrier of investing in expensive climbing shoes, enabling them to try outdoor climbing without breaking the bank.
+PRODUCTIVITY:
+    Reasoning: The idea increases productivity by providing a cost-effective solution for climbers to try outdoor climbing without the need to invest in expensive climbing shoes.
+    Score: 8
+FUNCTIONALITY:
+    Reasoning: The idea enhances the functionality of the product by offering high-quality climbing shoes for rent, allowing climbers to experience outdoor climbing with appropriate footwear.
+    Score: 7
+RELIABILITY:
+    Reasoning: The idea does not significantly impact the reliability of the product.
+    Score: 5
+SAFETY:
+    Reasoning: The idea positively impacts the safety of the product by ensuring climbers have access to proper footwear, reducing the risk of accidents.
+    Score: 9
+ECOLOGICALLY:
+    Reasoning: The idea has a neutral impact on the environment.
+    Score: 5
+AESTHETICS:
+    Reasoning: The idea does not affect the aesthetics of the product.
+    Score: 5
+SUMMARY:
+    Summary: The average score for this idea is 6.5.
+    Average Score: 

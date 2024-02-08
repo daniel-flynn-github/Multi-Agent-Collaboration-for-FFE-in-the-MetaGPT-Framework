@@ -1,0 +1,23 @@
+Idea: Climbing Accessory Starter Kit
+Idea Description: Scarpa can create a climbing accessory starter kit that includes essential items for intermediate climbers transitioning from indoor to outdoor climbing. The kit can include items such as a chalk bag, climbing harness, carabiners, belay device, and a helmet. By bundling these essential accessories together in a cost-effective package, Scarpa can provide climbers with a convenient and affordable solution to acquire the necessary gear for outdoor climbing.
+PRODUCTIVITY:
+    Reasoning: The idea improves productivity by providing climbers with a convenient and cost-effective solution to acquire essential climbing accessories for outdoor climbing.
+    Score: 8
+FUNCTIONALITY:
+    Reasoning: The idea enhances the functionality of the product by offering a comprehensive starter kit that includes essential climbing accessories.
+    Score: 7
+RELIABILITY:
+    Reasoning: The idea does not significantly impact the reliability of the product.
+    Score: 5
+SAFETY:
+    Reasoning: The idea positively impacts the safety of the product by ensuring climbers have access to necessary safety gear for outdoor climbing.
+    Score: 9
+ECOLOGICALLY:
+    Reasoning: The idea promotes sustainability by encouraging climbers to acquire essential gear in a cost-effective manner, reducing the need for new production.
+    Score: 8
+AESTHETICS:
+    Reasoning: The idea does not affect the aesthetics of the product.
+    Score: 5
+SUMMARY:
+    Summary: The average score for this idea is 7.0.
+    Average Score: 

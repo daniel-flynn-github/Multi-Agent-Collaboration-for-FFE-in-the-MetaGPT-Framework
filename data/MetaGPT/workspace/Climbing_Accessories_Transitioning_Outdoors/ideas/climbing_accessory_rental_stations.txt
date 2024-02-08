@@ -1,0 +1,23 @@
+Idea: Climbing Accessory Rental Stations
+Idea Description: Scarpa can partner with climbing gyms and outdoor retailers to set up climbing accessory rental stations. These stations would be equipped with a range of climbing accessories, including harnesses, carabiners, helmets, and other essential gear. Climbers can rent the required accessories for their outdoor climbing trips, eliminating the need for them to purchase expensive gear upfront. This rental service would provide a cost-effective solution for climbers transitioning outdoors while also promoting the use of high-quality gear.
+PRODUCTIVITY:
+    Reasoning: The idea improves productivity by providing climbers with convenient rental stations, eliminating the need for them to purchase expensive gear upfront.
+    Score: 8
+FUNCTIONALITY:
+    Reasoning: The idea enhances the functionality of the product by offering a wide range of climbing accessories for rent, ensuring climbers have access to the necessary gear for outdoor climbing.
+    Score: 7
+RELIABILITY:
+    Reasoning: The idea does not significantly impact the reliability of the product.
+    Score: 5
+SAFETY:
+    Reasoning: The idea positively impacts the safety of the product by ensuring climbers have access to high-quality gear for outdoor climbing.
+    Score: 9
+ECOLOGICALLY:
+    Reasoning: The idea has a neutral impact on the environment.
+    Score: 5
+AESTHETICS:
+    Reasoning: The idea does not affect the aesthetics of the product.
+    Score: 5
+SUMMARY:
+    Summary: The average score for this idea is 6.8.
+    Average Score: 

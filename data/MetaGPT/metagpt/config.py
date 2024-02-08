@@ -93,7 +93,7 @@ class Config(metaclass=Singleton):
         self.model_for_researcher_report = self._get("MODEL_FOR_RESEARCHER_REPORT")
         self.mermaid_engine = self._get("MERMAID_ENGINE", "nodejs")
         self.pyppeteer_executable_path = self._get("PYPPETEER_EXECUTABLE_PATH", "")
-
+        self.human_ideas = self._get("HUMAN_IDEAS", False)
         self.prompt_format = self._get("PROMPT_FORMAT", "markdown")
 
     def _init_with_config_files_and_env(self, configs: dict, yaml_file):

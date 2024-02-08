@@ -1,0 +1,35 @@
+Idea: Integrated Ankle Support System
+Idea Description: Develop climbing shoes with an integrated ankle support system. The shoes will have a built-in mechanism that provides adjustable ankle support. Climbers will be able to customize the level of support by tightening or loosening the system. The ankle support mechanism will be designed to distribute pressure evenly around the ankle, reducing the risk of strains and injuries. The system will be lightweight and low-profile, ensuring it does not hinder climbing performance.
+PRODUCTIVITY:
+    Reasoning: The idea may slightly decrease productivity due to the additional step of adjusting the ankle support system.
+    Score: 4
+FUNCTIONALITY:
+    Reasoning: The idea improves functionality by providing adjustable ankle support and pressure distribution.
+    Score: 8
+RELIABILITY:
+    Reasoning: The idea enhances reliability by offering an integrated mechanism for customizable ankle support.
+    Score: 7
+SAFETY:
+    Reasoning: The idea significantly improves safety by reducing the risk of strains and injuries through adjustable ankle support.
+    Score: 9
+ECOLOGICALLY:
+    Reasoning: The idea has no significant impact on the environment.
+    Score: 5
+AESTHETICS:
+    Reasoning: The idea has no significant impact on the aesthetics of the product.
+    Score: 5
+SUMMARY:
+    Summary: The average score for this idea is 6.14.
+    Average Score: 
+COMPETITION:
+    Reasoning: The idea of an integrated ankle support system is highly competitive as it offers a unique and adjustable ankle support mechanism that is not commonly found in existing climbing shoes.
+    Score: 8
+BUYER:
+    Reasoning: The idea of an integrated ankle support system meets the expectations of climbers who value convenience and customization in their footwear.
+    Score: 7
+MARKET:
+    Reasoning: The idea of an integrated ankle support system aligns well with the market's demand for innovative and performance-enhancing climbing gear, making it a highly competitive option.
+    Score: 9
+AVERAGE SCORE:
+    Reasoning: The idea of an integrated ankle support system is highly competitive in terms of competition, buyer expectations, and market demand, with an average score of 8.
+    Score: 8

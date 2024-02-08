@@ -1,2 +1,0 @@
-Product: Climbing Gear Recommendation App
-Product Description: This app uses machine learning algorithms to analyze climbers' preferences, climbing style, and skill level. It then recommends suitable climbing gear based on these factors, making it easier for climbers to find the right equipment.
