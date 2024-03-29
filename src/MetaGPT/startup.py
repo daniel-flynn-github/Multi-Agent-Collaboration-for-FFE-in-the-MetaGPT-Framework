@@ -9,7 +9,6 @@ from metagpt.roles import (
     NeedsAnalyst,
     Innovator,
     Evaluator,
-    ExperienceAnalyst,
     Demonstrator,
 )
 from metagpt.team import Team
@@ -31,7 +30,6 @@ async def startup(
             NeedsAnalyst(),
             Innovator(),
             Evaluator(),
-            ExperienceAnalyst(),
             Demonstrator(),
         ]
     )

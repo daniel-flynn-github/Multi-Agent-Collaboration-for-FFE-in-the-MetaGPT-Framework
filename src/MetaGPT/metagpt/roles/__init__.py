@@ -11,7 +11,6 @@ from metagpt.roles.user_researcher import UserResearcher
 from metagpt.roles.needs_analyst import NeedsAnalyst
 from metagpt.roles.innovator import Innovator
 from metagpt.roles.evaluator import Evaluator
-from metagpt.roles.experience_analyst import ExperienceAnalyst
 from metagpt.roles.demonstator import Demonstrator
 
 
@@ -21,6 +20,5 @@ __all__ = [
     "NeedsAnalyst",
     "Innovator",
     "Evaluator",
-    "ExperienceAnalyst",
     "Demonstrator",
 ]
