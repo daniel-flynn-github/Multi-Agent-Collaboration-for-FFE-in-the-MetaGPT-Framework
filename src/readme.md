@@ -1,41 +1,39 @@
 # Readme
 
-Put a brief description of your code here. This should at least describe the file structure.
+New Code:
+
+All the files in `src/MetaGPT/roles/...` other than the `Role.py` base class and init.py`
+All the files in `src/MetaGPT/actions/...` other than the `Action.py` base class and init.py`
+
+Modified Code:
+
+`src/MetaGPT/startup.py`
+`src/MetaGPT/environment.py`
+`src/MetaGPT/roles/init.py`
+`src/MetaGPT/actions/init.py`
+
 
 ## Build instructions
 
-**You must** include the instructions necessary to build and deploy this project successfully. If appropriate, also include 
-instructions to run automated tests. 
+## CONFIGURATION:
+
+You must first configure the LLM you choose to use and its API key in the corresponding fields found in `.../src/MetaGPT/config/key.yaml`. This version of MetaGPT only reliably supports GPT-3 and GPT-4 models. To gain access to API credits, a payment will have to be made to OpenAI. A run with GPT-3 only costs approximatley 7 cents. A run with GPT-4 costs upwards of a dollar.
+
 
 ### Requirements
 
-List the all of the pre-requisites software required to set up your project (e.g. compilers, packages, libraries, OS, hardware)
-
-For example:
-
-* Python 3.7
-* Packages: listed in `requirements.txt` 
-* Tested on Windows 10
-
-or another example:
-
-* Requires Raspberry Pi 3 
-* a Linux host machine with the `arm-none-eabi` toolchain (at least version `x.xx`) installed
-* a working LuaJIT installation > 2.1.0
+* Python 3.9
+* Packages: listed in `src/MetaGPT/requirements.txt` 
+* Tested on Windows 11
 
 ### Build steps
 
-List the steps required to build software. 
-
-Hopefully something simple like `pip install -e .` or `make` or `cd build; cmake ..`. In
-some cases you may have much more involved setup required.
+Navigate to `.../src/MetaGPT/` in a console environment
+Run `pip install -r requirements. txt` to install the required packages
+Configure the LLM as describes above
+Run `python startup.py` to execute the program
 
 ### Test steps
 
-List steps needed to show your software works. This might be running a test suite, or just starting the program; but something that could be used to verify your code is working correctly.
-
-Examples:
-
-* Run automated tests by running `pytest`
-* Start the software by running `bin/editor.exe` and opening the file `examples/example_01.bin`
+Run `python startup.py -example_scenario` to load the program with an example innovation scenario. Observe the output in console and files that generated in `.../src/MetaGPT/workspace`
 
