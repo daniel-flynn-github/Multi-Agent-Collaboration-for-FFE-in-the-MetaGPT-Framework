@@ -1,0 +1,15 @@
+1. Pain Point: Uncomfortable shoulder straps Impact = 85 Difficulty = 75 Overall = 55.0 
+2. Pain Point: Inconvenient water bottle access Impact = 80 Difficulty = 70 Overall = 55.0 
+3. Pain Point: Lack of easy-to-reach pockets Impact = 75 Difficulty = 65 Overall = 55.0 
+4. Pain Point: Limited ventilation causing sweat buildup Impact = 85 Difficulty = 80 Overall = 52.5 
+5. Pain Point: Difficulty adjusting backpack fit Impact = 80 Difficulty = 75 Overall = 52.5 
+6. Pain Point: Lack of rain cover for sudden weather changes Impact = 75 Difficulty = 70 Overall = 52.5 
+7. Pain Point: Insufficient back support on long climbs Impact = 90 Difficulty = 85 Overall = 52.5 
+8. Pain Point: Inconvenient gear organization in compartments Impact = 85 Difficulty = 80 Overall = 52.5 
+9. Pain Point: Limited stability on uneven terrains Impact = 80 Difficulty = 75 Overall = 52.5 
+10. Pain Point: Lack of anti-theft features for valuables Impact = 85 Difficulty = 80 Overall = 52.5 
+11. Pain Point: Inadequate padding for electronics protection Impact = 80 Difficulty = 75 Overall = 52.5 
+12. Pain Point: Limited waterproofing for electronic devices Impact = 75 Difficulty = 70 Overall = 52.5 
+13. Pain Point: Uncomfortable weight distribution causing strain Impact = 85 Difficulty = 80 Overall = 52.5 
+14. Pain Point: Inconvenient access to sunscreen and book Impact = 80 Difficulty = 75 Overall = 52.5 
+15. Pain Point: Limited airflow causing back sweat Impact = 75 Difficulty = 70 Overall = 52.5 

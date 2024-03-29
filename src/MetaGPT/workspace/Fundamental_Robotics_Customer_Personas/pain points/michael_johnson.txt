@@ -1,0 +1,3 @@
+Complex integration process for autonomous vehicle systems
+High costs associated with aligning with existing infrastructure
+Delays in testing timelines due to integration challenges

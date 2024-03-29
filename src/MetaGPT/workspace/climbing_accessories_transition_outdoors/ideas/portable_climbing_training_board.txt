@@ -1,0 +1,77 @@
+Idea: Portable Climbing Training Board
+Idea Description: Develop a portable climbing training board that can be easily transported in a backpack. The training board should be lightweight and compact, allowing climbers to practice their grip strength, finger strength, and endurance while outdoors. It can be attached to a tree or rock using adjustable straps, providing a versatile training option for climbers transitioning from indoor to outdoor climbing.
+PRODUCTIVITY:
+    Reasoning: The portable climbing training board can enhance productivity by providing climbers with a convenient and effective way to train their grip strength and endurance while outdoors.
+    Score: 8
+FUNCTIONALITY:
+    Reasoning: The training board adds functionality to the product by offering a versatile training option that can be easily attached to a tree or rock.
+    Score: 7
+RELIABILITY:
+    Reasoning: The training board does not significantly impact the reliability of the product.
+    Score: 5
+SAFETY:
+    Reasoning: The training board does not have a direct impact on the safety of the product.
+    Score: 5
+ECOLOGICALLY:
+    Reasoning: The training board does not have a significant ecological impact.
+    Score: 5
+AESTHETICS:
+    Reasoning: The training board does not significantly affect the aesthetics of the product.
+    Score: 5
+SUMMARY:
+    Summary: The average score for the portable climbing training board is 6.17.
+    Average Score: 
+COMPETITION:
+    Reasoning: The idea of a portable climbing training board is moderately competitive as some competitors already offer similar products, but Scarpa can differentiate itself by focusing on the specific needs of intermediate climbers transitioning to outdoor climbing.
+    Score: 7
+BUYER:
+    Reasoning: The idea of a portable climbing training board aligns well with customer expectations as it provides a convenient and effective way for climbers to improve their skills while transitioning to outdoor climbing.
+    Score: 8
+MARKET:
+    Reasoning: The idea of a portable climbing training board meets the expectations of the market, as there is a growing demand for training tools that cater to the needs of climbers transitioning from indoor to outdoor climbing.
+    Score: 8
+AVERAGE SCORE:
+    Reasoning: The idea of a portable climbing training board is moderately competitive with a score of 7.67.
+    Score: 7.67
+SALES VOLUME:
+    Reasoning: The portable climbing training board would attract more customers and increase sales volume by providing a convenient and versatile training option for climbers transitioning from indoor to outdoor climbing.
+    Score: 8
+RATE OF RETURN:
+    Reasoning: The portable climbing training board has the potential to generate a high rate of return on investment as it targets a specific niche market and addresses a common need for climbers transitioning to outdoor climbing.
+    Score: 7
+PAYBACK TIME:
+    Reasoning: The payback time for the portable climbing training board would be relatively short due to its potential to attract a large customer base and generate significant sales.
+    Score: 7
+AVERAGE SCORE:
+    Reasoning: The portable climbing training board has a positive impact on sales volume, rate of return, and payback time, with an average score of 7.33.
+    Score: 7.33
+NECESSITY:
+    Reasoning: Climbers transitioning from indoor to outdoor climbing need a portable training board to practice grip strength and endurance.
+    Score: 7
+NOVELTY:
+    Reasoning: A portable training board that can be easily attached to a tree or rock is a unique and innovative solution for outdoor climbers.
+    Score: 8
+USEFULNESS:
+    Reasoning: The training board provides a practical and convenient way for climbers to improve their climbing skills while outdoors.
+    Score: 8
+USABILITY:
+    Reasoning: The lightweight and compact design of the training board makes it easy to transport and use in various outdoor climbing locations.
+    Score: 9
+AVERAGE SCORE:
+    Reasoning: The portable climbing training board offers a necessary and novel solution that is highly useful and usable for climbers transitioning to outdoor climbing.
+    Score: 8
+IMPORTANCE:
+    Reasoning: The portable climbing training board will greatly contribute to the importance of the product for users by providing a convenient and effective way for climbers to improve their grip strength and endurance while transitioning from indoor to outdoor climbing.
+    Score: 8
+EMPHASIS:
+    Reasoning: The portable climbing training board will highlight the product by offering a unique and practical training option for climbers, distinguishing it from other climbing accessories in the market.
+    Score: 7
+COMMITMENT:
+    Reasoning: The portable climbing training board will enhance commitment from users by enabling them to continue their training and progress in their climbing journey even when they are outdoors.
+    Score: 8
+AFFORDABILITY:
+    Reasoning: The portable climbing training board will contribute to the affordability of the product by providing a cost-effective and versatile training solution that eliminates the need for expensive gym memberships or specialized training equipment.
+    Score: 7
+AVERAGE SCORE:
+    Reasoning: The portable climbing training board will significantly enhance the importance, emphasis, commitment, and affordability of the product, resulting in an average score of 7.5.
+    Score: 7.5

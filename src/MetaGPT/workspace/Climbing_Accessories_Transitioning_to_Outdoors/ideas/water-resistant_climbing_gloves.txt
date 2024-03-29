@@ -1,0 +1,23 @@
+Idea: Water-resistant climbing gloves
+Idea Description: Design water-resistant climbing gloves that offer excellent grip on wet surfaces. These gloves should be made from a durable and breathable material that repels water while still allowing for flexibility and dexterity. The palms and fingers of the gloves should feature a specialized grip pattern or material that provides maximum traction on wet rocks. Additionally, the gloves should have reinforced areas to protect against abrasion and provide extra durability.
+PRODUCTIVITY:
+    Reasoning: The idea of designing water-resistant climbing gloves can improve productivity by providing climbers with excellent grip on wet surfaces and protecting their hands from moisture.
+    Score: 8
+FUNCTIONALITY:
+    Reasoning: The idea of water-resistant climbing gloves improves the functionality of the product by offering excellent grip on wet surfaces and protecting against abrasion.
+    Score: 9
+RELIABILITY:
+    Reasoning: The idea of water-resistant climbing gloves enhances the reliability of the product by providing durability and protection against moisture.
+    Score: 9
+SAFETY:
+    Reasoning: The idea of water-resistant climbing gloves improves the safety of the product by offering a secure grip on wet rocks and protecting against abrasion.
+    Score: 9
+ECOLOGICALLY:
+    Reasoning: The idea of water-resistant climbing gloves does not have a significant impact on the environment.
+    Score: 5
+AESTHETICS:
+    Reasoning: The idea of water-resistant climbing gloves does not have a significant impact on the aesthetics of the product.
+    Score: 5
+SUMMARY:
+    Summary: The average score for the idea of water-resistant climbing gloves is 7.5.
+    Average Score: 

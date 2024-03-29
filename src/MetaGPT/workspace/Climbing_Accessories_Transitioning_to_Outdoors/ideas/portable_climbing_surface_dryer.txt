@@ -1,0 +1,23 @@
+Idea: Portable climbing surface dryer
+Idea Description: Develop a portable device that can quickly dry climbing surfaces, such as rocks or boulders, before climbing. This device should use a combination of heat and airflow to evaporate moisture from the surface, making it dry and providing better grip. The device should be lightweight, compact, and easy to use, allowing climbers to carry it in their backpacks and use it whenever they encounter wet climbing surfaces.
+PRODUCTIVITY:
+    Reasoning: The idea of developing a portable device that can quickly dry climbing surfaces can improve productivity by providing climbers with dry and better-gripping surfaces.
+    Score: 9
+FUNCTIONALITY:
+    Reasoning: The idea of a portable climbing surface dryer improves the functionality of the product by allowing climbers to dry wet surfaces quickly for better grip.
+    Score: 9
+RELIABILITY:
+    Reasoning: The idea of a portable climbing surface dryer enhances the reliability of the product by providing a reliable and efficient method for drying climbing surfaces.
+    Score: 9
+SAFETY:
+    Reasoning: The idea of a portable climbing surface dryer improves the safety of the product by reducing the risk of slipping on wet surfaces.
+    Score: 9
+ECOLOGICALLY:
+    Reasoning: The idea of a portable climbing surface dryer does not have a significant impact on the environment.
+    Score: 5
+AESTHETICS:
+    Reasoning: The idea of a portable climbing surface dryer does not have a significant impact on the aesthetics of the product.
+    Score: 5
+SUMMARY:
+    Summary: The average score for the idea of a portable climbing surface dryer is 8.5.
+    Average Score: 

@@ -1,0 +1,3 @@
+Difficulty integrating with deep learning workflows
+Challenges in adapting manipulation tasks seamlessly
+Hindrance in research progress due to integration issues

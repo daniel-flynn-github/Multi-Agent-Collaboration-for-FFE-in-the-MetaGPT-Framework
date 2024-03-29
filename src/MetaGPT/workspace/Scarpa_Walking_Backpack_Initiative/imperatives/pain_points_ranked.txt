@@ -1,0 +1,15 @@
+1. Pain Point: Backpack lacks compartmentalization Impact = 80 Difficulty = 50 Overall = 65.0 
+2. Pain Point: Backpack becomes uncomfortable after long use Impact = 90 Difficulty = 70 Overall = 60.0 
+3. Pain Point: Backpack lacks space for toddler's toys Impact = 60 Difficulty = 40 Overall = 60.0 
+4. Pain Point: Backpack lacks sweat absorption Impact = 70 Difficulty = 50 Overall = 60.0 
+5. Pain Point: Backpack lacks evening visibility features Impact = 60 Difficulty = 40 Overall = 60.0 
+6. Pain Point: Unpacking and repacking is time-consuming Impact = 70 Difficulty = 60 Overall = 55.0 
+7. Pain Point: Carrying toddler alongside backpack is uncomfortable Impact = 75 Difficulty = 65 Overall = 55.0 
+8. Pain Point: Backpack becomes heavy with toddler's items Impact = 80 Difficulty = 70 Overall = 55.0 
+9. Pain Point: Backpack is not spacious enough for larger items Impact = 65 Difficulty = 55 Overall = 55.0 
+10. Pain Point: Backpack lacks security features Impact = 85 Difficulty = 75 Overall = 55.0 
+11. Pain Point: Backpack is not easy to access on the go Impact = 80 Difficulty = 70 Overall = 55.0 
+12. Pain Point: Backpack lacks city navigation features Impact = 75 Difficulty = 65 Overall = 55.0 
+13. Pain Point: Backpack lacks first aid compartment Impact = 70 Difficulty = 60 Overall = 55.0 
+14. Pain Point: Backpack is not weather resistant Impact = 85 Difficulty = 75 Overall = 55.0 
+15. Pain Point: Backpack lacks countryside navigation features Impact = 70 Difficulty = 60 Overall = 55.0 

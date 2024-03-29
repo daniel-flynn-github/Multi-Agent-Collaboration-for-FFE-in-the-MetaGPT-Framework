@@ -1,0 +1,9 @@
+1. Pain Point: Lack of detailed tutorials Impact = 85 Difficulty = 65 Overall = 60.0 
+2. Pain Point: Complex interface Impact = 85 Difficulty = 70 Overall = 57.5 
+3. Pain Point: Insufficient documentation Impact = 75 Difficulty = 60 Overall = 57.5 
+4. Pain Point: Lack of support Impact = 90 Difficulty = 80 Overall = 55.0 
+5. Pain Point: Long development cycles Impact = 95 Difficulty = 85 Overall = 55.0 
+6. Pain Point: Time-consuming feature understanding Impact = 80 Difficulty = 70 Overall = 55.0 
+7. Pain Point: Limited support for teaching Impact = 70 Difficulty = 60 Overall = 55.0 
+8. Pain Point: Coordination issues with team Impact = 75 Difficulty = 65 Overall = 55.0 
+9. Pain Point: Limited customization options Impact = 80 Difficulty = 75 Overall = 52.5 

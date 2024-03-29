@@ -1,0 +1,3 @@
+Difficulty in preparing lecture on AI and robotics
+Challenges in using robot to explain complex AI concepts
+Struggles with evaluating effectiveness of robot in teaching

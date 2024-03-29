@@ -1,0 +1,15 @@
+1. Pain Point: Limited phone storage for photos Impact = 70 Difficulty = 50 Overall = 60.0 
+2. Pain Point: Uncomfortable backpack straps Impact = 85 Difficulty = 70 Overall = 57.5 
+3. Pain Point: Inconvenient access to essentials Impact = 80 Difficulty = 65 Overall = 57.5 
+4. Pain Point: Lack of trail information updates Impact = 75 Difficulty = 60 Overall = 57.5 
+5. Pain Point: Difficulty disconnecting from technology Impact = 70 Difficulty = 55 Overall = 57.5 
+6. Pain Point: Inadequate sun protection gear Impact = 80 Difficulty = 65 Overall = 57.5 
+7. Pain Point: Poor weight distribution in backpack Impact = 85 Difficulty = 75 Overall = 55.0 
+8. Pain Point: Imbalance in backpack weight distribution Impact = 80 Difficulty = 70 Overall = 55.0 
+9. Pain Point: Lack of clear trail markers Impact = 75 Difficulty = 65 Overall = 55.0 
+10. Pain Point: Limited space for sketching materials Impact = 70 Difficulty = 60 Overall = 55.0 
+11. Pain Point: Lack of interactive hiking features Impact = 70 Difficulty = 60 Overall = 55.0 
+12. Pain Point: Inconvenient access to art supplies in backpack Impact = 80 Difficulty = 70 Overall = 55.0 
+13. Pain Point: Limited battery life for electronic art tools Impact = 75 Difficulty = 65 Overall = 55.0 
+14. Pain Point: Lack of inspiration prompts during hike Impact = 70 Difficulty = 60 Overall = 55.0 
+15. Pain Point: Unstable backpack during socializing Impact = 75 Difficulty = 70 Overall = 52.5 

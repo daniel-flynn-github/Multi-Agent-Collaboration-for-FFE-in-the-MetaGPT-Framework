@@ -1,0 +1,2 @@
+Idea: Community Forum
+Idea Description: Another solution to the 'Lack of detailed tutorials' pain point is to create a community forum. This forum would allow users to share their experiences, solutions, and tutorials with each other. It would also provide a platform for our team to interact with users, answer their questions, and gain insights into their needs and challenges. The forum can be developed using existing forum software like Discourse, and we can incentivize participation through gamification features like badges and leaderboards.

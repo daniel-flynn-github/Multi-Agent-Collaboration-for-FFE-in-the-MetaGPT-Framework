@@ -1,0 +1,3 @@
+
+Journey Map: 
+Sarah begins her day by reviewing the AI course syllabus. She plans to use the AI educational robot in her practical session. During the session, she demonstrates how AI algorithms work using the robot. The students then use the robot for their hands-on practice. After the session, Sarah evaluates the students' performance based on their interaction with the robot.

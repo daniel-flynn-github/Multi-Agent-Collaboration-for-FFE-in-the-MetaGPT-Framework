@@ -1,0 +1,15 @@
+1. Pain Point: Frequent clogging during peeling Impact = 85 Difficulty = 70 Overall = 57.5 
+2. Pain Point: Handle discomfort after prolonged use Impact = 75 Difficulty = 60 Overall = 57.5 
+3. Pain Point: Challenges with cleaning the peeler Impact = 85 Difficulty = 75 Overall = 55.0 
+4. Pain Point: Limited versatility for different vegetables Impact = 80 Difficulty = 70 Overall = 55.0 
+5. Pain Point: Slippery handle impacting control Impact = 85 Difficulty = 75 Overall = 55.0 
+6. Pain Point: Blade dullness affecting efficiency Impact = 90 Difficulty = 85 Overall = 52.5 
+7. Pain Point: Safety features not intuitive Impact = 70 Difficulty = 65 Overall = 52.5 
+8. Pain Point: Struggles with peeler's grip on certain vegetables Impact = 75 Difficulty = 70 Overall = 52.5 
+9. Pain Point: Handle discomfort during extended use Impact = 75 Difficulty = 70 Overall = 52.5 
+10. Pain Point: Blade getting stuck on tougher vegetables Impact = 90 Difficulty = 85 Overall = 52.5 
+11. Pain Point: Inconvenience due to blade blockage Impact = 85 Difficulty = 80 Overall = 52.5 
+12. Pain Point: Limited blade sharpness over time Impact = 80 Difficulty = 80 Overall = 50.0 
+13. Pain Point: Limited safety features for precise cuts Impact = 80 Difficulty = 80 Overall = 50.0 
+14. Pain Point: Limited blade durability for tough use Impact = 80 Difficulty = 85 Overall = 47.5 
+15. Pain Point: Eco-friendly materials affecting durability Impact = 70 Difficulty = 80 Overall = 45.0 

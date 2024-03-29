@@ -1,0 +1,3 @@
+
+Journey Map: 
+Dr. Lisa Chen uses the robotic platform in her university lab for research and teaching. She appreciates the platform's reliability, which allows her to conduct her research without interruptions. However, she finds it challenging to train deep learning models on the platform due to the lack of detailed tutorials or guides. She spends a lot of time trying to figure out the platform's features, which takes away from her research and teaching time.

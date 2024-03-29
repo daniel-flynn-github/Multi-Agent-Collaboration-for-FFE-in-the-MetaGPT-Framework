@@ -1,0 +1,3 @@
+Complexity of explaining AI algorithms
+Difficulty in guiding students' algorithm modifications
+Challenges in assessing students' understanding

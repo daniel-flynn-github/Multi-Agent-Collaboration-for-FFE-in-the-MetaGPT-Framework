@@ -1,3 +1,4 @@
 {
-    "cody.codebase": "https://stgit.dcs.gla.ac.uk/2469113f/daniel-f-dissertation"
+    "cody.codebase": "https://stgit.dcs.gla.ac.uk/2469113f/daniel-f-dissertation",
+    "cmake.configureOnOpen": false
 }

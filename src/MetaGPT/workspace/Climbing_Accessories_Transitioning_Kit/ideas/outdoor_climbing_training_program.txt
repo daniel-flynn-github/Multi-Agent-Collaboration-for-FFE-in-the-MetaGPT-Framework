@@ -1,0 +1,77 @@
+Idea: Outdoor Climbing Training Program
+Idea Description: Develop a specialized training program tailored for intermediate boulder and sport climbers who are transitioning from indoor climbing to outdoor climbing. The program should focus on building the necessary skills and techniques required for outdoor climbing, such as route reading, anchor building, and lead climbing. It should also include strength and conditioning exercises specific to outdoor climbing. The training program can be delivered through a combination of online resources, instructional videos, and in-person workshops to ensure accessibility for climbers.
+PRODUCTIVITY:
+    Reasoning: The training program will increase productivity by providing a structured approach for climbers to develop the necessary skills for outdoor climbing.
+    Score: 8
+FUNCTIONALITY:
+    Reasoning: The training program will enhance the functionality of the product by focusing on specific skills and techniques required for outdoor climbing.
+    Score: 9
+RELIABILITY:
+    Reasoning: The training program will improve the reliability of the product by ensuring climbers are well-prepared for outdoor climbing challenges.
+    Score: 8
+SAFETY:
+    Reasoning: The training program will contribute to the safety of climbers by teaching them proper techniques and safety precautions for outdoor climbing.
+    Score: 9
+ECOLOGICALLY:
+    Reasoning: The training program will have a negligible impact on the environment.
+    Score: 5
+AESTHETICS:
+    Reasoning: The training program will not affect the aesthetics of the product.
+    Score: 5
+SUMMARY:
+    Summary: The average score for the Outdoor Climbing Training Program idea is 7.86.
+    Average Score: 
+COMPETITION:
+    Reasoning: The idea of an outdoor climbing training program is moderately competitive as there are existing training programs available, but it offers a specialized focus on transitioning from indoor to outdoor climbing.
+    Score: 6
+BUYER:
+    Reasoning: The idea of an outdoor climbing training program aligns with customer expectations as it provides tailored training for climbers transitioning from indoor to outdoor climbing.
+    Score: 7
+MARKET:
+    Reasoning: The idea of an outdoor climbing training program meets the expectations of the market as it caters to the specific needs of intermediate climbers transitioning from indoor to outdoor climbing.
+    Score: 7
+AVERAGE SCORE:
+    Reasoning: The idea of an outdoor climbing training program is moderately competitive, aligns with customer expectations, and meets the expectations of the market, resulting in a positive change in market value.
+    Score: 6.67
+SALES VOLUME:
+    Reasoning: The training program can attract a niche market of climbers who want to transition from indoor to outdoor climbing, resulting in an increase in sales volume.
+    Score: 7
+RATE OF RETURN:
+    Reasoning: The training program can be delivered online, reducing costs and increasing the rate of return on investment.
+    Score: 8
+PAYBACK TIME:
+    Reasoning: The training program can generate revenue quickly, resulting in a shorter payback time.
+    Score: 8
+AVERAGE SCORE:
+    Reasoning: The outdoor climbing training program idea has a positive impact on sales volume, rate of return, and payback time, with an average score of 7.67.
+    Score: 7.67
+NECESSITY:
+    Reasoning: Transitioning climbers would greatly benefit from a specialized training program to develop the skills and techniques required for outdoor climbing.
+    Score: 9
+NOVELTY:
+    Reasoning: While training programs exist, a program specifically tailored for transitioning climbers would be novel and address their unique needs.
+    Score: 7
+USEFULNESS:
+    Reasoning: A training program focused on outdoor climbing skills and conditioning would be highly useful for transitioning climbers.
+    Score: 9
+USABILITY:
+    Reasoning: A combination of online resources, videos, and workshops would ensure accessibility and usability of the training program.
+    Score: 8
+AVERAGE SCORE:
+    Reasoning: A specialized training program designed for transitioning climbers would be highly necessary, novel, useful, and usable, making it a valuable addition to the product. The average score is 8.25.
+    Score: 8.25
+IMPORTANCE:
+    Reasoning: The training program will play a crucial role in building the necessary skills and techniques for outdoor climbing, significantly contributing to the importance of the product.
+    Score: 9
+EMPHASIS:
+    Reasoning: The training program will emphasize the product as a comprehensive solution for climbers transitioning to outdoor climbing, offering specialized guidance and support.
+    Score: 8
+COMMITMENT:
+    Reasoning: By providing a structured training program, the product will enhance climbers' commitment to outdoor climbing, ensuring they are well-prepared and confident.
+    Score: 8
+AFFORDABILITY:
+    Reasoning: The online resources and instructional videos can be made accessible at a reasonable cost, making the training program affordable for climbers.
+    Score: 7
+AVERAGE SCORE:
+    Reasoning: The outdoor climbing training program scores an average of 8.0, indicating a high social value for climbers transitioning to outdoor climbing.
+    Score: 

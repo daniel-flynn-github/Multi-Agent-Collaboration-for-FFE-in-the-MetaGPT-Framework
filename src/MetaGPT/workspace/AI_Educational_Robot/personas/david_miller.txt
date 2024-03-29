@@ -1,0 +1,3 @@
+
+Journey Map: 
+David starts his day by preparing his lecture on AI and robotics. He plans to use the AI educational robot to demonstrate the concepts. During his lecture, he uses the robot to explain complex AI concepts, keeping his students engaged. In the lab session, he guides his students as they program the robot. After the class, he evaluates the effectiveness of the robot in teaching and plans for the next lecture.

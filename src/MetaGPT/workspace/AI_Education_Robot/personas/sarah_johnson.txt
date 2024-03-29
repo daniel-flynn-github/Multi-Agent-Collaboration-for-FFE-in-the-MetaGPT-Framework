@@ -1,0 +1,3 @@
+
+Journey Map: 
+Sarah begins her lecture by explaining a complex AI algorithm. She then uses the AI educational robot to demonstrate the algorithm in action. The students are given a task to modify the algorithm and observe the robot's behavior. Sarah provides guidance and clarifies doubts. The lecture ends with a group discussion on the observed results and potential improvements. Sarah assigns a project to further explore AI algorithms using the robot.

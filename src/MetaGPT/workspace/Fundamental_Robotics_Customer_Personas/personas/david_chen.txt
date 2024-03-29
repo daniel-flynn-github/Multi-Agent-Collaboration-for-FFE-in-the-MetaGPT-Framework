@@ -1,0 +1,3 @@
+
+Journey Map: 
+David eagerly experiments with the robotic platform to aid in his deep learning research projects. He successfully trains the platform to perform manipulation tasks but encounters difficulties in seamlessly integrating it with his deep learning workflows, hindering his research progress.

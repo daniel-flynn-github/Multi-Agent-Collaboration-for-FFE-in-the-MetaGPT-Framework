@@ -1,0 +1,23 @@
+Idea: Water-repellent climbing tape
+Idea Description: Introduce water-repellent climbing tape that maintains its grip even when wet. This tape should have a special coating or material that repels water, preventing it from becoming slippery. The tape should be easy to apply and remove, providing climbers with a reliable grip on their hands and fingers. It should also be durable and tear-resistant to withstand the rigors of outdoor climbing.
+PRODUCTIVITY:
+    Reasoning: The idea of introducing water-repellent climbing tape can improve productivity by providing climbers with a reliable grip on their hands and fingers even when wet.
+    Score: 8
+FUNCTIONALITY:
+    Reasoning: The idea of water-repellent climbing tape improves the functionality of the product by maintaining grip even when wet and being durable and tear-resistant.
+    Score: 9
+RELIABILITY:
+    Reasoning: The idea of water-repellent climbing tape enhances the reliability of the product by providing a consistent grip even in wet conditions and durability.
+    Score: 9
+SAFETY:
+    Reasoning: The idea of water-repellent climbing tape improves the safety of the product by reducing the risk of slipping on wet surfaces.
+    Score: 9
+ECOLOGICALLY:
+    Reasoning: The idea of water-repellent climbing tape does not have a significant impact on the environment.
+    Score: 5
+AESTHETICS:
+    Reasoning: The idea of water-repellent climbing tape does not have a significant impact on the aesthetics of the product.
+    Score: 5
+SUMMARY:
+    Summary: The average score for the idea of water-repellent climbing tape is 7.5.
+    Average Score: 

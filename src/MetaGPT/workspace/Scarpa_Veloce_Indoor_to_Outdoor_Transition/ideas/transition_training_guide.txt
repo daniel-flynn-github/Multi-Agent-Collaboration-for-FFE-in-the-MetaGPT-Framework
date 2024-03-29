@@ -1,0 +1,77 @@
+Idea: Transition Training Guide
+Idea Description: Create a Transition Training Guide that comes with the Veloce climbing shoe. This guide will provide information about the differences between indoor and outdoor climbing, tips for transitioning, and how to use the Veloce climbing shoe effectively in both scenarios. This will help the climbers transitioning from indoor to outdoor climbing by providing them with the necessary knowledge and skills.
+PRODUCTIVITY:
+    Reasoning: The production of a training guide is straightforward and will not significantly affect productivity.
+    Score: 9
+FUNCTIONALITY:
+    Reasoning: The guide enhances the product's functionality by providing valuable information to climbers.
+    Score: 9
+RELIABILITY:
+    Reasoning: The reliability of the guide depends on the accuracy and relevance of the information provided.
+    Score: 8
+SAFETY:
+    Reasoning: The guide enhances safety by educating climbers about transitioning from indoor to outdoor climbing.
+    Score: 9
+ECOLOGICALLY:
+    Reasoning: The environmental impact depends on the production process of the guide, but digital formats could be considered for minimal impact.
+    Score: 8
+AESTHETICS:
+    Reasoning: The guide does not affect the aesthetics of the shoe.
+    Score: 9
+SUMMARY:
+    Summary: The Transition Training Guide enhances functionality and safety, and has minimal impact on productivity, reliability, and ecological impact.
+    Average Score: 8.6
+COMPETITION:
+    Reasoning: While many climbing shoes come with guides, none specifically address transitioning from indoor to outdoor climbing, giving Scarpa a unique selling point.
+    Score: 7
+BUYER:
+    Reasoning: The transition training guide could be valuable for climbers transitioning from indoor to outdoor climbing, providing them with necessary knowledge and skills.
+    Score: 7
+MARKET:
+    Reasoning: There is a market need for information on transitioning from indoor to outdoor climbing, and Scarpa could meet this need with the transition training guide.
+    Score: 7
+AVERAGE SCORE:
+    Reasoning: The transition training guide is a unique offering that meets customer needs and could give Scarpa a competitive edge in the market.
+    Score: 7
+SALES VOLUME:
+    Reasoning: The transition training guide could increase sales volume by providing added value to beginners transitioning to outdoor climbing.
+    Score: 7
+RATE OF RETURN:
+    Reasoning: The rate of return could be moderate as the guide could be produced at a low cost but may not significantly increase the product's price.
+    Score: 6
+PAYBACK TIME:
+    Reasoning: The payback time could be short due to the low cost of producing the guide.
+    Score: 8
+AVERAGE SCORE:
+    Reasoning: The Transition Training Guide is a cost-effective addition that could enhance the product's appeal to beginners.
+    Score: 7
+NECESSITY:
+    Reasoning: The Transition Training Guide is necessary as it provides valuable information and tips for climbers transitioning from indoor to outdoor climbing.
+    Score: 7
+NOVELTY:
+    Reasoning: The idea of including a transition guide with the shoe is not entirely novel, but it is a thoughtful addition that adds value to the product.
+    Score: 6
+USEFULNESS:
+    Reasoning: The Transition Training Guide is useful as it equips climbers with the necessary knowledge and skills for a successful transition.
+    Score: 7
+USABILITY:
+    Reasoning: The usability of the product is enhanced by the guide, which is easy to understand and apply in real climbing scenarios.
+    Score: 7
+AVERAGE SCORE:
+    Reasoning: The Transition Training Guide is a necessary and useful feature that, while not entirely novel, enhances the usability of the product.
+    Score: 6.75
+IMPORTANCE:
+    Reasoning: The Transition Training Guide would be a valuable resource for climbers transitioning from indoor to outdoor climbing.
+    Score: 7
+EMPHASIS:
+    Reasoning: The inclusion of a guide would emphasize Scarpa's commitment to user education and safety.
+    Score: 7
+COMMITMENT:
+    Reasoning: A comprehensive guide would foster user trust and commitment by demonstrating Scarpa's dedication to their climbing journey.
+    Score: 7
+AFFORDABILITY:
+    Reasoning: The guide would be a cost-effective addition, likely having a minimal impact on the product's price.
+    Score: 8
+AVERAGE SCORE:
+    Reasoning: The Transition Training Guide is a valuable, cost-effective resource that emphasizes Scarpa's commitment to user education and safety.
+    Score: 7.25

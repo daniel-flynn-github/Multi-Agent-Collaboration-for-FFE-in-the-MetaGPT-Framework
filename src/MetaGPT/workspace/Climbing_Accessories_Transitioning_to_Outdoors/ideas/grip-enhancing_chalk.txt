@@ -1,0 +1,23 @@
+Idea: Grip-enhancing chalk
+Idea Description: Develop a new type of climbing chalk that provides enhanced grip on wet surfaces. This chalk should have a special formula that absorbs moisture and creates a tacky surface on the hands, allowing climbers to maintain a strong grip even in wet conditions. The chalk should be easy to apply and long-lasting, ensuring climbers can confidently tackle outdoor climbs without worrying about slipping.
+PRODUCTIVITY:
+    Reasoning: The idea of developing a new type of climbing chalk that provides enhanced grip on wet surfaces can improve productivity by allowing climbers to confidently tackle outdoor climbs without worrying about slipping.
+    Score: 8
+FUNCTIONALITY:
+    Reasoning: The idea of grip-enhancing chalk improves the functionality of the product by ensuring a strong grip on wet surfaces.
+    Score: 9
+RELIABILITY:
+    Reasoning: The idea of grip-enhancing chalk enhances the reliability of the product by providing a consistent grip even in wet conditions.
+    Score: 9
+SAFETY:
+    Reasoning: The idea of grip-enhancing chalk improves the safety of the product by reducing the risk of slipping on wet surfaces.
+    Score: 9
+ECOLOGICALLY:
+    Reasoning: The idea of grip-enhancing chalk does not have a significant impact on the environment.
+    Score: 5
+AESTHETICS:
+    Reasoning: The idea of grip-enhancing chalk does not have a significant impact on the aesthetics of the product.
+    Score: 5
+SUMMARY:
+    Summary: The average score for the idea of grip-enhancing chalk is 7.5.
+    Average Score: 

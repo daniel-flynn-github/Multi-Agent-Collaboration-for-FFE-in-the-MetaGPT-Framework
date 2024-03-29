@@ -1,0 +1,3 @@
+Difficulty in programming the robot
+Struggles to understand AI concepts through robot interaction
+Lack of guidance in using the robot effectively

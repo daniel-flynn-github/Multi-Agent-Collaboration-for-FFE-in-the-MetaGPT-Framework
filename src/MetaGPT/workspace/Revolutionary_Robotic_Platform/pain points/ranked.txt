@@ -1,0 +1,15 @@
+1. Pain Point: Complex platform interface hindering workflow Impact = 85 Difficulty = 70 Overall = 57.5 
+2. Pain Point: Advanced capabilities not fully utilized Impact = 75 Difficulty = 60 Overall = 57.5 
+3. Pain Point: Autonomous features errors causing project delays Impact = 85 Difficulty = 80 Overall = 52.5 
+4. Pain Point: Reliability issues in data collection tasks Impact = 80 Difficulty = 75 Overall = 52.5 
+5. Pain Point: Inconsistent platform performance under student license Impact = 80 Difficulty = 75 Overall = 52.5 
+6. Pain Point: Time-consuming synchronization process for multiple robotic arms Impact = 85 Difficulty = 80 Overall = 52.5 
+7. Pain Point: Manual adjustments required for synchronization tasks Impact = 80 Difficulty = 75 Overall = 52.5 
+8. Pain Point: Lack of automated optimization for AI-robotics integration Impact = 75 Difficulty = 70 Overall = 52.5 
+9. Pain Point: Integration complexities for mass production scaling Impact = 75 Difficulty = 75 Overall = 50.0 
+10. Pain Point: Challenges in customizing platform for specific requirements Impact = 80 Difficulty = 85 Overall = 47.5 
+11. Pain Point: Limited documentation for advanced features Impact = 65 Difficulty = 70 Overall = 47.5 
+12. Pain Point: Inadequate troubleshooting resources for errors Impact = 70 Difficulty = 75 Overall = 47.5 
+13. Pain Point: Lack of personalized support for technical issues Impact = 70 Difficulty = 80 Overall = 45.0 
+14. Pain Point: Limited access to features due to student license restrictions Impact = 75 Difficulty = 85 Overall = 45.0 
+15. Pain Point: Collaboration barriers with peers due to license limitations Impact = 70 Difficulty = 80 Overall = 45.0 

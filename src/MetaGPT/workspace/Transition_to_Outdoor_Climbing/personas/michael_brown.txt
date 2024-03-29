@@ -1,0 +1,12 @@
+Name: Michael Brown
+
+Age: 31
+
+Demographic: Married, Suburban, Engineer
+
+Biography: Michael is an engineer living in Birmingham with his wife. He has been climbing indoors for five years and wants to start climbing outdoors. He is particularly interested in sport climbing.
+
+Goals: To safely transition to outdoor sport climbing, to improve his climbing skills, to connect with nature.
+
+Frustrations: Lack of knowledge about outdoor climbing, lack of appropriate equipment, concerns about safety.
+

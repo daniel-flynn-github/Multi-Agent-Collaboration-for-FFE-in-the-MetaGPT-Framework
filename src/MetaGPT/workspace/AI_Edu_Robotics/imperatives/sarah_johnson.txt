@@ -1,0 +1,3 @@
+Struggles to demonstrate AI algorithms using the robot
+Difficulty in evaluating student performance based on robot interaction
+Challenges in planning practical sessions involving the robot

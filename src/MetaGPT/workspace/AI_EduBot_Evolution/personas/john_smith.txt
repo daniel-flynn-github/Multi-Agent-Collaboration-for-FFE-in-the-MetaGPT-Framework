@@ -1,0 +1,3 @@
+
+Journey Map: 
+John starts his day by preparing his lecture notes for his AI class. He includes a practical session where students will interact with the AI educational robot. During the lecture, he uses the robot to demonstrate AI concepts. Students then get a chance to experiment with the robot, programming it to perform various tasks. John ends the day by reviewing student's work and providing feedback.

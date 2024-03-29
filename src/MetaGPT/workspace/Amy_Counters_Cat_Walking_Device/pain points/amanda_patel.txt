@@ -1,0 +1,3 @@
+Device battery life too short for long walks
+Device lacks GPS tracking for urban areas
+Device not compatible with smartphone apps

@@ -5,13 +5,6 @@
 * 2469113F
 * Jonathan Grizou
 
-## Guidance
-
-* This file contains the time log for your project. It will be submitted along with your final dissertation.
-* **YOU MUST KEEP THIS UP TO DATE AND UNDER VERSION CONTROL.**
-* This timelog should be filled out honestly, regularly (daily) and accurately. It is for *your* benefit.
-* Follow the structure provided, grouping time by weeks.  Quantise time to the half hour.
-
 ## Week 1
 
 ## 21 Sep 2023
@@ -54,3 +47,5 @@
 * *5 hours* Read through core functionality python files in the codebase (a lot). Started to deconstruct how the program works and where I can implement changes
 ## 19 Oct 2023
 * *7.5 hours* Created two new roles with their own actions. Managed to get the program to get them to collaborate sharing memory. Now have good understanding as to how program works.
+
+## The timelog was unfortunatley not maintained past this point. The rest of the project was completed in consistent eight hour sessions every Tuesday, 30 minute meetings with Dr Grizou and Ash every Friday, and a four hour session every Friday afternoon.

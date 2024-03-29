@@ -1,0 +1,23 @@
+Idea: Peel and Collect
+Idea Description: Peel and Collect is a vegetable peeler designed with a built-in container to collect the peels. The peeler is designed in a way that the peels are directed into the container as the vegetable is being peeled, reducing the mess on the countertop. The container is detachable and can be easily emptied and cleaned. This addresses the pain point of peeling being messy and time-consuming as it eliminates the need to clean up the peels after peeling.
+PRODUCTIVITY:
+    Reasoning: Peel and Collect's built-in container for peels could increase productivity by reducing clean-up time.
+    Score: 8
+FUNCTIONALITY:
+    Reasoning: The functionality of Peel and Collect is improved compared to traditional peelers due to its built-in container for peels.
+    Score: 7
+RELIABILITY:
+    Reasoning: The reliability of Peel and Collect is likely to be high, as its design is simple and straightforward.
+    Score: 8
+SAFETY:
+    Reasoning: The safety of Peel and Collect is likely to be similar to traditional peelers, as it does not include any additional safety features.
+    Score: 5
+ECOLOGICALLY:
+    Reasoning: The ecological impact of Peel and Collect is not specified, but its design is likely to be similar to traditional peelers.
+    Score: 5
+AESTHETICS:
+    Reasoning: The design of Peel and Collect is likely to be practical and functional, which may not align with the aesthetics of other Portabread products.
+    Score: 6
+SUMMARY:
+    Summary: Peel and Collect scores high in productivity and reliability, but its safety, ecological impact, and aesthetics could be improved.
+    Average Score: 6.6

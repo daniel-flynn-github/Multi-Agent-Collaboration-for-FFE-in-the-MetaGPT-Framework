@@ -1,0 +1,15 @@
+1. Pain Point: Heavy load causing back strain Impact = 90 Difficulty = 55 Overall = 67.5 
+2. Pain Point: Struggles to find small items in backpack Impact = 85 Difficulty = 60 Overall = 62.5 
+3. Pain Point: Sketchbook gets crumpled in backpack Impact = 85 Difficulty = 65 Overall = 60.0 
+4. Pain Point: Limited space for larger water bottles Impact = 80 Difficulty = 65 Overall = 57.5 
+5. Pain Point: Water bottle compartment leaks, damaging gear Impact = 85 Difficulty = 70 Overall = 57.5 
+6. Pain Point: Limited storage for photography accessories Impact = 80 Difficulty = 70 Overall = 55.0 
+7. Pain Point: Inadequate support for delicate sketches Impact = 80 Difficulty = 70 Overall = 55.0 
+8. Pain Point: Uncomfortable straps causing shoulder pain Impact = 75 Difficulty = 70 Overall = 52.5 
+9. Pain Point: Inefficient organization of camera equipment in backpack Impact = 80 Difficulty = 75 Overall = 52.5 
+10. Pain Point: Thermos spills inside backpack, creating a mess Impact = 75 Difficulty = 75 Overall = 50.0 
+11. Pain Point: Pencils easily get lost in the main compartment Impact = 75 Difficulty = 75 Overall = 50.0 
+12. Pain Point: Difficulty accessing snacks in crowded backpack Impact = 70 Difficulty = 75 Overall = 47.5 
+13. Pain Point: Lack of designated trash compartment Impact = 75 Difficulty = 85 Overall = 45.0 
+14. Pain Point: Book gets damaged due to lack of protection in backpack Impact = 70 Difficulty = 80 Overall = 45.0 
+15. Pain Point: Lack of insulation for perishable snacks Impact = 65 Difficulty = 80 Overall = 42.5 

@@ -1,0 +1,15 @@
+1. Pain Point: Uncomfortable backpack straps Impact = 85 Difficulty = 70 Overall = 57.5 
+2. Pain Point: Limited storage space Impact = 70 Difficulty = 60 Overall = 55.0 
+3. Pain Point: Difficulty in weight distribution Impact = 80 Difficulty = 75 Overall = 52.5 
+4. Pain Point: Lack of organizational pockets Impact = 75 Difficulty = 70 Overall = 52.5 
+5. Pain Point: Inefficient weight distribution Impact = 65 Difficulty = 65 Overall = 50.0 
+6. Pain Point: Limited durability for rugged terrain Impact = 80 Difficulty = 80 Overall = 50.0 
+7. Pain Point: Struggles with adjusting straps Impact = 65 Difficulty = 70 Overall = 47.5 
+8. Pain Point: Uncomfortable back panel Impact = 70 Difficulty = 75 Overall = 47.5 
+9. Pain Point: Lack of customization options Impact = 65 Difficulty = 70 Overall = 47.5 
+10. Pain Point: Inconvenient access to essentials Impact = 70 Difficulty = 75 Overall = 47.5 
+11. Pain Point: Inadequate support for heavy items Impact = 75 Difficulty = 85 Overall = 45.0 
+12. Pain Point: Lack of specialized compartments Impact = 70 Difficulty = 80 Overall = 45.0 
+13. Pain Point: Inadequate load stabilization Impact = 75 Difficulty = 85 Overall = 45.0 
+14. Pain Point: Unsuitable for extreme conditions Impact = 70 Difficulty = 90 Overall = 40.0 
+15. Pain Point: Unsuitable for longer walks Impact = 60 Difficulty = 80 Overall = 40.0 

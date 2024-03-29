@@ -1,0 +1,23 @@
+Idea: Eco-Peel
+Idea Description: Eco-Peel is a vegetable peeler made from recycled and recyclable materials. The peeler is designed to be disassembled at the end of its life for easy recycling. The blade is made of stainless steel that can be sharpened or replaced, extending the life of the peeler. This addresses the company's requirement for end of life consideration and the pain point of needing a durable peeler.
+PRODUCTIVITY:
+    Reasoning: The productivity of Eco-Peel is likely to be similar to traditional peelers.
+    Score: 5
+FUNCTIONALITY:
+    Reasoning: The functionality of Eco-Peel is improved compared to traditional peelers due to its recyclable materials and replaceable blade.
+    Score: 7
+RELIABILITY:
+    Reasoning: The reliability of Eco-Peel is likely to be high due to its replaceable blade.
+    Score: 8
+SAFETY:
+    Reasoning: The safety of Eco-Peel is likely to be similar to traditional peelers, as it does not include any additional safety features.
+    Score: 5
+ECOLOGICALLY:
+    Reasoning: The ecological impact of Eco-Peel is excellent due to its use of recycled and recyclable materials.
+    Score: 9
+AESTHETICS:
+    Reasoning: The design of Eco-Peel is likely to be practical and functional, which may not align with the aesthetics of other Portabread products.
+    Score: 6
+SUMMARY:
+    Summary: Eco-Peel scores high in ecological impact and reliability, but its productivity, safety, and aesthetics could be improved.
+    Average Score: 6.6

@@ -1,0 +1,14 @@
+1. Pain Point: Struggles with reviewing students' work Impact = 90 Difficulty = 70 Overall = 60.0 
+2. Pain Point: Difficulty in preparing practical AI sessions Impact = 80 Difficulty = 60 Overall = 60.0 
+3. Pain Point: Struggles with introducing basic AI concepts Impact = 70 Difficulty = 50 Overall = 60.0 
+4. Pain Point: Challenges in reviewing his own work Impact = 75 Difficulty = 55 Overall = 60.0 
+5. Pain Point: Challenges in sharing learnings with parents Impact = 70 Difficulty = 50 Overall = 60.0 
+6. Pain Point: Difficulty in planning lessons with AI robot Impact = 80 Difficulty = 65 Overall = 57.5 
+7. Pain Point: Struggles with learning AI concepts Impact = 85 Difficulty = 70 Overall = 57.5 
+8. Pain Point: Challenges in observing student engagement Impact = 75 Difficulty = 60 Overall = 57.5 
+9. Pain Point: Struggles with gathering feedback Impact = 70 Difficulty = 55 Overall = 57.5 
+10. Pain Point: Challenges in providing effective feedback Impact = 85 Difficulty = 75 Overall = 55.0 
+11. Pain Point: Difficulty in understanding AI concepts Impact = 90 Difficulty = 80 Overall = 55.0 
+12. Pain Point: Struggles with programming the robot Impact = 95 Difficulty = 85 Overall = 55.0 
+13. Pain Point: Difficulty in programming the robot Impact = 95 Difficulty = 85 Overall = 55.0 
+14. Pain Point: Difficulty in integrating AI robot into curriculum Impact = 80 Difficulty = 75 Overall = 52.5 

@@ -1,0 +1,3 @@
+Limited customization options for healthcare applications
+Challenges in adapting AI systems to the robotic arm
+Scalability issues due to customization limitations

@@ -1,0 +1,15 @@
+1. Pain Point: Limited color options for device Impact = 60 Difficulty = 40 Overall = 60.0 
+2. Pain Point: Device size not adjustable Impact = 70 Difficulty = 50 Overall = 60.0 
+3. Pain Point: Device lacks water-resistant feature Impact = 85 Difficulty = 65 Overall = 60.0 
+4. Pain Point: Device not compatible with cat harness Impact = 75 Difficulty = 55 Overall = 60.0 
+5. Pain Point: Device straps cause discomfort Impact = 75 Difficulty = 60 Overall = 57.5 
+6. Pain Point: Device lacks storage for cat essentials Impact = 65 Difficulty = 50 Overall = 57.5 
+7. Pain Point: Device not suitable for rough terrains Impact = 80 Difficulty = 70 Overall = 55.0 
+8. Pain Point: Device difficult to clean after use Impact = 70 Difficulty = 60 Overall = 55.0 
+9. Pain Point: Device not suitable for extreme weather conditions Impact = 80 Difficulty = 70 Overall = 55.0 
+10. Pain Point: Device lacks customization options Impact = 70 Difficulty = 60 Overall = 55.0 
+11. Pain Point: Device not suitable for larger cats Impact = 75 Difficulty = 65 Overall = 55.0 
+12. Pain Point: Device lacks hands-free feature Impact = 80 Difficulty = 70 Overall = 55.0 
+13. Pain Point: Device battery life too short for long walks Impact = 85 Difficulty = 75 Overall = 55.0 
+14. Pain Point: Device lacks GPS tracking for urban areas Impact = 80 Difficulty = 70 Overall = 55.0 
+15. Pain Point: Device not compatible with smartphone apps Impact = 75 Difficulty = 65 Overall = 55.0 

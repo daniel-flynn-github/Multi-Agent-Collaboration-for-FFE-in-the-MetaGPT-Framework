@@ -1,0 +1,3 @@
+Difficulty in understanding complex AI concepts
+Struggles with programming robot for complex tasks
+Challenges in pushing robot's capabilities

@@ -1,0 +1,3 @@
+
+Journey Map: 
+John starts his day by preparing his lesson plan, he includes a section on AI concepts using the AI educational robot. At school, he introduces the robot to his students, demonstrating its capabilities. The students are intrigued and engage in a hands-on session where they program the robot to perform simple tasks. During lunch, John uses the robot to explain more complex AI concepts. After school, he evaluates the students' progress and plans for the next day's lesson with the robot.

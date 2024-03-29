@@ -1,0 +1,23 @@
+Idea: Multi-Veg Peeler
+Idea Description: Multi-Veg Peeler is a versatile vegetable peeler that comes with interchangeable blades to handle different types of vegetables. The blades are easy to change and securely lock into place to ensure safety. The peeler is designed with a comfortable grip and is lightweight, making it suitable for outdoor use. This addresses the pain point of needing a peeler that can handle a variety of vegetables.
+PRODUCTIVITY:
+    Reasoning: The productivity of Multi-Veg Peeler could be increased due to its interchangeable blades.
+    Score: 8
+FUNCTIONALITY:
+    Reasoning: The functionality of Multi-Veg Peeler is superior to traditional peelers due to its interchangeable blades.
+    Score: 9
+RELIABILITY:
+    Reasoning: The reliability of Multi-Veg Peeler could be questionable due to the need for changing blades.
+    Score: 6
+SAFETY:
+    Reasoning: The safety of Multi-Veg Peeler is likely to be similar to traditional peelers, as it does not include any additional safety features.
+    Score: 5
+ECOLOGICALLY:
+    Reasoning: The ecological impact of Multi-Veg Peeler is not specified, but its design is likely to be similar to traditional peelers.
+    Score: 5
+AESTHETICS:
+    Reasoning: The design of Multi-Veg Peeler is likely to be practical and functional, which may not align with the aesthetics of other Portabread products.
+    Score: 6
+SUMMARY:
+    Summary: Multi-Veg Peeler scores high in productivity and functionality, but its reliability, safety, ecological impact, and aesthetics could be improved.
+    Average Score: 6.5

@@ -1,0 +1,3 @@
+
+Journey Map: 
+Alex Smith uses the robotic platform to develop innovative products at his tech company. He appreciates the platform's scalability, which allows him to train multiple deep learning models simultaneously. However, he finds the platform's interface complex and not very user-friendly. He spends a lot of time trying to understand the platform's features, which slows down his product development process.

@@ -1,0 +1,3 @@
+Autonomous features errors causing project delays
+Reliability issues in data collection tasks
+Inadequate troubleshooting resources for errors

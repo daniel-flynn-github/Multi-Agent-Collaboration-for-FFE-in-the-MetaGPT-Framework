@@ -1,0 +1,2 @@
+Idea: Automated Documentation Generator
+Idea Description: Another solution to the 'Insufficient documentation' pain point is to develop an automated documentation generator. This tool would automatically generate documentation from the code and comments in our software. This would ensure that the documentation is always up-to-date and accurate. The generator can be developed using existing tools like Doxygen or Javadoc.

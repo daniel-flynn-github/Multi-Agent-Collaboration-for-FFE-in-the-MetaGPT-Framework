@@ -1,0 +1,15 @@
+1. Pain Point: Difficulty accessing specific items in backpack Impact = 80 Difficulty = 60 Overall = 60.0 
+2. Pain Point: Inadequate space for educational materials Impact = 75 Difficulty = 60 Overall = 57.5 
+3. Pain Point: Struggle with weight distribution Impact = 60 Difficulty = 50 Overall = 55.0 
+4. Pain Point: Uncomfortable carrying eco-friendly backpack Impact = 60 Difficulty = 50 Overall = 55.0 
+5. Pain Point: Limited space for birdwatching equipment Impact = 70 Difficulty = 60 Overall = 55.0 
+6. Pain Point: Uncomfortable weight distribution during hike Impact = 70 Difficulty = 60 Overall = 55.0 
+7. Pain Point: Inconvenient access to camping equipment Impact = 70 Difficulty = 65 Overall = 52.5 
+8. Pain Point: Lack of specialized compartments for supplies Impact = 70 Difficulty = 65 Overall = 52.5 
+9. Pain Point: Lack of sufficient storage compartments Impact = 70 Difficulty = 70 Overall = 50.0 
+10. Pain Point: Inconvenient snack access during birdwatching Impact = 65 Difficulty = 65 Overall = 50.0 
+11. Pain Point: Limited space for textbooks and essentials Impact = 65 Difficulty = 65 Overall = 50.0 
+12. Pain Point: Limited durability on challenging terrains Impact = 75 Difficulty = 80 Overall = 47.5 
+13. Pain Point: Difficulty organizing belongings in backpack Impact = 65 Difficulty = 70 Overall = 47.5 
+14. Pain Point: Lack of organization for field guide and notes Impact = 60 Difficulty = 70 Overall = 45.0 
+15. Pain Point: Inconvenient access to study materials Impact = 60 Difficulty = 70 Overall = 45.0 

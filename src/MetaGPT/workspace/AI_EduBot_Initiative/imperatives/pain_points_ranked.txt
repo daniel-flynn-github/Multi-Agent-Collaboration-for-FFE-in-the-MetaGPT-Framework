@@ -1,0 +1,13 @@
+1. Pain Point: Limited time for project work Impact = 95 Difficulty = 60 Overall = 67.5 
+2. Pain Point: Limited time for planning next day Impact = 80 Difficulty = 50 Overall = 65.0 
+3. Pain Point: Limited time for providing feedback Impact = 80 Difficulty = 55 Overall = 62.5 
+4. Pain Point: Difficulty in assessing robot's performance Impact = 70 Difficulty = 60 Overall = 55.0 
+5. Pain Point: Challenges in reviewing students' projects Impact = 75 Difficulty = 65 Overall = 55.0 
+6. Pain Point: Complexity of programming tasks Impact = 85 Difficulty = 75 Overall = 55.0 
+7. Pain Point: Difficulty in solving complex problem Impact = 90 Difficulty = 80 Overall = 55.0 
+8. Pain Point: Difficulty in preparing lecture with robot Impact = 65 Difficulty = 60 Overall = 52.5 
+9. Pain Point: Challenges in solving real-world problem Impact = 85 Difficulty = 80 Overall = 52.5 
+10. Pain Point: Difficulty in applying coding skills Impact = 70 Difficulty = 75 Overall = 47.5 
+11. Pain Point: Challenges in observing student interaction Impact = 65 Difficulty = 70 Overall = 47.5 
+12. Pain Point: Challenges in incorporating robot in lesson plan Impact = 60 Difficulty = 70 Overall = 45.0 
+13. Pain Point: Difficulty in integrating robot into curriculum Impact = 75 Difficulty = 85 Overall = 45.0 

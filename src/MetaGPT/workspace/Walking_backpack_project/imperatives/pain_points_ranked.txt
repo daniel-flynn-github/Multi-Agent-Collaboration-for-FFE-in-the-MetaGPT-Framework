@@ -1,0 +1,15 @@
+1. Pain Point: Uncomfortable shoulder straps Impact = 85 Difficulty = 70 Overall = 57.5 
+2. Pain Point: Limited water bottle pockets Impact = 75 Difficulty = 60 Overall = 57.5 
+3. Pain Point: Insufficient space for bulky eco-supplies Impact = 85 Difficulty = 75 Overall = 55.0 
+4. Pain Point: Lack of designated trash compartment Impact = 80 Difficulty = 70 Overall = 55.0 
+5. Pain Point: Limited educational material storage Impact = 75 Difficulty = 65 Overall = 55.0 
+6. Pain Point: Inconvenient access to snacks Impact = 70 Difficulty = 65 Overall = 52.5 
+7. Pain Point: Lack of specialized gear compartments Impact = 80 Difficulty = 75 Overall = 52.5 
+8. Pain Point: Limited weight distribution options Impact = 75 Difficulty = 70 Overall = 52.5 
+9. Pain Point: Lack of ventilation for back Impact = 80 Difficulty = 80 Overall = 50.0 
+10. Pain Point: Difficulty in organizing small items Impact = 75 Difficulty = 75 Overall = 50.0 
+11. Pain Point: Confusing strap adjustments Impact = 70 Difficulty = 70 Overall = 50.0 
+12. Pain Point: Inadequate back support Impact = 75 Difficulty = 80 Overall = 47.5 
+13. Pain Point: Limited visibility of trail map Impact = 70 Difficulty = 75 Overall = 47.5 
+14. Pain Point: Inconvenient camera storage Impact = 70 Difficulty = 80 Overall = 45.0 
+15. Pain Point: Straps not adjustable for heavy loads Impact = 70 Difficulty = 85 Overall = 42.5 

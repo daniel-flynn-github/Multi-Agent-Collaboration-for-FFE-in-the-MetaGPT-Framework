@@ -1,0 +1,12 @@
+Name: Oliver Smith
+
+Age: 27
+
+Demographic: Single, Urban, Software Developer
+
+Biography: Oliver is a software developer living in London. He started indoor climbing two years ago and has become passionate about the sport. He is eager to transition to outdoor climbing but lacks the knowledge and equipment.
+
+Goals: To safely transition to outdoor climbing, to improve his climbing skills, to connect with nature.
+
+Frustrations: Lack of knowledge about outdoor climbing, lack of appropriate equipment, lack of climbing partners.
+

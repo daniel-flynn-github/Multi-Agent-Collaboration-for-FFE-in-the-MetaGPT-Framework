@@ -1,0 +1,3 @@
+
+Journey Map: 
+John starts his day by preparing his lesson plan for the computer science class. He includes a session on AI where he plans to use the AI educational robot. During the class, he uses the robot to explain complex AI concepts. The students interact with the robot, programming it to perform simple tasks. After the class, John collects feedback from the students about their experience with the robot.

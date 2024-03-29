@@ -1,0 +1,13 @@
+1. Pain Point: Time-consuming peeling Impact = 90 Difficulty = 40 Overall = 75.0 
+2. Pain Point: Tedious peeling task Impact = 85 Difficulty = 40 Overall = 72.5 
+3. Pain Point: Messy peeling process Impact = 80 Difficulty = 40 Overall = 70.0 
+4. Pain Point: Difficult to clean peeler Impact = 90 Difficulty = 50 Overall = 70.0 
+5. Pain Point: Hard to peel hard vegetables Impact = 70 Difficulty = 40 Overall = 65.0 
+6. Pain Point: Tiring peeling process Impact = 70 Difficulty = 50 Overall = 60.0 
+7. Pain Point: Risk of cutting himself Impact = 75 Difficulty = 60 Overall = 57.5 
+8. Pain Point: Lack of storage space Impact = 65 Difficulty = 60 Overall = 52.5 
+9. Pain Point: Safety concerns with kids Impact = 60 Difficulty = 70 Overall = 45.0 
+10. Pain Point: Concerns about environmental impact Impact = 60 Difficulty = 70 Overall = 45.0 
+11. Pain Point: Wishes for more eco-friendly peeler Impact = 60 Difficulty = 70 Overall = 45.0 
+12. Pain Point: Difficult outdoor peeling Impact = 50 Difficulty = 80 Overall = 35.0 
+13. Pain Point: Cleaning without running water Impact = 50 Difficulty = 90 Overall = 30.0 

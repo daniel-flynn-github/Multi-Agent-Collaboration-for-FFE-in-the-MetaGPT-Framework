@@ -1,0 +1,77 @@
+Idea: Terrain Sensing Insoles
+Idea Description: Develop a smart insole that can sense the type of terrain and provide feedback to the user. The insole will have sensors that can detect the hardness and texture of the surface. It will then send this information to a mobile app that will provide the climber with information about the terrain and suggest the best climbing techniques. This will help the climbers transitioning from indoor to outdoor climbing by giving them real-time information about the outdoor terrain.
+PRODUCTIVITY:
+    Reasoning: The integration of smart insoles into the production process may increase complexity but is feasible within the budget and timeframe.
+    Score: 7
+FUNCTIONALITY:
+    Reasoning: The terrain sensing insoles significantly enhance the shoe's functionality by providing real-time feedback to climbers.
+    Score: 9
+RELIABILITY:
+    Reasoning: The reliability of the shoe may be affected by the durability and accuracy of the sensors in the insoles.
+    Score: 7
+SAFETY:
+    Reasoning: The insoles enhance safety by providing climbers with information about the terrain.
+    Score: 9
+ECOLOGICALLY:
+    Reasoning: The environmental impact depends on the materials and technology used in the insoles, but Scarpa's commitment to sustainability is assumed to continue.
+    Score: 7
+AESTHETICS:
+    Reasoning: The aesthetics of the shoe are unlikely to be affected as the insoles are internal.
+    Score: 9
+SUMMARY:
+    Summary: The Terrain Sensing Insoles enhance functionality and safety, but may affect reliability and ecological impact, while aesthetics remain unaffected.
+    Average Score: 8
+COMPETITION:
+    Reasoning: While smart insoles exist in the market, none are specifically designed for climbing, giving Scarpa a potential competitive advantage.
+    Score: 8
+BUYER:
+    Reasoning: The terrain sensing insoles could provide valuable feedback to climbers, helping them adjust their techniques based on the terrain.
+    Score: 7
+MARKET:
+    Reasoning: The market for smart insoles is growing, and Scarpa could capitalize on this trend by introducing terrain sensing insoles for climbers.
+    Score: 8
+AVERAGE SCORE:
+    Reasoning: The terrain sensing insoles are innovative, meet customer needs, and could give Scarpa a competitive edge in the market.
+    Score: 7.67
+SALES VOLUME:
+    Reasoning: Terrain sensing insoles could boost sales volume by appealing to tech-savvy climbers and those seeking additional safety features.
+    Score: 7
+RATE OF RETURN:
+    Reasoning: The rate of return could be high due to the unique technology and potential for a higher price point.
+    Score: 7
+PAYBACK TIME:
+    Reasoning: The payback time might be longer due to the cost of developing and implementing the technology.
+    Score: 6
+AVERAGE SCORE:
+    Reasoning: The Terrain Sensing Insoles are a unique feature that could attract a niche market, but may require significant investment.
+    Score: 6.67
+NECESSITY:
+    Reasoning: Terrain Sensing Insoles are necessary as they provide real-time information about the outdoor terrain, which is crucial for climbers transitioning from indoor climbing.
+    Score: 7
+NOVELTY:
+    Reasoning: The idea of integrating sensors in insoles to provide real-time terrain information is novel in the climbing shoe industry.
+    Score: 8
+USEFULNESS:
+    Reasoning: The Terrain Sensing Insoles are useful as they provide valuable feedback to climbers, helping them adapt their climbing techniques based on the terrain.
+    Score: 8
+USABILITY:
+    Reasoning: The usability of the product is high as the insoles automatically sense the terrain and provide feedback via a mobile app.
+    Score: 7
+AVERAGE SCORE:
+    Reasoning: The Terrain Sensing Insoles are a necessary and novel feature that provides useful feedback to climbers, enhancing the usability of the product.
+    Score: 7.5
+IMPORTANCE:
+    Reasoning: Terrain Sensing Insoles would provide valuable real-time information, enhancing user safety and performance.
+    Score: 8
+EMPHASIS:
+    Reasoning: The smart insole technology would highlight Scarpa's innovative edge in the competitive outdoor footwear market.
+    Score: 8
+COMMITMENT:
+    Reasoning: Users would appreciate the personalized feedback, potentially increasing their commitment to the Scarpa brand.
+    Score: 7
+AFFORDABILITY:
+    Reasoning: The integration of sensor technology might increase the product's price, potentially affecting its affordability.
+    Score: 6
+AVERAGE SCORE:
+    Reasoning: The Terrain Sensing Insoles would be important and unique, likely increasing user commitment but potentially impacting affordability.
+    Score: 7.25

@@ -1,0 +1,14 @@
+1. Pain Point: Finds peeling time-consuming Impact = 100 Difficulty = 70 Overall = 65.0 
+2. Pain Point: Worries about peeler's sharpness Impact = 80 Difficulty = 50 Overall = 65.0 
+3. Pain Point: Traditional peeler is slow Impact = 100 Difficulty = 70 Overall = 65.0 
+4. Pain Point: Struggles to contain peels Impact = 60 Difficulty = 40 Overall = 60.0 
+5. Pain Point: Messy countertop Impact = 50 Difficulty = 30 Overall = 60.0 
+6. Pain Point: Risk of accidents in kitchen Impact = 80 Difficulty = 60 Overall = 60.0 
+7. Pain Point: Rushes meal prep Impact = 70 Difficulty = 60 Overall = 55.0 
+8. Pain Point: Slow and cumbersome process Impact = 90 Difficulty = 80 Overall = 55.0 
+9. Pain Point: Hand strain from peeling Impact = 80 Difficulty = 70 Overall = 55.0 
+10. Pain Point: Finds peeling tiring Impact = 70 Difficulty = 60 Overall = 55.0 
+11. Pain Point: Wishes for more efficient peeling Impact = 90 Difficulty = 80 Overall = 55.0 
+12. Pain Point: Delays in meal preparation Impact = 90 Difficulty = 80 Overall = 55.0 
+13. Pain Point: Standard peeler unsuitable for outdoors Impact = 40 Difficulty = 50 Overall = 45.0 
+14. Pain Point: Distracts from outdoor enjoyment Impact = 30 Difficulty = 40 Overall = 45.0 

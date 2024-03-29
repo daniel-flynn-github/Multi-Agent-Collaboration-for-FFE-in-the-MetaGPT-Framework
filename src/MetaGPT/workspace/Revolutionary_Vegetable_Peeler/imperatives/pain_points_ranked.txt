@@ -1,0 +1,10 @@
+1. Pain Point: Time-consuming peeling process Impact = 90 Difficulty = 70 Overall = 60.0 
+2. Pain Point: Messy kitchen after peeling Impact = 60 Difficulty = 40 Overall = 60.0 
+3. Pain Point: Difficult to clean peeler Impact = 100 Difficulty = 80 Overall = 60.0 
+4. Pain Point: Peeler inefficiency Impact = 80 Difficulty = 60 Overall = 60.0 
+5. Pain Point: Struggles with peeler Impact = 70 Difficulty = 50 Overall = 60.0 
+6. Pain Point: Fear of cutting herself Impact = 50 Difficulty = 30 Overall = 60.0 
+7. Pain Point: Hard to handle peeler Impact = 75 Difficulty = 55 Overall = 60.0 
+8. Pain Point: Worries about children using sharp peeler Impact = 65 Difficulty = 45 Overall = 60.0 
+9. Pain Point: Peeler adds to chores Impact = 55 Difficulty = 35 Overall = 60.0 
+10. Pain Point: Peeling process is challenging Impact = 85 Difficulty = 65 Overall = 60.0 

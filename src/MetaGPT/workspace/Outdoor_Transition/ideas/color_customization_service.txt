@@ -1,0 +1,77 @@
+Idea: Color Customization Service
+Idea Description: Offer a color customization service where customers can send in their existing climbing accessories to be professionally painted or dyed in their desired color. Scarpa can partner with experienced artisans or collaborate with local artists to provide high-quality color customization services. This service can cater to customers who want a unique color option that is not available in the standard product range, addressing the pain point of limited color options.
+PRODUCTIVITY:
+    Reasoning: Offering a color customization service may require additional time and resources for painting or dyeing, potentially affecting productivity.
+    Score: 4
+FUNCTIONALITY:
+    Reasoning: Color customization service does not directly impact the functionality of the climbing accessories.
+    Score: 5
+RELIABILITY:
+    Reasoning: Color customization service is unlikely to impact the reliability of the climbing accessories.
+    Score: 7
+SAFETY:
+    Reasoning: Color customization service does not pose any safety risks to the climbing accessories.
+    Score: 5
+ECOLOGICALLY:
+    Reasoning: Color customization service may increase waste due to the use of additional materials and processes.
+    Score: 3
+AESTHETICS:
+    Reasoning: Color customization service enhances the aesthetics of the climbing accessories by offering unique color options.
+    Score: 9
+SUMMARY:
+    Summary: Color customization service provides a moderate increase in technical value with an average score of 5.57.
+    Average Score: 
+COMPETITION:
+    Reasoning: Color customization service is highly competitive as it offers a unique and personalized option that differentiates Scarpa from competitors.
+    Score: 9
+BUYER:
+    Reasoning: Color customization service aligns with customer expectations as it provides a unique color option that is not available in the standard product range.
+    Score: 8
+MARKET:
+    Reasoning: Color customization service meets the market expectations by addressing the pain point of limited color options and offering a personalized and unique option.
+    Score: 8
+AVERAGE SCORE:
+    Reasoning: Color customization service is highly competitive with a score of 8.33.
+    Score: 
+SALES VOLUME:
+    Reasoning: The color customization service can cater to customers who want unique color options, potentially increasing sales volume.
+    Score: 7
+RATE OF RETURN:
+    Reasoning: The color customization service may require additional resources and partnership costs, which could affect the rate of return on investment.
+    Score: 4
+PAYBACK TIME:
+    Reasoning: The payback time may be extended due to the initial investment required for offering the color customization service.
+    Score: 3
+AVERAGE SCORE:
+    Reasoning: The idea of a color customization service has a positive impact on sales volume, but may have a slightly negative impact on the rate of return and payback time.
+    Score: 4.67
+NECESSITY:
+    Reasoning: Offering a color customization service will cater to customers who want unique color options not available in the standard product range.
+    Score: 7
+NOVELTY:
+    Reasoning: Color customization services for climbing accessories are not commonly provided, making this idea unique and appealing to customers.
+    Score: 8
+USEFULNESS:
+    Reasoning: Partnering with experienced artisans or local artists will ensure high-quality color customization services, satisfying customers' desire for customization.
+    Score: 7
+USABILITY:
+    Reasoning: Customers can easily send in their existing climbing accessories for professional color customization, making the service convenient and user-friendly.
+    Score: 7
+AVERAGE SCORE:
+    Reasoning: Customers will find the color customization service necessary, novel, useful, and usable, with an average score of 7.25.
+    Score: 7.25
+IMPORTANCE:
+    Reasoning: Color customization service will contribute to the importance of the product for users by offering a unique and personalized color option that is not available in the standard product range.
+    Score: 8
+EMPHASIS:
+    Reasoning: Color customization service will contribute to highlighting the product by providing a premium and exclusive service that caters to users' desire for a unique and customized gear.
+    Score: 9
+COMMITMENT:
+    Reasoning: Color customization service will contribute to commitment from the users by creating a strong emotional connection and sense of ownership through the personalized and customized gear.
+    Score: 8
+AFFORDABILITY:
+    Reasoning: Color customization service may slightly decrease the affordability of the product due to the additional cost associated with the professional painting or dyeing service.
+    Score: 4
+AVERAGE SCORE:
+    Reasoning: Color customization service will significantly enhance the importance, emphasis, and commitment of the product, but may slightly impact affordability, resulting in an average score of 7.25.
+    Score: 7.25
