@@ -2,7 +2,7 @@
 
 New Code:
 
-All the files in `src/MetaGPT/roles/...` other than the `Role.py` base class and `init.py`\\
+All the files in `src/MetaGPT/roles/...` other than the `Role.py` base class and `init.py`\
 All the files in `src/MetaGPT/actions/...` other than the `Action.py` base class, `init.py`, and `ActionOutput.py`
 
 Modified Code:
