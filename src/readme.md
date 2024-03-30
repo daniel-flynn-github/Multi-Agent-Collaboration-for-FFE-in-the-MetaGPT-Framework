@@ -2,8 +2,8 @@
 
 New Code:
 
-All the files in `src/MetaGPT/roles/...` other than the `Role.py` base class and init.py`
-All the files in `src/MetaGPT/actions/...` other than the `Action.py` base class and init.py`
+All the files in `src/MetaGPT/roles/...` other than the `Role.py` base class and `init.py`
+All the files in `src/MetaGPT/actions/...` other than the `Action.py` base class, `init.py`, and `ActionOutput.py`
 
 Modified Code:
 
@@ -24,7 +24,7 @@ You must first configure the LLM you choose to use and its API key in the corres
 Required `key.yaml` for GPT-3.5:
 
 `OPENAI_API_MODEL: "gpt-3.5-turbo-0125"`
-`OPENAI_API_KEY: "{your OpenAI api key"`
+`OPENAI_API_KEY: "{your OpenAI api key}"`
 
 OpenAI API credits can be purchased here: https://platform.openai.com/usage
 
