@@ -37,12 +37,13 @@ OpenAI API credits can be purchased here: https://platform.openai.com/usage
 
 ### Build steps
 
-Navigate to `.../src/MetaGPT/` in a console environment
-Run `pip install -r requirements. txt` to install the required packages
-Configure the LLM as described above
-Run `python startup.py` to execute the program
+Navigate to `.../src/MetaGPT/` in a console environment\
+Run `pip install -r requirements. txt` to install the required packages\
+Configure the LLM as described above\
+Run `python startup.py` to execute the program\
 
 ### Test steps
 
-Run `python startup.py -example_scenario` to load the program with an example innovation scenario. Observe the output in console and files that generated in `.../src/MetaGPT/workspace`
+Run `python startup.py -example_scenario` to load the program with an example innovation scenario.\
+Observe the output in console and files that generated in `.../src/MetaGPT/workspace`
 
