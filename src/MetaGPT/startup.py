@@ -6,7 +6,7 @@ import fire
 
 from metagpt.roles import (
     UserResearcher,
-    NeedsAnalyst,
+    Analyst,
     Innovator,
     Evaluator,
     Demonstrator,
@@ -27,7 +27,7 @@ async def startup(
     company.hire(
         [
             UserResearcher(),
-            NeedsAnalyst(),
+            Analyst(),
             Innovator(),
             Evaluator(),
             Demonstrator(),
@@ -154,7 +154,7 @@ def main(
     
     elif example_scenario == False:
         idea,idea_dict  = console_input()
-    elif example_scenario == False and idea_evaluator == False:
+    elif example_scenario == True and idea_evaluator == False:
         print("EXAMPLE SCENARIO:\n\n" + idea)
 
     asyncio.run(startup(idea, idea_dict, investment, n_round, idea_evaluator))

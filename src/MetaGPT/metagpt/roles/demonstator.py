@@ -21,10 +21,10 @@ class Demonstrator(Role):
         super().__init__(name, profile, goal, constraints)
 
 
-        # Initialize actions specific to the Architect role
+        #Initialise associated actions
         self._init_actions([Summarise])
 
-        # Set events or actions the Architect should watch or be aware of
+        #Set Actions to watch for
         self._watch([EvaluateSocialValue])
 
     
@@ -32,7 +32,9 @@ class Demonstrator(Role):
             logger.info(f"{self._setting}: ready to {self._rc.todo}")
             context = self.get_memories()
             needed_context = ""
+            #Look for best idea from evaluations
             best_idea_string = context[-1].content
+            #Look back through memory for steps taken to generate and select the best idea
             lines = best_idea_string.split("\n")
             best_idea = lines[0].replace("The best idea is: ", "")
             for c in context:
@@ -45,14 +47,15 @@ class Demonstrator(Role):
             needed_context += best_idea_string
             needed_context += ("\n\n Original Brief: \n" + context[0].content)
             logger.debug("\n#######################################################\nSUMMARISATION NEEDED CONTEXT: ",needed_context,"\n#######################################################\n")
+            #Run Summarise action
             response = await self._rc.todo.run(needed_context)
             logger.info(response)
+            #Publish response
             if isinstance(response, ActionOutput):
                 msg = Message(content=response.content, instruct_content=response.instruct_content,
                             role=self.profile, cause_by=type(self._rc.todo))
             else:
                 msg = Message(content=response, role=self.profile, cause_by=type(self._rc.todo))
             self._rc.memory.add(msg)
-            # logger.debug(f"{response}")
 
             return msg

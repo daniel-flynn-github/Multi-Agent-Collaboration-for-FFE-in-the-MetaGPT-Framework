@@ -64,18 +64,11 @@ class Summarise(Action):
     def __init__(self, name="", context=None, llm=None):
         super().__init__(name, context, llm)
 
-    def recreate_workspace(self, workspace: Path):
-        try:
-            shutil.rmtree(workspace)
-        except FileNotFoundError:
-            pass
-        workspace.mkdir(parents=True, exist_ok=True)
-
 
     def _save(self, summary):
         ws_name = summary.instruct_content.dict()["Project name"]
         workspace = WORKSPACE_ROOT / ws_name
-        self.recreate_workspace(workspace)
+        workspace.mkdir(parents=True, exist_ok=True)
         output_file = workspace / "summary.txt"
         output_file.write_text("\nSummary \n\Idea: " + summary.instruct_content.dict()["Idea name"] + "\n\nIdea Description: " + summary.instruct_content.dict()["Idea description"] + "\n\n Idea Justification: " + summary.instruct_content.dict()["Idea justification"])
  

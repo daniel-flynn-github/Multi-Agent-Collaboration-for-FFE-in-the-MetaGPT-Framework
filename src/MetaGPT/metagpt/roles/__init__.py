@@ -8,7 +8,7 @@
 
 from metagpt.roles.role import Role
 from metagpt.roles.user_researcher import UserResearcher
-from metagpt.roles.needs_analyst import NeedsAnalyst
+from metagpt.roles.analyst import Analyst
 from metagpt.roles.innovator import Innovator
 from metagpt.roles.evaluator import Evaluator
 from metagpt.roles.demonstator import Demonstrator
@@ -17,7 +17,7 @@ from metagpt.roles.demonstator import Demonstrator
 __all__ = [
     "Role",
     "UserResearcher",
-    "NeedsAnalyst",
+    "Analyst",
     "Innovator",
     "Evaluator",
     "Demonstrator",

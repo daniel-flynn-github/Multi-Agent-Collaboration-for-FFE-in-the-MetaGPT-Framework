@@ -22,6 +22,8 @@ class Innovator(Role):
     ) -> None:
         super().__init__(name, profile, goal, constraints)
 
+    
+        #Initialise an watch actions depending on the configuration (evaluating human ideas or llm generated ideas)
         self._init_actions([CreateIdeas])
         print("CONFIG.human_ideas: ", CONFIG.human_ideas)
         if CONFIG.human_ideas == False:
@@ -30,13 +32,14 @@ class Innovator(Role):
             self._watch({BossRequirement})
 
     async def _act(self) -> Message:
+        #Get required context from the environment
         logger.info(f"{self._setting}: ready to {self._rc.todo}")
         background = self.get_memories()[0].content
-        logger.info(str(self._rc.important_memory[0].content))
         needed_context = background + "\n" + (self._rc.important_memory[0]).content
-        logger.info(needed_context)
+        #Run the action
         response = (await self._rc.todo.run(needed_context))
         logger.info(response)
+        #Publish response to environment
         if isinstance(response, ActionOutput):
             msg = Message(content=response.content, instruct_content=response.instruct_content,
                         role=self.profile, cause_by=type(self._rc.todo))

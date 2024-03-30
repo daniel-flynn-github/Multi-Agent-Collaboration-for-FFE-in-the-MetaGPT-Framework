@@ -15,9 +15,8 @@ class Manager:
         self.llm = llm  # Large Language Model
         self.role_directions = {
             "BOSS": "UserResearcher",
-            "UserResearcher":"ExperienceAnalyst",
-            "ExperienceAnalyst":"NeedsAnalyst",
-            "NeedsAnalyst":"Innovator",
+            "UserResearcher":"Analyst",
+            "Analyst":"Innovator",
             "Innovator":"Evaluator",
             "Evaluator":"Demonstrator",
         }

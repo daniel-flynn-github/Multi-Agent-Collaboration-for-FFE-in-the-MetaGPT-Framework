@@ -1,15 +1,15 @@
-1. Pain Point: Heavy backpack causing fatigue Impact = 90 Difficulty = 70 Overall = 60.0 
-2. Pain Point: Difficulty accessing items in backpack Impact = 80 Difficulty = 60 Overall = 60.0 
-3. Pain Point: Backpack causing back pain during long walks Impact = 85 Difficulty = 70 Overall = 57.5 
-4. Pain Point: Uncomfortable backpack straps Impact = 85 Difficulty = 75 Overall = 55.0 
-5. Pain Point: Limited visibility of GPS device while hiking Impact = 75 Difficulty = 70 Overall = 52.5 
-6. Pain Point: Inconvenient access to emergency supplies Impact = 70 Difficulty = 65 Overall = 52.5 
-7. Pain Point: Struggling to adjust backpack straps for comfort Impact = 80 Difficulty = 75 Overall = 52.5 
-8. Pain Point: Backpack material causing discomfort during climb Impact = 85 Difficulty = 80 Overall = 52.5 
-9. Pain Point: Challenges in quickly accessing climbing gear Impact = 80 Difficulty = 75 Overall = 52.5 
-10. Pain Point: Inadequate support for heavy technical equipment Impact = 90 Difficulty = 85 Overall = 52.5 
-11. Pain Point: Difficulty managing multiple backpacks for kids Impact = 75 Difficulty = 80 Overall = 47.5 
-12. Pain Point: Limited space for carrying nature exploration tools Impact = 75 Difficulty = 80 Overall = 47.5 
-13. Pain Point: Lack of protection for fragile items in backpack Impact = 70 Difficulty = 75 Overall = 47.5 
-14. Pain Point: Lack of organization in backpack Impact = 70 Difficulty = 80 Overall = 45.0 
-15. Pain Point: Lack of storage compartments in backpack Impact = 70 Difficulty = 85 Overall = 42.5 
+1. Pain Point: Lack of water bottle holder Impact = 85 Difficulty = 65 Overall = 60.0 
+2. Pain Point: Uncomfortable straps Impact = 90 Difficulty = 75 Overall = 57.5 
+3. Pain Point: Limited color options Impact = 80 Difficulty = 70 Overall = 55.0 
+4. Pain Point: Insufficient educational material storage Impact = 85 Difficulty = 75 Overall = 55.0 
+5. Pain Point: Limited camera gear organization Impact = 80 Difficulty = 70 Overall = 55.0 
+6. Pain Point: Inadequate padding for equipment Impact = 85 Difficulty = 80 Overall = 52.5 
+7. Pain Point: Unorganized field guide storage Impact = 80 Difficulty = 75 Overall = 52.5 
+8. Pain Point: Unstable backpack base Impact = 80 Difficulty = 80 Overall = 50.0 
+9. Pain Point: Inadequate phone pocket size Impact = 75 Difficulty = 80 Overall = 47.5 
+10. Pain Point: Inconvenient access to water bottle Impact = 75 Difficulty = 85 Overall = 45.0 
+11. Pain Point: Lack of binoculars protection Impact = 75 Difficulty = 85 Overall = 45.0 
+12. Pain Point: No designated notebook slot Impact = 70 Difficulty = 80 Overall = 45.0 
+13. Pain Point: Difficulty adjusting straps Impact = 70 Difficulty = 85 Overall = 42.5 
+14. Pain Point: Difficulty accessing snacks Impact = 70 Difficulty = 90 Overall = 40.0 
+15. Pain Point: Lack of ventilation Impact = 60 Difficulty = 90 Overall = 35.0 
