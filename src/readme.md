@@ -17,7 +17,7 @@ DISCLAIMER: ALL OTHER CODE IS FROM THE ORIGINAL METAGPT PROJECT AND IS NOT MY OW
 
 ## Build instructions
 
-## CONFIGURATION:
+## Configuration:
 
 You must first configure the LLM you choose to use and its API key in the corresponding fields found in `.../src/MetaGPT/config/key.yaml`. This version of MetaGPT only reliably supports GPT-3 and GPT-4 models. To gain access to API credits, a payment will have to be made to OpenAI. A run with GPT-3 only costs approximatley 7 cents. A run with GPT-4 costs upwards of a dollar.
 
