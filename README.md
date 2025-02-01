@@ -1,7 +1,7 @@
-# Readme
+# Multi Agent-Collaboration for FFE in the MetaGPT Framework
 
 **Repository for: Multi-Agent-Collaboration-for-FFE-in-the-MetaGPT-Framework Dissertation Project**\
-Paper: [dissertation-paper.pdf](Paper)
+[Report](./dissertation-paper.pdf)
 
 
 
