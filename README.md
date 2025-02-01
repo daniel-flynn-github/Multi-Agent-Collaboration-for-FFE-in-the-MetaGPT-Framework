@@ -1,6 +1,6 @@
 # Readme
 
-**Repository for: Multi-Agent-Collaboration-for-FFE-in-the-MetaGPT-Framework Dissertaion Project**\
+**Repository for: Multi-Agent-Collaboration-for-FFE-in-the-MetaGPT-Framework Dissertation Project**\
 Paper: [dissertation-paper.pdf](Paper)
 
 
